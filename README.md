@@ -29,7 +29,7 @@ The goal of this course is to give students exposure to the nuance of applying m
 ### Teaching Assistants
 | Riyaz Panjwani | Abhishek Parikh |
 | --- | --- | 
-| Photo <br /> Office Hours: <br /> TBD | Photo <br /> Office Hours: <br /> TBD |
+| <img src='/riyaz.jpg' /> <br /> Office Hours: <br /> TBD | Photo <br /> Office Hours: <br /> TBD |
 
 ## Grading 
 
