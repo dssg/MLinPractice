@@ -1,4 +1,4 @@
-# Required and optiopnal readings for the semester
+# Required and optional readings for the semester
 
 ## Lecture 2 - ML Project Scoping
 ### Required Reading:
