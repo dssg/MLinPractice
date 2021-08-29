@@ -33,7 +33,7 @@ The goal of this course is to give students exposure to the nuance of applying m
 
 ## Grading 
 
-Note that this course is being offered pass/fail. 
+Note that this course is being offered pass/fail. Each time you ask how each action you take will affect your grade will result in lowering of the grade.
 
 Weekly project update assignments (10%)
 
