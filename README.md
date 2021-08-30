@@ -14,7 +14,7 @@
 
 This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, exploring the interface between research and practice, with a particular focus on topics in fairness and explainability.
 
-The goal of this course is to give students exposure to the nuance of applying machine learning to the real-world, where common assumptions (like iid and stationarity) break down, and the growing needs for (and limitations of) approaches to improve fairness and explainability of these applications. Through project assignments, lectures, discussions, and readings, students will learn about and experience building machine learning systems for real-world problems and data, as well as applying and evaluating the utility of proposed methods for enhancing the interpretability and fairness of machine learning models. Through the course, students will develop skills in problem formulation, working with messy data, making ML design choices appropriate for the problem at hand, model selection, model interpretability, understanding and mitigating algorithmic bias \& disparities, and evaluating the impact of deployed models.
+The goal of this course is to give students exposure to the nuance of applying machine learning to the real-world, where common assumptions (like iid and stationarity) break down, and the growing needs for (and limitations of) approaches to improve fairness and explainability of these applications. Through project assignments, lectures, discussions, and readings, students will learn about and experience building machine learning systems for real-world problems, as well as applying and evaluating the utility of proposed methods for enhancing the interpretability and fairness of machine learning models. Through the course, students will develop skills in problem formulation, working with messy data, making ML design choices appropriate for the problem at hand, model selection, model interpretability, understanding and mitigating algorithmic bias \& disparities, and evaluating the impact of deployed models.
 
 **[DRAFT SYLLABUS](/syllabus.pdf)**
 
@@ -27,6 +27,8 @@ The goal of this course is to give students exposure to the nuance of applying m
 | <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  TBD | <img src='/kit_rodolfa.png' /> <br /> GHC 8018 <br /> Office Hours: <br /> TBD |
 
 ### Teaching Assistants
+TAs are primarilty responsible for managing the compute infrastructure and help with technical and connection issues.
+
 | Riyaz Panjwani | Abhishek Parikh |
 | --- | --- | 
 | Photo <br /> Office Hours: <br /> TBD | Photo <br /> Office Hours: <br /> TBD |
