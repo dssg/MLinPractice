@@ -31,7 +31,7 @@ TAs are primarilty responsible for managing the compute infrastructure and help 
 
 | Riyaz Panjwani | Abhishek Parikh |
 | --- | --- | 
-| <img src='/riyaz_panjwani.jpeg' /> <br /> Office Hours: <br /> TBD | Photo <br /> Office Hours: <br /> TBD |
+| <img src='/riyaz_panjwani.jpeg' /> <br /> Office Hours: <br /> TBD | <img src='abhishek-parikh_400x400.jpeg' width='200' height='200' /> <br /> Office Hours: <br /> TBD |
 
 ## Grading 
 
