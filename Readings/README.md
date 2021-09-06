@@ -14,7 +14,7 @@
 
 ## Lecture 4 - Analytical Formulation and Baselines
 ### Required Readings :
-- Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations by Obermeyer, Z., Powers, B., et al. Science. 2019. [Available Online](https://science.sciencemag.org/content/sci/366/6464/447.full.pdf)
+- Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations by Obermeyer, Z., Powers, B., et al. Science. 2019. [Available Online](https://www.ehidc.org/sites/default/files/resources/files/Dissecting%20racial%20bias%20in%20an%20algorithm%20used%20to%20manage%20the%20health%20of%20populations.pdf)
 
 ### Optional Readings:
 - Always Start with a Stupid Model, No Exceptions by Ameisen, E. Medium. [Available Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
