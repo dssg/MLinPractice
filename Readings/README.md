@@ -22,3 +22,17 @@
 - Create a Common-Sense Baseline First by Ramakrishnan. Medium. [Available Online](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47)
 - Chapter 2: Business Problems and Data Science in Data Science for Business by Provost and Fawcett. O’Reilly. 2013. [Available Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
 
+## Lecture 5 - Model Selection Methodologies
+### Required Readings for Tuesday:
+
+- Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic
+structure by Roberts, DR, Bahn, V, et al. Ecography 40:2017. [Available Online](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.02881)
+
+### Optional Readings:
+
+- Time Series Nested Cross-Validation by Cochrane, C. Medium. [Available Online](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
+- Section 7 of Chapter 7 in Data and Social Science (2nd edition) edited by Foster, Ghani, et al. Chapter 7: Machine Learning. [Available Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
+- The Secrets of Machine Learning by Rudin, C. and Carlson, D. arXiv preprint: 1906.01998. 2019. [Available Online](https://arxiv.org/abs/1906.01998)
+
+## Lecture 6 - Evaluation/Performance Metrics
+
