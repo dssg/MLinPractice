@@ -15,7 +15,7 @@
 ## Lecture 4 - Analytical Formulation and Baselines
 ### Required Readings :
 - Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations by Obermeyer, Z., Powers, B., et al. Science. 2019. [Available Online](ObermeyerBias.pdf)
-- Late addition but worth reading: Problem Formulation and Fairness. Passi and Barocas. Conference on Fairness, Accountability, and Transparency (FAT* '19), [Available Online](https://arxiv.org/pdf/1901.02547.pdf)
+- Late addition but worth reading: Problem Formulation and Fairness. Passi and Barocas. Conference on Fairness, Accountability, and Transparency (FAT* '19), [Available Online](PassiFormulation.pdf)
 
 ### Optional Readings:
 - Always Start with a Stupid Model, No Exceptions by Ameisen, E. Medium. [Available Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
