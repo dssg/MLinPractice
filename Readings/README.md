@@ -30,6 +30,7 @@ structure by Roberts, DR, Bahn, V, et al. Ecography 40:2017. [Available Online](
 ### Optional Readings:
 
 - Time Series Nested Cross-Validation by Cochrane, C. Medium. [Available Online](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
+- A survey of cross-validation procedures for model selection. Sylvain Arlot, Alain Celisse. Statistics Surveys, Statist. Surv. 4(none), 40-79, (2010) [Available Online](PDF/cvsurvey.pdf)
 - Section 7 of Chapter 7 in Data and Social Science (2nd edition) edited by Foster, Ghani, et al. Chapter 7: Machine Learning. [Available Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 - The Secrets of Machine Learning by Rudin, C. and Carlson, D. arXiv preprint: 1906.01998. 2019. [Available Online](https://arxiv.org/abs/1906.01998)
 
