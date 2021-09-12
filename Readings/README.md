@@ -23,23 +23,21 @@
 - Chapter 2: Business Problems and Data Science in Data Science for Business by Provost and Fawcett. O’Reilly. 2013. [Available Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
 
 ## Lecture 5 - Model Selection Methodologies
+### Required Reading:
+- Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic
+structure by Roberts, DR, Bahn, V, et al. Ecography 40:2017. [Available Online](PDF/RobertsCV.pdf)
+
 ### Optional Readings:
 
 - Time Series Nested Cross-Validation by Cochrane, C. Medium. [Available Online](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
 - Section 7 of Chapter 7 in Data and Social Science (2nd edition) edited by Foster, Ghani, et al. Chapter 7: Machine Learning. [Available Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 - The Secrets of Machine Learning by Rudin, C. and Carlson, D. arXiv preprint: 1906.01998. 2019. [Available Online](https://arxiv.org/abs/1906.01998)
-- Big Data and Social Science (2nd edition) edited by Foster, Ghani, et al. Chapter 7: Machine Learning. [Available Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
 ## Lecture 6 - Evaluation/Performance Metrics
 ### Required Reading:
 
 - Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic
 structure by Roberts, DR, Bahn, V, et al. Ecography 40:2017. [Available Online](PDF/RobertsCV.pdf)
-
-### Optional Readings:
-- Missing Data Conundrum by Akinfaderin, W. Medium. [Available Online](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
-- Feature Engineering for Machine Learning by Zhang, A. and Casari, A. O'Reilly. 2018. Chapter 2: Fancy Tricks with Simple Numbers [Available Online](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
-- Missing-data imputation by Gelman, A. [Available Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
 ## Lecture 7 - Feature Engineering and Imputation
 ### Optional Readings:
