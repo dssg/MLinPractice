@@ -65,22 +65,27 @@ No readings for this class.
 -   *Three Pitfalls to Avoid in Machine Learning* by Riley, P. Nature. 527. 2019 (Comment) [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
 -   *Top 10 ways your Machine Learning models may have leakage* by Ghani, R. et al. DSSG Blog. [Available Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
 
-## Lecture 12 - Model Interpretability Overview
+## Lecture 12 - ML Ethics and Fairness Overview
+### Required Readings:
+-   *Ethics and Data Science* by Loukides, M., Mason, H., and Patil, D.J. O’Reilly (2018). Entire Book (don’t worry – it’s short!) [Available Online](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (When prompted to select institution, select ’Not listed? Click here’ and enter your CMU email address to access content)
+-   Princeton Ethics Case Study 6: Public Sector Data Analysis [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf)
+
+## Lecture 13 - Model Interpretability Overview
 ### Required Readings:
 -   *Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions* by Amarasinghe, K., et al. arXiv preprint: arxiv/2010.14374 [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/AmarasingheExplainable.pdf)
 -   *Benchmarking and Survey of Explanation Methods for Black Box Models* by Bodria, F., et al. arXiv preprint: arxiv/2102.13076 [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
-## Lecture 13 - Practical Understanding of ML Models
+## Lecture 14 - Practical Understanding of ML Models
 ### Required Readings:
 - TBD
 
-## Lecture 14 - Inherently-Interpretable Methods
+## Lecture 15 - Inherently-Interpretable Methods
 ### Required Readings **to Skim**:
 -   *Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission* by Caruana, R, et al. KDD 2015. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/CaruanaGAM.pdf)
 -   *Optimized Scoring Systems: Toward Trust in Machine Learning for Healthcare and Criminal Justice* by Rudin, C, and Usutn, B. INFORMS Journal on Applied Analytics. 2018. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/UstunRudinINFORMS.pdf)
 -   *Interpretable Decision Sets: A Joint Framework for Description and Prediction* by Lakkaraju, H, et al. KDD 2016. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LakkarajuDecisionSets.pdf)
 
-## Lecture 15 - Post-Hoc Local Explanations
+## Lecture 16 - Post-Hoc Local Explanations
 ### Required Readings **to Skim**:
 -   *Why Should I Trust You? Explaining the Predictions of any Classifier* by Ribeiro, MT, Singh, S, and Guestrin, C. KDD 2016. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RibeiroLIME.pdf)
 -   *A Unified Approach to Interpreting Model Predictions* by Lundberg, SM and Lee, S. NIPS 2017. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LundbergSHAP.pdf)
@@ -90,21 +95,16 @@ No readings for this class.
 -   *Explainable machine-learning predictions for the prevention of hypoxaemia during surgery* by Lundberg, SM, Nair, B, et al. Nature Biomed. Eng. 2018. [Available Online](https://www.nature.com/articles/s41551-018-0304-0.pdf)
 -   *Explainable AI for Trees* by Lundberg, SM, Erion, G, et al. arXiv preprint: arxiv/1905.04610. [Available Online](https://arxiv.org/pdf/1905.04610.pdf)
 
-## Lecture 16 - Other Interpretability Methods
+## Lecture 17 - Other Interpretability Methods
 ### Required Readings **to Skim**:
 -   *Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations* by Mothilal, R, et al. FAT\* 2020. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/MothilalCounterfactual.pdf)
 -   *Understanding Black-box Predictions via Influence Functions* by Koh, P.W. and Liang, P. ICML 2017. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/KohInfluenceFunctions.pdf)
 -   *Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable* by Tan, S., et al. FODS 2020. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/TanPrototypes.pdf)
 
-## Lecture 17 - Module II Review
+## Lecture 18 - Module II Review
 No readings for this class.
 
-## Lecture 18 - ML Ethics and Fairness Overview
-### Required Readings:
--   *Ethics and Data Science* by Loukides, M., Mason, H., and Patil, D.J. O’Reilly (2018). Entire Book (don’t worry – it’s short!) [Available Online](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (When prompted to select institution, select ’Not listed? Click here’ and enter your CMU email address to access content)
--   Princeton Ethics Case Study 6: Public Sector Data Analysis [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf)
-
-## Lecture 18 - Intro to Fairness
+## Lecture 19 - Intro to Fairness
 ### Required Readings:
 -   *Fairness Definitions Explained* by Verma, S and Rubin, J. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf)
 -   *A Theory of Justice* by Rawls, J. 1971. Chapter 1: Justice as Fairness, pp. 1-19. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf)
@@ -115,7 +115,7 @@ No readings for this class.
 -   *Does Mitigating ML’s Impact Disparity Require Treatment Disparity?* by Lipton, Z, McAuley, J, and Chouldechova, A. NIPS 2018. [Available Online](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity)
 -   *Equality of Opportunity* by Roemer, JE and Trannoy, A. 2013. [Available Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
-## Lecture 19 - Pre-Processing FairML Methods
+## Lecture 20 - Pre-Processing FairML Methods
 ### Required Readings **to Skim** :
 -   *Interventional Fairness: Causal Database Repair for Algorithmic Fairness* by Salimi, B., et al. SIGMOD 2019. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/SalimiDatabaseRepair.pdf)
 -   *Data preprocessing techniques for classification without discrimination* by Kamiran, F. and Calders, T. Knowledge Information Systems (2012). [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/KamiranPreprocessing.pdf)
@@ -124,7 +124,7 @@ No readings for this class.
 ### Optional Reading:
 -   *Fairness Through Awareness* by Dwork, C, Hardt, M, et al. ITCS 2012. [Available Online](https://dl.acm.org/citation.cfm?id=2090255)
 
-## Lecture 20 - In-Processing FairML Methods
+## Lecture 21 - In-Processing FairML Methods
 ### Required Readings **to Skim**:
 -   *Fairness Constraints: Mechanisms for Fair Classification* Zafar, M, Valera I, et al. PMLR 2017. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ZafarConstraints.pdf)
 -   *Classification with fairness constraints: A meta-algorithm with provable guarantees* by Celis, E, Huang, L, et al. FAT\* 2019. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/CelisFairConstraint.pdf)
@@ -133,7 +133,7 @@ No readings for this class.
 ### Optional Readings:
 -   *Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment* by Zafar, M., et al. WWW 2017. [Available Online](https://dl.acm.org/doi/pdf/10.1145/3038912.3052660?casa_token=QuGrvlIf8bcAAAAA:9dUP_TCcEQFAXQc8BXmjlUtWQGzKehUolZBIvveQX1-Sj2KDeSdtZpzQG98TKi4BN6NTeizZKXtDaVI)
 
-## Lecture 21 - Post-Process FairML Methods
+## Lecture 22 - Post-Process FairML Methods
 ### Required Readings **to Skim**:
 -   *Promoting Fairness through Hyperparameter Optimization* by Cruz, A.F., et al. arXiv preprint: arxiv/2103.12715 [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/CruzHyperparameter.pdf)
 -   *Decoupled Classifiers for Group-Fair and Efficient Machine Learning* by Dwork, C, et al. PMLR 2018. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/DworkDecoupled.pdf)
@@ -142,15 +142,15 @@ No readings for this class.
 ### Optional Readings:
 -   *Case study: predictive fairness to reduce misdemeanor recidivism through social service interventions* by Rodolfa, K.T., et al. FAT\* 2020. [Available Online](https://arxiv.org/pdf/2001.09233)
 
-## Lecture 22 - Module III Review
+## Lecture 23 - Module III Review
 No readings for this class
 
-## Lecture 23 - Field Trials and Causality
+## Lecture 24 - Field Trials and Causality
 ### Required Reading:
 -   *The seven tools of causal inference, with reflections on machine learning* by Pearl, J. Comm ACM. 2019 [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf)
 
 ### Optional Reading:
 -   *Elements of Causal Inference* by Peters et al. MIT Press. Chapters 1 and 2. [Available Online (Open Access Link)](https://mitpress.mit.edu/books/elements-causal-inference)
 
-## Lecture 24 - Wrap-Up
+## Lecture 25 - Wrap-Up
 No readings for this class
