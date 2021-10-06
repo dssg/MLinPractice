@@ -76,13 +76,14 @@ No readings for this class.
 -   *Benchmarking and Survey of Explanation Methods for Black Box Models* by Bodria, F., et al. arXiv preprint: arxiv/2102.13076 [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
 ## Lecture 14 - Practical Understanding of ML Models
-### Required Readings:
-- TBD
+No readings for this class.
 
 ## Lecture 15 - Inherently-Interpretable Methods
 ### Required Readings **to Skim**:
 -   *Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission* by Caruana, R, et al. KDD 2015. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/CaruanaGAM.pdf)
 -   *Optimized Scoring Systems: Toward Trust in Machine Learning for Healthcare and Criminal Justice* by Rudin, C, and Usutn, B. INFORMS Journal on Applied Analytics. 2018. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/UstunRudinINFORMS.pdf)
+
+### Optional Readings:
 -   *Interpretable Decision Sets: A Joint Framework for Description and Prediction* by Lakkaraju, H, et al. KDD 2016. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LakkarajuDecisionSets.pdf)
 
 ## Lecture 16 - Post-Hoc Local Explanations
@@ -91,13 +92,16 @@ No readings for this class.
 -   *A Unified Approach to Interpreting Model Predictions* by Lundberg, SM and Lee, S. NIPS 2017. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LundbergSHAP.pdf)
 -   *Model Agnostic Supervised Local Explanations* by Plumb, G, Molitor, D, and Talwalkar, AS. NIPS 2018. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PlumbMAPLE.pdf)
 
-### Optional Readings for Tuesday:
+### Optional Readings:
 -   *Explainable machine-learning predictions for the prevention of hypoxaemia during surgery* by Lundberg, SM, Nair, B, et al. Nature Biomed. Eng. 2018. [Available Online](https://www.nature.com/articles/s41551-018-0304-0.pdf)
 -   *Explainable AI for Trees* by Lundberg, SM, Erion, G, et al. arXiv preprint: arxiv/1905.04610. [Available Online](https://arxiv.org/pdf/1905.04610.pdf)
 
 ## Lecture 17 - Other Interpretability Methods
 ### Required Readings **to Skim**:
 -   *Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations* by Mothilal, R, et al. FAT\* 2020. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/MothilalCounterfactual.pdf)
+-   *Efficient Data Representation by Selecting Prototypes with Importance Weights* by Gurumoorthy, K.S., et al. arXiv preprint: arxiv/1707.01212. [Available Online](https://arxiv.org/pdf/1707.01212)
+
+### Optional Readings:
 -   *Understanding Black-box Predictions via Influence Functions* by Koh, P.W. and Liang, P. ICML 2017. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/KohInfluenceFunctions.pdf)
 -   *Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable* by Tan, S., et al. FODS 2020. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/TanPrototypes.pdf)
 
@@ -116,6 +120,7 @@ No readings for this class.
 -   *Equality of Opportunity* by Roemer, JE and Trannoy, A. 2013. [Available Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
 ## Lecture 20 - Pre-Processing FairML Methods
+Note for this week that the presenting groups should focus on these strategies gen- erally, rather than one specific implementation in the readings here (which are provided as examples of these approaches).
 ### Required Readings **to Skim** :
 -   *Interventional Fairness: Causal Database Repair for Algorithmic Fairness* by Salimi, B., et al. SIGMOD 2019. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/SalimiDatabaseRepair.pdf)
 -   *Data preprocessing techniques for classification without discrimination* by Kamiran, F. and Calders, T. Knowledge Information Systems (2012). [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/KamiranPreprocessing.pdf)
