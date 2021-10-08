@@ -12,6 +12,36 @@
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/25316)**
  - **Class communication and announcements will be primarily through Slack**
 
+### Module II & III Presentation/Discussant Assignments
+
+**MODULE 2 –– INTERPRETABILITY**
+
+| date                         | method/approach | presenting group | discussant group |
+| ---------------------------- | --------------- | ---------------- | ---------------- |
+| Tue, Oct 26                  | GAMs | effective\_analytics | team\_16 |
+| Tue, Oct 26                  | RiskSLIM | team\_15 | team\_6 |
+| Thu, Oct 28                  | LIME | team\_14 | lucky\_13 |
+| Thu, Oct 28                  | SHAP | team\_12 | quack |
+| Thu, Oct 28                  | MAPLE | wuhu | team\_4 |
+| Tue, Nov 2                   | DiCE | team\_5 | taaab |
+| Tue, Nov 2                   | ProtoDash | k\_means\_girls | hmm |
+
+**MODULE 3 –– FAIRNESS**
+
+| date                         | method/approach | presenting group | discussant group |
+| ---------------------------- | --------------- | ---------------- | ---------------- |
+| Thu, Nov 11                  | Removing Sensitive Features | team\_16 | effective\_analytics |
+| Thu, Nov 11                  | Resampling - Under and Over | team\_4 | wuhu |
+| Tue, Nov 16                  | Zafar In-Processing | team\_rocket | team\_14 |
+| Tue, Nov 16                  | Celis In-Processing | lucky\_13 | team\_12 |
+| Tue, Nov 16                  | FairLearn In-Processing | team\_6 | team\_15 |
+| Thu, Nov 18                  | Model Selection | hmm | k\_means\_girls |
+| Thu, Nov 18                  | Decoupled Classifiers | taaab | team\_5 |
+| Thu, Nov 18                  | Score Adjustments | quack | team\_rocket |
+
+
+### Class Description
+
 This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, exploring the interface between research and practice, with a particular focus on topics in fairness and explainability.
 
 The goal of this course is to give students exposure to and experience the nuance of applying machine learning to real-world problems, where common assumptions (like iid and stationarity) break down, and the growing needs for (and limitations of) approaches to improve fairness and explainability of these applications. Through project assignments, lectures, discussions, and readings, students will learn about and experience building machine learning systems for real-world problems, as well as applying and evaluating the utility of proposed methods for enhancing the interpretability and fairness of machine learning models. Through the course, students will develop skills in problem scoping and formulation, getting, storing, linking, and working with messy data, making ML pipeline design choices appropriate for the problem at hand, exploring approaches for model selection, model interpretability, as well as understanding and mitigating algorithmic bias \& disparities, and evaluating the impact of deployed models.
