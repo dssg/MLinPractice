@@ -31,13 +31,13 @@
 | date                         | method/approach | presenting group | discussant group |
 | ---------------------------- | --------------- | ---------------- | ---------------- |
 | Thu, Nov 11                  | Removing Sensitive Features | team\_16 | effective\_analytics |
-| Thu, Nov 11                  | Resampling - Under and Over | team\_4 | wuhu |
+| Thu, Nov 11                  | Resampling - Under and Over | quack | wuhu |
 | Tue, Nov 16                  | Zafar In-Processing | team\_rocket | team\_14 |
 | Tue, Nov 16                  | Celis In-Processing | lucky\_13 | team\_12 |
 | Tue, Nov 16                  | FairLearn In-Processing | team\_6 | team\_15 |
 | Thu, Nov 18                  | Model Selection | hmm | k\_means\_girls |
 | Thu, Nov 18                  | Decoupled Classifiers | taaab | team\_5 |
-| Thu, Nov 18                  | Score Adjustments | quack | team\_rocket |
+| Thu, Nov 18                  | Score Adjustments | team\_4 | team\_rocket |
 
 
 ### Class Description
