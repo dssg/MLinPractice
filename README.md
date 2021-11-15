@@ -36,8 +36,8 @@
 | Thu, Nov 18                  | Model Selection | hmm | k\_means\_girls |
 | Thu, Nov 18                  | Decoupled Classifiers | taaab | team\_5 |
 | Thu, Nov 18                  | Score Adjustments | team\_4 | team\_rocket |
-| Thu, Nov 23                  | Removing Sensitive Features | team\_16 | effective\_analytics |
-| Thu, Nov 23                  | Resampling - Under and Over | quack | wuhu |
+| Tue, Nov 23                  | Removing Sensitive Features | team\_16 | effective\_analytics |
+| Tue, Nov 23                  | Resampling - Under and Over | quack | wuhu |
 
 ### Class Description
 
