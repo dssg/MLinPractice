@@ -12,33 +12,6 @@
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/25316)**
  - **Class communication and announcements will be primarily through Slack**
 
-### Module II & III Presentation/Discussant Assignments
-
-**MODULE 2 –– INTERPRETABILITY**
-
-| date                         | method/approach | presenting group | discussant group |
-| ---------------------------- | --------------- | ---------------- | ---------------- |
-| Thu, Oct 28                  | GAMs | effective\_analytics | team\_16 |
-| Thu, Oct 28                  | RiskSLIM | team\_15 | team\_6 |
-| Tue, Nov 2                  | LIME | team\_14 | lucky\_13 |
-| Tue, Nov 2                  | SHAP | team\_12 | quack |
-| Tue, Nov 2                  | MAPLE | wuhu | team\_4 |
-| Thu, Nov 4                   | DiCE | team\_5 | taaab |
-| Thu, Nov 4                   | ProtoDash | k\_means\_girls | hmm |
-
-**MODULE 3 –– FAIRNESS**
-
-| date                         | method/approach | presenting group | discussant group |
-| ---------------------------- | --------------- | ---------------- | ---------------- |
-| Tue, Nov 16                  | Zafar In-Processing | team\_rocket | team\_14 |
-| Tue, Nov 16                  | Celis In-Processing | lucky\_13 | team\_12 |
-| Tue, Nov 16                  | FairLearn In-Processing | team\_6 | team\_15 |
-| Thu, Nov 18                  | Model Selection | hmm | k\_means\_girls |
-| Thu, Nov 18                  | Decoupled Classifiers | taaab | team\_5 |
-| Thu, Nov 18                  | Score Adjustments | team\_4 | team\_rocket |
-| Tue, Nov 23                  | Removing Sensitive Features | team\_16 | effective\_analytics |
-| Tue, Nov 23                  | Resampling - Under and Over | quack | wuhu |
-
 ### Class Description
 
 This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, exploring the interface between research and practice, with a particular focus on topics in fairness and explainability.
@@ -119,3 +92,33 @@ See the **[syllabus](/syllabus.pdf)** for much more detail as well, including in
 | 14   | Th: Dec 2        | [Wrap-Up: Key points to take away from the semester](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture21-Wrapup.pptx)                                                                                                                                                                   |                                                                                                                                                                                   |                                                                                                                                       |
 | 15   | Tu: Dec 7        | No Class - Finals Week                                                                                                                                                      |                                                                                                                                                                                   |                                                                                                                                       |
 | 15   | Th: Dec 9        | No Class - Finals Week                                                                                                                                                      |                                                                                                                                                                                   | Final Writeup Due                                                                                                            |
+
+
+
+
+### Module II & III Presentation/Discussant Assignments
+
+**MODULE 2 –– INTERPRETABILITY**
+
+| date                         | method/approach | presenting group | discussant group |
+| ---------------------------- | --------------- | ---------------- | ---------------- |
+| Thu, Oct 28                  | GAMs | effective\_analytics | team\_16 |
+| Thu, Oct 28                  | RiskSLIM | team\_15 | team\_6 |
+| Tue, Nov 2                  | LIME | team\_14 | lucky\_13 |
+| Tue, Nov 2                  | SHAP | team\_12 | quack |
+| Tue, Nov 2                  | MAPLE | wuhu | team\_4 |
+| Thu, Nov 4                   | DiCE | team\_5 | taaab |
+| Thu, Nov 4                   | ProtoDash | k\_means\_girls | hmm |
+
+**MODULE 3 –– FAIRNESS**
+
+| date                         | method/approach | presenting group | discussant group |
+| ---------------------------- | --------------- | ---------------- | ---------------- |
+| Tue, Nov 16                  | Zafar In-Processing | team\_rocket | team\_14 |
+| Tue, Nov 16                  | Celis In-Processing | lucky\_13 | team\_12 |
+| Tue, Nov 16                  | FairLearn In-Processing | team\_6 | team\_15 |
+| Thu, Nov 18                  | Model Selection | hmm | k\_means\_girls |
+| Thu, Nov 18                  | Decoupled Classifiers | taaab | team\_5 |
+| Thu, Nov 18                  | Score Adjustments | team\_4 | team\_rocket |
+| Tue, Nov 23                  | Removing Sensitive Features | team\_16 | effective\_analytics |
+| Tue, Nov 23                  | Resampling - Under and Over | quack | wuhu |
