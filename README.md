@@ -1,16 +1,17 @@
 # 10718: Machine Learning in Practice
 
 **Previous Versions:** 
+- **[Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021)**
 - **[Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)**
 - **[Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020)**
 
 
-### Fall 2021: Tues & Thurs, 4:40-6:00pm ([MM A14](https://goo.gl/maps/F84XABGawXvjms149)), Lab Section: Wednesday 4:40-6:00pm ([MM A14](https://goo.gl/maps/F84XABGawXvjms149))
+### Fall 2022: Tues & Thurs, 3:05-4:25 ([POS 151](https://goo.gl/maps/ND39AzZQ8VLka9Gt7)), Lab Section: Wednesday 3:05-4:25 ([POS 151])
 
 ### Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [tech setup instructions](techhelp/)**
- - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/25316)**
- - **Class communication and announcements will be primarily through Slack**
+ - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/29304)**
+ - **Class communication and announcements will be primarily through [Slack](http://mlinpractice2022.slack.com)**
 
 ### Class Description
 
@@ -28,12 +29,11 @@ The goal of this course is to give students exposure to and experience the nuanc
 | --- | --- |
 | <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  Tue 12-1, Wed 2-3 | <img src='/kit_rodolfa.png' /> <br /> GHC 8018 <br /> Office Hours: <br /> Wed 11-12, Thu 1:30-2:30 |
 
-### Infrastructure Assistants
-Infrastructure Assistants are responsible for managing the compute infrastructure and help with logging in, scaling infrastructure, and connection issues.
+### Teaching Assistant
 
-| Riyaz Panjwani | Abhishek Parikh |
+Ryan Steed |  |
 | --- | --- | 
-| <img src='/riyaz_panjwani.jpeg' /> <br /> Office Hours: <br /> Mon 12-1, Fri 12-1 <br /> by GHC 8th Fl. Printer | <img src='abhishek-parikh_400x400.jpeg' width='200' height='200' /> <br /> Office Hours: <br /> Mon 11-12, Fri 2-3 <br /> by GHC 8th Fl. Printer |
+| <img src='/ryan.jpeg' /> <br /> Office Hours: <br /> TBD<br /> TBD | |
 
 ## Grading 
 
@@ -99,26 +99,7 @@ See the **[syllabus](/syllabus.pdf)** for much more detail as well, including in
 ### Module II & III Presentation/Discussant Assignments
 
 **MODULE 2 –– INTERPRETABILITY**
-
-| date                         | method/approach | presenting group | discussant group |
-| ---------------------------- | --------------- | ---------------- | ---------------- |
-| Thu, Oct 28                  | GAMs | effective\_analytics | team\_16 |
-| Thu, Oct 28                  | RiskSLIM | team\_15 | team\_6 |
-| Tue, Nov 2                  | LIME | team\_14 | lucky\_13 |
-| Tue, Nov 2                  | SHAP | team\_12 | quack |
-| Tue, Nov 2                  | MAPLE | wuhu | team\_4 |
-| Thu, Nov 4                   | DiCE | team\_5 | taaab |
-| Thu, Nov 4                   | ProtoDash | k\_means\_girls | hmm |
+TBD
 
 **MODULE 3 –– FAIRNESS**
-
-| date                         | method/approach | presenting group | discussant group |
-| ---------------------------- | --------------- | ---------------- | ---------------- |
-| Tue, Nov 16                  | Zafar In-Processing | team\_rocket | team\_14 |
-| Tue, Nov 16                  | Celis In-Processing | lucky\_13 | team\_12 |
-| Tue, Nov 16                  | FairLearn In-Processing | team\_6 | team\_15 |
-| Thu, Nov 18                  | Model Selection | hmm | k\_means\_girls |
-| Thu, Nov 18                  | Decoupled Classifiers | taaab | team\_5 |
-| Thu, Nov 18                  | Score Adjustments | team\_4 | team\_rocket |
-| Tue, Nov 23                  | Removing Sensitive Features | team\_16 | effective\_analytics |
-| Tue, Nov 23                  | Resampling - Under and Over | quack | wuhu |
+TBD
