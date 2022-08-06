@@ -31,9 +31,9 @@ The goal of this course is to give students exposure to and experience the nuanc
 
 ### Teaching Assistant
 
-Ryan Steed |  |
-| --- | --- | 
-| <img src='/ryan.jpeg' width="200" /> <br /> Office Hours: <br /> TBD<br /> TBD | |
+Ryan Steed |  
+| --- | 
+| <img src='/ryan.jpeg' width="200" /> <br /> Office Hours: <br /> TBD<br /> TBD | 
 
 ## Grading 
 
