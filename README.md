@@ -33,7 +33,7 @@ The goal of this course is to give students exposure to and experience the nuanc
 
 Ryan Steed |  |
 | --- | --- | 
-| <img src='/ryan.jpeg' /> <br /> Office Hours: <br /> TBD<br /> TBD | |
+| <img src='/ryan.jpeg' width="200" /> <br /> Office Hours: <br /> TBD<br /> TBD | |
 
 ## Grading 
 
