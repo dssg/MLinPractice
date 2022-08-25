@@ -10,7 +10,7 @@
 
 ### Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [tech setup instructions](techhelp/)**
- - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/29304)**
+ - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/31332)**
  - **Class communication and announcements will be primarily through [Slack](http://mlinpractice2022.slack.com)**
 
 ### Class Description
