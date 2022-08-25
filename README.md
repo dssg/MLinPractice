@@ -54,7 +54,7 @@ Submitting weekly check-in and feedback forms (5%)
 
 ## Schedule
 
-See the **[detailed syllabus](README.md#structure)** below for much more detail as well, including information about group projects, grading, and helpful optional readings.
+See the **[detailed syllabus](README.md#structure)** below for much more detail as well, including **links to required readings** and information about group projects, grading, and helpful optional readings.
 
 | Week | Dates            | Topic                                                                                                                                                                                                     | Assignments                                                                                                                           |
 | ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
