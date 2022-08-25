@@ -729,6 +729,7 @@ Hunt Library. You can learn more on the GCC website:
 [cmu.edu/gcc](http://www.cmu.edu/gcc).  
 
 ## Your Responsibilities
+
 **Attendance:** Because much of this course is focused on discussion
 with your classmates, attending each session is important to both your
 ability to learn from the course and to contribute to what others get
@@ -736,12 +737,15 @@ out of it as well. As such, you’ll be expected to attend every session
 and your participation will factor into your grade as described above.
 Should anything come up will require you to miss a class (illness,
 conferences, etc), please let one of the course staff know in advance.  
+
 **Academic Integrity:** Violations of class and university academic
 integrity policies will not be tolerated. Any instances of copying,
 cheating, plagiarism, or other academic integrity violations will be
 reported to your advisor and the dean of students in addition to
 resulting in an immediate failure of the course.  
-**Resources**  
+
+## Resources
+
 **Students with Disabilities:** We value inclusion and will work to
 ensure that all students have the resources they need to fully
 participate in our course. Please use the Office of Disability
@@ -749,6 +753,7 @@ Resource’s online system to notify us of any necessary accommodations
 as early in the semester as possible. If you suspect that you have a
 disability but are not yet registered with the Office of Disability
 Resources, you can contact them at <access@andrew.cmu.edu>  
+
 **Health and Wellness:** As a student, you may experience a range of
 challenges that can interfere with learning, such as strained
 relationships, increased anxiety, substance use, feeling down,
@@ -760,6 +765,7 @@ All of us benefit from support during times of struggle. There are many
 helpful resources available on campus and an important part of the
 college experience is learning how to ask for help. Asking for support
 sooner rather than later is almost always helpful.  
+
 If you or anyone you know experiences any academic stress, difficult
 life events, or feelings like anxiety or depression, we strongly
 encourage you to seek support. Counseling and Psychological Services
@@ -767,19 +773,23 @@ encourage you to seek support. Counseling and Psychological Services
 [cmu.edu/counseling/](http://www.cmu.edu/counseling/). Consider reaching
 out to a friend, faculty or family member you trust for help getting
 connected to the support that can help.  
+
 If you or someone you know is feeling suicidal or in danger of
 self-harm, call someone immediately, day or night:  
 CaPS: 412-268-2922  
 Re:solve Crisis Network: 888-796-8226  
+
 If the situation is life threatening, call the police  
 On campus: CMU Police: 412-268-2323  
 Off campus: 911  
+
 **Discrimination and Harassment:** Everyone has a right to feel safe and
 respected on campus. If you or someone you know has been impacted by
 sexual harassment, assault, or discrimination, resources are available
 to help. You can make a report by contacting the University’s Office of
 Title IX Initiatives by email (<tix@andrew.cmu.edu>) or phone
 (412-268-7125).  
+
 Confidential reporting services are available through the [Counseling
 and Psychological Services](http://www.cmu.edu/counseling/) and
 [University Health
@@ -792,6 +802,7 @@ visiting the University’s Title IX Office webpage at
 <https://www.cmu.edu/title-ix/index.html>  
 In case of an emergency, contact University Police 412-268-2323 on
 campus or call 911 off campus.  
+
 **[Student Academic Success Center
 (SASC)](https://www.cmu.edu/student-success/)**
 
