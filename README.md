@@ -6,7 +6,7 @@
 ### Fall 2022: Tues & Thurs, 3:05-4:25 ([POS 151](https://goo.gl/maps/ND39AzZQ8VLka9Gt7))
 
 ### Important 
- - **All content will be on github in this repo including [schedule](README.md#schedule) and [tech setup instructions](techhelp/)**
+ - **All content will be on github in this repo including [schedule](README.md#schedule) and [detailed syllabus](README.md#structure)**
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/31332)**
  - **Class communication and announcements will be primarily through [Slack](http://mlinpractice2022.slack.com)**
 
