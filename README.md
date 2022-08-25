@@ -735,7 +735,7 @@ related project work.
 
   - **DUE DATE TBD (Finals Week): Final Reflection Write-Up**  
     As a final assignment, we’re asking each student to write up a brief
-    (1-2 page) reflection on the course. A more detailed assignment and
+    (2-3 page) reflection on the course. A more detailed assignment and
     prompt will be posted to canvas.  
 
 ## More Resources
