@@ -60,7 +60,7 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 | ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Tu: Aug 30       | [Class Intro and Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture1-ClassOverview.pptx)                                                                                            |                                                                                                                                       |
 | 1    | Th: Sep 1        | [ML Project Scoping](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)                                                                                                        | Project Team Selection                                                                                                                |
-| 2    | Tu: Sep 6        | [Getting, Storing, and Linking Data](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)                                                                                           |                                                                                                                                       |
+| 2    | Tu: Sep 6        | [Getting, Storing, and Linking Data](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)                                                                                           | Individual Assignment: Getting to know the class project (due Monday)                                                                 |
 | 2    | Th: Sep 8        | [Analytical Formulation / Baselines](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)                                                                                    |                                                                                                                                       |
 | 3    | Tu: Sep 13       | [Model Selection Methodology](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)                                                                                        | Project Assignment 1: Formulation and Baseline (due Monday)                                                                           |
 | 3    | Th: Sep 15       | [Performance Metrics](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)                                                                                             |                                                                                                                                       |
@@ -184,6 +184,8 @@ related project work.
     
       - *Predictive Modeling for Public Health: Preventing Childhood
         Lead Poisoning* by Potash, E, et al. KDD 2015.
+
+  - **DUE MONDAY, SEPTEMBER 5:** Individual Assignment: Getting to know the class project
 
   - **Tuesday, September 6: Obtaining, Storing, and Linking Data**  
     In this class, we will look at some of the nuances of obtaining and
