@@ -57,7 +57,7 @@ Submitting weekly check-in and feedback forms (5%)
 
 ## Schedule
 
-See the **[detailed syllabus]()** below for much more detail as well, including information about group projects, grading, and helpful optional readings.
+See the **[detailed syllabus](README.md#structure)** below for much more detail as well, including information about group projects, grading, and helpful optional readings.
 | Week | Dates            | Topic                                                                                                                                                                       | Required Readings                                                                                                                                                                 | Assignments                                                                                                                           |
 | ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Tu: Aug 31       | [Class Intro and Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture1-ClassOverview.pptx)                                                              |                                                                                                                                                                                   |                                                                                                                                       |
@@ -126,7 +126,7 @@ deliverables:
     pages in length, detailing the methods, how they were used in their
     project, findings, and any recommendations.
 
-## Schedule
+## Structure
 The course is divided into three modules:
 
 1.  Applying ML to Practical Problems
