@@ -1,9 +1,6 @@
 # 10718: Machine Learning in Practice
 
-**Previous Versions:** 
-- **[Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021)**
-- **[Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)**
-- **[Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020)**
+**Previous Versions:** [Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021) | [Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020) | [Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)
 
 
 ### Fall 2022: Tues & Thurs, 3:05-4:25 ([POS 151](https://goo.gl/maps/ND39AzZQ8VLka9Gt7))
