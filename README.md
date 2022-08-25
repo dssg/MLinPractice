@@ -103,3 +103,65 @@ TBD
 
 **MODULE 3 –– FAIRNESS**
 TBD
+
+
+    management, productive learning and study habits, organization,
+    stress management, and other skills. Request an initial consultation
+    [here](https://docs.google.com/forms/d/e/1FAIpQLSfMAnCWkyPdXRb0zOsMar7nzpUau8hqN_gIFm3OISY5QMWwyw/viewform).
+
+  - [Peer
+    Tutoring](https://www.cmu.edu/student-success/programs/tutoring.html)
+    – Peer Tutoring is offered in two formats for students seeking
+    support related to their coursework. Drop-In tutoring targets our
+    highest demand courses through regularly scheduled open tutoring
+    sessions during the fall and spring semesters. Tutoring by
+    appointment consists of ongoing individualized and small group
+    sessions.You can utilize tutoring to discuss course related content,
+    clarify and ask questions, and work through practice problems. Visit
+    the
+    [webpage](https://www.cmu.edu/student-success/programs/tutoring.html)
+    to see courses currently being supported by Peer Tutoring.
+
+  - [Communication
+    Support](https://www.cmu.edu/student-success/programs/communication-support/index.html)
+    – Communication Support offers free one-on-one communication
+    consulting as well as group workshops to support strong written,
+    oral, and visual communication in texts including IMRaD and
+    thesis-driven essays, data-driven reports, oral presentations,
+    posters and visual design, advanced research, application materials,
+    grant proposals, business and public policy documents, data
+    visualisation, and team projects. Appointments are available to
+    undergraduate and graduate students from any discipline at CMU.
+    Schedule an
+    [appointment](https://www.cmu.edu/student-success/programs/communication-support/make-an-appointment.html)
+    on their website (in-person, zoom synchronous, or recorded video),
+    attend a
+    [workshop](https://www.cmu.edu/student-success/calendar.html), or
+    consult [handouts or
+    videos](https://www.cmu.edu/student-success/other-resources/index.html)
+    to strengthen communication skills.
+
+  - [Language and Cross-Cultural
+    Support](https://www.cmu.edu/student-success/programs/language-support/index.html)
+    – This program supports students seeking help with language and
+    cross-cultural skills for academic and professional success through
+    individual and group sessions. Students can get assistance with
+    writing academic emails, learning expectations and strategies for
+    clear academic writing, pronunciation, grammar, fluency, and more.
+    Make an
+    [appointment](https://docs.google.com/forms/d/e/1FAIpQLSfMAnCWkyPdXRb0zOsMar7nzpUau8hqN_gIFm3OISY5QMWwyw/viewform)
+    with a Language Development Specialist to get individualized
+    coaching.
+
+  - [Supplemental Instruction
+    (SI)](https://www.cmu.edu/student-success/programs/supp-inst.html) –
+    This program offers a non-remedial approach to learning in
+    historically difficult courses at CMU. It utilizes a peer-led
+    collaborative group study approach to help students succeed and is
+    facilitated by an SI leader, a CMU student who has successfully
+    completed the course. SI offers a way to connect with other students
+    studying the same course, a guaranteed weekly study time that
+    reinforces learning and retention of information, as well as a place
+    to learn and integrate study tools and exam techniques specific to a
+    course. Visit the website to see courses with SI available
+    [here](https://www.cmu.edu/student-success/programs/supp-inst.html).
