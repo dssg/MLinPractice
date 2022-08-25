@@ -146,7 +146,7 @@ most sessions which may be of interest to students who wish to delve
 deeper in a given area as well as provide additional context for your
 related project work.  
   
-### MODULE I: APPLYING ML TO PRACTICAL PROBLEMS###  
+### MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS 
 
   - **Tuesday, August 30: Introduction**  
     During our initial meeting, we’ll provide an introduction to the
@@ -405,7 +405,7 @@ related project work.
     Break**  
       
 
-### MODULE II: UNDERSTANDING ML MODELS 
+### MODULE 2: UNDERSTANDING ML MODELS 
 
   - **DUE TUESDAY, OCTOBER 25:** Take-home midterm exam  
 
@@ -555,7 +555,7 @@ related project work.
   - **DUE FRIDAY, NOVEMBER 11:** Extended Abstract on Interpretability  
       
 
-### MODULE III: FAIRNESS IN ML**  
+### MODULE 3: FAIRNESS IN ML**  
 
   - **Tuesday, November 15: Intro to Fairness**  
     In this class, we’ll introduce topics in ML fairness, where we will
