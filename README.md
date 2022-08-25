@@ -6,7 +6,7 @@
 - **[Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020)**
 
 
-### Fall 2022: Tues & Thurs, 3:05-4:25 ([POS 151](https://goo.gl/maps/ND39AzZQ8VLka9Gt7)), Lab Section: Wednesday 3:05-4:25 ([POS 151])
+### Fall 2022: Tues & Thurs, 3:05-4:25 ([POS 151](https://goo.gl/maps/ND39AzZQ8VLka9Gt7))
 
 ### Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [tech setup instructions](techhelp/)**
