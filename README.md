@@ -35,7 +35,7 @@ Ryan Steed |
 
 ## Grading 
 
-Note that this course is being offered pass/fail. Each time you ask how each action you take will affect your grade will result in lowering of the grade.
+Note that this course is being offered pass/fail. Each time you ask how each action you take will affect your grade will result in lowering of the grade :)
 
 Weekly project update assignments (10%)
 
