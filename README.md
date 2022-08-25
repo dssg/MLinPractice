@@ -44,7 +44,7 @@ Write-up on fairness findings (15%)
 
 Group presentation (5%)
 
-Future research or project proposal (15%)
+Final reflection write-up (15%)
 
 Quizzes on readings and concepts (5%)
 
