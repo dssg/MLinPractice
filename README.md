@@ -352,6 +352,8 @@ related project work.
     finalizing the models before applying interpretability methods to
     them.  
 
+  - **DUE MONDAY, OCTOBER 10:** Project Update 5 (Updated Modeling Results)
+
   - **Tuesday, October 11: Working Session for Updating Models**  
     For this session, we’ll meet together for a working session to
     provide some time to incorporate feedback on the latest round of
