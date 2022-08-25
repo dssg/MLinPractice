@@ -19,8 +19,6 @@ This is a project-based course designed to provide students training and experie
 
 The goal of this course is to give students exposure to and experience the nuance of applying machine learning to real-world problems, where common assumptions (like iid and stationarity) break down, and the growing needs for (and limitations of) approaches to improve fairness and explainability of these applications. Through project assignments, lectures, discussions, and readings, students will learn about and experience building machine learning systems for real-world problems, as well as applying and evaluating the utility of proposed methods for enhancing the interpretability and fairness of machine learning models. Through the course, students will develop skills in problem scoping and formulation, getting, storing, linking, and working with messy data, making ML pipeline design choices appropriate for the problem at hand, exploring approaches for model selection, model interpretability, as well as understanding and mitigating algorithmic bias \& disparities, and evaluating the impact of deployed models.
 
-**[DRAFT SYLLABUS](/syllabus.pdf)**
-
 ## People
 
 ### Instructors
@@ -59,7 +57,7 @@ Submitting weekly check-in and feedback forms (5%)
 
 ## Schedule
 
-See the **[syllabus](/syllabus.pdf)** for much more detail as well, including information about group projects, grading, and helpful optional readings.
+See the **[detailed syllabus]()** below for much more detail as well, including information about group projects, grading, and helpful optional readings.
 | Week | Dates            | Topic                                                                                                                                                                       | Required Readings                                                                                                                                                                 | Assignments                                                                                                                           |
 | ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Tu: Aug 31       | [Class Intro and Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture1-ClassOverview.pptx)                                                              |                                                                                                                                                                                   |                                                                                                                                       |
@@ -93,11 +91,7 @@ See the **[syllabus](/syllabus.pdf)** for much more detail as well, including in
 | 15   | Tu: Dec 7        | No Class - Finals Week                                                                                                                                                      |                                                                                                                                                                                   |                                                                                                                                       |
 | 15   | Th: Dec 9        | No Class - Finals Week                                                                                                                                                      |                                                                                                                                                                                   | Final Writeup Due                                                                                                            |
 
-
-
-
-
-**Projects and Deliverables**  
+## Projects and Deliverables
 Broadly, the course will be divided into three modules: 1) applied
 end-to-end machine learning pipelines, 2) model interpretability, and 3)
 fairness in machine learning. Throughout the course, students will work
@@ -132,7 +126,7 @@ deliverables:
     pages in length, detailing the methods, how they were used in their
     project, findings, and any recommendations.
 
-**Tentative Schedule**  
+## Schedule
 The course is divided into three modules:
 
 1.  Applying ML to Practical Problems
@@ -152,7 +146,7 @@ most sessions which may be of interest to students who wish to delve
 deeper in a given area as well as provide additional context for your
 related project work.  
   
-**MODULE I: APPLYING ML TO PRACTICAL PROBLEMS**  
+### MODULE I: APPLYING ML TO PRACTICAL PROBLEMS###  
 
   - **Tuesday, August 30: Introduction**  
     During our initial meeting, we’ll provide an introduction to the
@@ -411,7 +405,7 @@ related project work.
     Break**  
       
 
-**MODULE II: UNDERSTANDING ML MODELS**  
+### MODULE II: UNDERSTANDING ML MODELS 
 
   - **DUE TUESDAY, OCTOBER 25:** Take-home midterm exam  
 
@@ -561,7 +555,7 @@ related project work.
   - **DUE FRIDAY, NOVEMBER 11:** Extended Abstract on Interpretability  
       
 
-**MODULE III: FAIRNESS IN ML**  
+### MODULE III: FAIRNESS IN ML**  
 
   - **Tuesday, November 15: Intro to Fairness**  
     In this class, we’ll introduce topics in ML fairness, where we will
@@ -741,7 +735,7 @@ related project work.
     (1-2 page) reflection on the course. A more detailed assignment and
     prompt will be posted to canvas.  
 
-**More Resources**  
+## More Resources
 You may find a number of books useful as general background reading on
 specific topics covered in class, but these are by no means required
 texts for the course:
@@ -765,7 +759,8 @@ assistance with the written or oral communication assignments in this
 class. The GCC is a free service, open to all students, and located in
 Hunt Library. You can learn more on the GCC website:
 [cmu.edu/gcc](http://www.cmu.edu/gcc).  
-**Your Responsibilities**  
+
+## Your Responsibilities
 **Attendance:** Because much of this course is focused on discussion
 with your classmates, attending each session is important to both your
 ability to learn from the course and to contribute to what others get
