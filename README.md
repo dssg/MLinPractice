@@ -388,16 +388,13 @@ related project work.
     finalizing the models before applying interpretability methods to
     them.  
 
-  - **DUE MONDAY, OCTOBER 10:** Project Update 5 (Updated Modeling Results)
+  - **DUE MONDAY, OCTOBER 10:** Project Update 5 (Updated Modeling Results and Model Selection)
 
   - **Tuesday, October 11: Working Session for Updating Models**  
     For this session, we’ll meet together for a working session to
     provide some time to incorporate feedback on the latest round of
     modeling results. We’ll be on hand to help groups debug and improve
-    their results.  
-
-  - **DUE THURSDAY, OCTOBER 13:** Project Update 5 (Updated Modeling
-    Results and Model Selection)  
+    their results.
 
   - **Thursday, October 13: Module I Q\&A, Midterm Distributed**  
     During this meeting, we’ll have an open Q\&A session covering the
@@ -558,7 +555,7 @@ related project work.
   - **DUE FRIDAY, NOVEMBER 11:** Extended Abstract on Interpretability  
       
 
-### MODULE 3: FAIRNESS IN ML**  
+### MODULE 3: FAIRNESS IN ML
 
   - **Tuesday, November 15: Intro to Fairness**  
     In this class, we’ll introduce topics in ML fairness, where we will
