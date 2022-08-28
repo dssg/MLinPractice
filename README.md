@@ -12,10 +12,25 @@
 
 ### Class Description
 
-This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, exploring the interface between research and practice, with a particular focus on topics in fairness and explainability.
+This is a project-based course designed to provide students training and
+experience in solving real-world problems using machine learning,
+exploring the interface between research and practice, with a particular
+focus on topics in fairness and explainability.  
 
-The goal of this course is to give students exposure to and experience the nuance of applying machine learning to real-world problems, where common assumptions (like iid and stationarity) break down, and the growing needs for (and limitations of) approaches to improve fairness and explainability of these applications. Through project assignments, lectures, discussions, and readings, students will learn about and experience building machine learning systems for real-world problems, as well as applying and evaluating the utility of proposed methods for enhancing the interpretability and fairness of machine learning models. Through the course, students will develop skills in problem scoping and formulation, getting, storing, linking, and working with messy data, making ML pipeline design choices appropriate for the problem at hand, exploring approaches for model selection, model interpretability, as well as understanding and mitigating algorithmic bias \& disparities, and evaluating the impact of deployed models.
-
+The goal of this course is to give students exposure to the nuance of
+applying machine learning to the real-world, where common assumptions
+(like iid and stationarity) break down, and the growing needs for (and
+limitations of) approaches to improve fairness and explainability of
+these applications. Through project assignments, lectures, discussions,
+and readings, students will learn about and experience building machine
+learning systems for real-world problems and data, as well as applying
+and evaluating the utility of proposed methods for enhancing the
+interpretability and fairness of machine learning models. Through the
+course, students will develop skills in problem formulation, working
+with messy data, making ML design choices appropriate for the problem at
+hand, model selection, model interpretability, understanding and
+mitigating algorithmic bias & disparities, and evaluating the impact of
+deployed models. 
 ## People
 
 ### Instructors
@@ -112,18 +127,19 @@ deliverables:
     will consider in class. This presentation should introduce the
     method at a high level, provide a general understanding of how it
     works, discuss preliminary results from implementing the method for
-    their project, and give some thought to strengths and weaknesses. A
-    second group will be assigned for each method as a "discussant" both
-    of these groups will need to implement the method before class.
+    their project, and give some thought to its strengths and
+    weaknesses. A second group will be assigned for each method as a
+    "discussant" both of these groups will need to implement the method
+    before class.
 
-  - Also during these modules, groups will each be responsible for apply
-    three of the methods we discuss in the context of their project (one
-    from each day of discussion; note that you may use either an
-    existing implementation or write your own). At the end of the
-    module, the analysis and results obtained with these methods should
-    be written up in the format of an extended technical abstract 3-4
-    pages in length, detailing the methods, how they were used in their
-    project, findings, and any recommendations.
+  - Also during these modules, groups will each be responsible for
+    applying three of the methods we discuss in the context of their
+    project (one from each day of discussion; note that you may use
+    either an existing implementation or write your own). At the end of
+    the module, the analysis and results obtained with these methods
+    should be written up in the format of an extended technical abstract
+    3-4 pages in length, detailing the methods, how they were used in
+    their project, findings, and any recommendations.
 
 ## Structure
 The course is divided into three modules:
@@ -138,14 +154,14 @@ Below is a preliminary schedule of the course, including the readings
 that will be assigned for that week. Please be sure to have read and be
 prepared to discuss the readings before the specified class session.
 Most of these topics can be (and often are) the focus of entire courses
-and generally we’ll only scratch the surface, but hopefully inspire you
+and generally, we’ll only scratch the surface, but hopefully inspire you
 to delve deeper into areas that interest you (and you’ll find plenty of
 open research questions in each). Optional readings are also listed for
 most sessions which may be of interest to students who wish to delve
-deeper in a given area as well as provide additional context for your
+deeper into a given area as well as provide additional context for your
 related project work.  
   
-### MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS 
+### MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS**  
 
   - **Tuesday, August 30: Introduction**  
     During our initial meeting, we’ll provide an introduction to the
@@ -185,8 +201,6 @@ related project work.
       - *Predictive Modeling for Public Health: Preventing Childhood
         Lead Poisoning* by Potash, E, et al. KDD 2015.
 
-  - **DUE MONDAY, SEPTEMBER 5:** Individual Assignment: Getting to know the class project
-
   - **Tuesday, September 6: Obtaining, Storing, and Linking Data**  
     In this class, we will look at some of the nuances of obtaining and
     using data in real-world projects, including a discussion of the
@@ -215,8 +229,8 @@ related project work.
     result in a greater understanding of the problem itself. Here,
     you’ll ask how specifically your label (if relevant) is defined in
     the data, what types of information are available as features, and
-    what baseline you’ll be measure performance against. Very rarely is
-    the appropriate baseline as simple as “random choice” or the
+    what baseline you’ll be measuring performance against. Very rarely
+    is the appropriate baseline as simple as “random choice” or the
     population prevalence. Rather, it should reflect what would be
     expected to happen otherwise: perhaps a simple decision rule that an
     expert would come up with or even a pre-existing statistical model
@@ -291,7 +305,7 @@ related project work.
     that are performing equally well all learning the same patterns and
     generating the same predictions? How should you select one to deploy
     if they are not? In this class, we’ll begin to answer these
-    questions, focusing on the choice of performance metrics how their
+    questions, focusing on the choice of performance metrics how they
     relate to your project’s goals, scope, and formulation.  
       
     Required Reading:
@@ -351,9 +365,9 @@ related project work.
     week, delving into the details of winnowing down a large number of
     model specifications to one or a handful that perform “best” for
     some definition of “best”. In particular, we’ll focus on the common
-    case of machine learning problems with a strong time series
-    component and the desire to balance performance and stability in
-    model selection.  
+    case of machine learning problems with a strong temporal component
+    and the desire to balance performance and stability in model
+    selection.  
       
     Optional Reading:
     
@@ -366,10 +380,10 @@ related project work.
   - **Tuesday, October 4: Module I Review: Applied ML End-to-End
     Pipelines**  
     In this session, we’ll take some time to step back and review the
-    concepts we have covered so far, with the goals of help ensure all
-    the projects are on track for the second and third modules,
+    concepts we have covered so far, with the goals of helping ensure
+    all the projects are on track for the second and third modules,
     preparing for next week’s concept-focused midterm exam, and
-    highlighting what we see as the most important take-aways from this
+    highlighting what we see as the most important takeaways from this
     section of the course.  
       
     Required Readings:
@@ -388,13 +402,14 @@ related project work.
     finalizing the models before applying interpretability methods to
     them.  
 
-  - **DUE MONDAY, OCTOBER 10:** Project Update 5 (Updated Modeling Results and Model Selection)
-
   - **Tuesday, October 11: Working Session for Updating Models**  
     For this session, we’ll meet together for a working session to
     provide some time to incorporate feedback on the latest round of
     modeling results. We’ll be on hand to help groups debug and improve
-    their results.
+    their results.  
+
+  - **DUE THURSDAY, OCTOBER 13:** Project Update 5 (Updated Modeling
+    Results and Model Selection)  
 
   - **Thursday, October 13: Module I Q\&A, Midterm Distributed**  
     During this meeting, we’ll have an open Q\&A session covering the
@@ -405,7 +420,7 @@ related project work.
     Break**  
       
 
-### MODULE 2: UNDERSTANDING ML MODELS 
+### MODULE 2: UNDERSTANDING ML MODELS**  
 
   - **DUE TUESDAY, OCTOBER 25:** Take-home midterm exam  
 
@@ -415,7 +430,7 @@ related project work.
     the model works in aggregate) and local (why an individual
     prediction came out as it did). In this class, we’ll focus on the
     bigger picture: discussing the landscape of model interpretability
-    and well as different use cases and users.  
+    as well as different use cases and users.  
       
     We’ll also be introducing some simple and practical analyses to
     perform after the modeling process and what it means to compare
@@ -424,7 +439,7 @@ related project work.
     between predicted classes and play an important role in detecting
     bugs such as leakage.  
       
-    Note that we’ll also post assignments for the Module II methods for
+    Note that we’ll also post assignments for the Module II methods
     early this week so teams can begin implementing them for the deep
     dives beginning the following week.  
       
@@ -464,7 +479,7 @@ related project work.
   - **Tuesday, November 1: Inherently-Interpretable Methods**  
     In this class, we’ll start our deeper dives into specific methods by
     looking at inherently interpretable methods, including
-    GA<sup>2</sup>M models and RiskSLIM. Groups will give a 15 minute
+    GA<sup>2</sup>M models and RiskSLIM. Groups will give a 15-minute
     presentation on each method and then we will spend the remainder of
     the class session comparing the methods and discussing the use cases
     in which they may be most appropriate.  
@@ -555,7 +570,7 @@ related project work.
   - **DUE FRIDAY, NOVEMBER 11:** Extended Abstract on Interpretability  
       
 
-### MODULE 3: FAIRNESS IN ML
+### MODULE 3: FAIRNESS IN ML**  
 
   - **Tuesday, November 15: Intro to Fairness**  
     In this class, we’ll introduce topics in ML fairness, where we will
@@ -612,7 +627,7 @@ related project work.
     concerned not only with its predictiveness, but the actual ability
     of the model to help the program achieve its policy goals, such as
     improving outcomes among the population it serves. Typically, this
-    involves working closely with policy makers to develop a field trial
+    involves working closely with policymakers to develop a field trial
     using either randomization or non-experimental methods depending on
     the constraints of the setting.  
       
@@ -732,7 +747,7 @@ related project work.
 
   - **DUE DATE TBD (Finals Week): Final Reflection Write-Up**  
     As a final assignment, we’re asking each student to write up a brief
-    (2-3 page) reflection on the course. A more detailed assignment and
+    (1-2 page) reflection on the course. A more detailed assignment and
     prompt will be posted to canvas.  
 
 ## More Resources
