@@ -43,7 +43,7 @@ deployed models.
 
 Ryan Steed |  
 | --- | 
-| <img src='ryan.jpeg' width="200" /> <br /> ffice Hours: <br /> Mon 4-5, Fri 2-3 <br /> On [Zoom](https://cmu.zoom.us/j/99938617437?pwd=K0hoQ2FSVGV2R2pVRWRURFhDMEtXUT09) | 
+| <img src='ryan.jpeg' width="200" /> <br /> Office Hours: <br /> Mon 4-5, Fri 2-3 <br /> On [Zoom](https://cmu.zoom.us/j/99938617437?pwd=K0hoQ2FSVGV2R2pVRWRURFhDMEtXUT09) | 
 
 ## Grading 
 
