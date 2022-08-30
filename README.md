@@ -201,6 +201,8 @@ related project work.
       - *Predictive Modeling for Public Health: Preventing Childhood
         Lead Poisoning* by Potash, E, et al. KDD 2015.
 
+  - **DUE MONDAY, SEPTEMBER 5:** Individual Assignment: Getting to know the class project data
+
   - **Tuesday, September 6: Obtaining, Storing, and Linking Data**  
     In this class, we will look at some of the nuances of obtaining and
     using data in real-world projects, including a discussion of the
