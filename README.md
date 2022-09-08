@@ -292,7 +292,7 @@ related project work.
         Online](https://arxiv.org/abs/1906.01998)
     
       - *Big Data and Social Science (2nd edition)* edited by Foster,
-        Ghani, et al. Chapter 7: Machine Learning. [Available
+        Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
         Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
   - **Thursday, September 15: Model Performance Metrics**  
