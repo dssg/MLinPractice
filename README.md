@@ -37,7 +37,7 @@ deployed models.
 
 | Rayid Ghani | Kit Rodolfa |
 | --- | --- |
-| <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  Thu 10:30-11:30, Fri 12-1 | <img src='kit_rodolfa.png' /> <br /> GHC 8018 <br /> Office Hours: <br /> Tue 11-12, Thu 1-2 |
+| <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />  Thu 10:30-11:30, Fri 12-1 | <img src='kit_rodolfa.png' /> <br /> GHC 8018 <br /> Office Hours: <br /> Tue 10:30-11:30, Thu 1-2 |
 
 ### Teaching Assistant
 
@@ -292,7 +292,7 @@ related project work.
         Online](https://arxiv.org/abs/1906.01998)
     
       - *Big Data and Social Science (2nd edition)* edited by Foster,
-        Ghani, et al. Chapter 7: Machine Learning. [Available
+        Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
         Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
   - **Thursday, September 15: Model Performance Metrics**  
