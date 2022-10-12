@@ -86,21 +86,21 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 | 6    | Tu: Oct 4        | [Module 1 Review: Applied ML - End to End Pipelines](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)                                                                 | Project Assignment 4:<br>modeling results (due Monday)                                                                                |
 | 6    | Th: Oct 6        | Review of modeling results                                                                                                                                                                                |                                                                                                                                       |
 | 7    | Tu: Oct 11       | Working session: model debugging and updates                                                                                                                                                              | Updated model results assignment (+ model selection) Due Monday                                                                       |
-| 7    | Th: Oct 13       | Module I Q&A                                                                                                                                                                                              | Take-Home Midterm Available                                                                                                           |
+| 7    | Th: Oct 13       | No Class - Extra time for midterm/project work                                                                                                                                                                                              | Take-Home Midterm Available                                                                                                           |
 | 8    | Tu: Oct 18       | No Class - Mid-semester break                                                                                                                                                                             |                                                                                                                                       |
 | 8    | Th: Oct 20       | No Class - Mid-semester break                                                                                                                                                                             |                                                                                                                                       |
-| 9    | Tu: Oct 25       | [Interpretability: Intro and Overview, taxonomy<br><br>Understanding the Models](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)                               | Take-Home Midterm Due                                                                                                                 |
-| 9    | Th: Oct 27       | [](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)[ML Ethics Issues Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx) |                                                                                                                                       |
-| 10   | Tu: Nov 1        | Interpretability Methods: Inherently Interpretable (GA2Ms, RiskSLIM, etc.)                                                                                                                                |                                                                                                                                       |
-| 10   | Th: Nov 3        | Interpretability Methods:: Post-Hoc Local/Feature-based (LIME, SHAP, MAPLE)                                                                                                                               |                                                                                                                                       |
-| 11   | Tu: Nov 8        | Interpretability Methods: Other methods (counterfactual, example-based, etc.)                                                                                                                             |                                                                                                                                       |
-| 11   | Th: Nov 10       | Interpretability Recap                                                                                                                                                                                    | Interpretability Writeup Due on Friday                                                                                                |
+| 9    | Tu: Oct 25       | [ML Ethics Issues Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)                               | Revised Update 5 Due (Mon); Take-Home Midterm Due (Tue)                                                                                                                 |
+| 9    | Th: Oct 27       | [Interpretability: Intro and Overview, taxonomy](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)                               |                                                                                                                  |
+| 10   | Tu: Nov 1        | [Understanding the Models](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)                                                                                                                                |                                                                                                                                       |
+| 10   | Th: Nov 3        | Interpretability Methods: Inherently Interpretable (GA2Ms, RiskSLIM, etc.)                                                                                                                                |                                                                                                                                       |
+| 11   | Tu: Nov 8        | Interpretability Methods:: Post-Hoc Local/Feature-based (LIME, SHAP, MAPLE)                                                                                                                               |                                                                                                                                       |
+| 11   | Th: Nov 10        | Interpretability Methods: Other methods (counterfactual, example-based, etc.)                                                                                                                             | Interpretability Writeup Due on Friday                                                                                                 |
 | 12   | Tu: Nov 15       | [Fairness in ML Overview](https://github.com/dssg/MLinPractice/blob/main/Lectures/Lecture19-FairnessOverview.pptx)                                                                                        |                                                                                                                                       |
 | 12   | Th:Nov 17        | [Field Trials and Causality](https://github.com/dssg/MLinPractice/blob/main/Lectures/Lecture20-FieldValidation.pptx)                                                                                      |                                                                                                                                       |
 | 13   | Tu: Nov 22       | Fairness Methods: Pre-processing (removing sensitive attribute, sampling)                                                                                                                                 |                                                                                                                                       |
 | 13   | Th: Thanksgiving | Thanksgiving holiday                                                                                                                                                                                      |                                                                                                                                       |
 | 14   | Tu: Nov 29       | Fairness Methods: In-processing (Zafar, Celis, fairlearn, etc.)                                                                                                                                           |                                                                                                                                       |
-| 14   | Th: Dec 1        | Post-Processing: Hardt, LA, etc                                                                                                                                                                           |                                                                                                                                       |
+| 14   | Th: Dec 1        | Fairness Methods: Post-Processing (Hardt, LA, etc.)                                                                                                                                                                           |                                                                                                                                       |
 | 15   | Tu: Dec 6        | Module 3 Review: ML Fairness                                                                                                                                                                              |                                                                                                                                       |
 | 15   | Th: Dec 8        | [Wrap-Up](https://github.com/dssg/MLinPractice/blob/main/Lectures/Lecture21-Wrapup.pptx)                                                                                                                  | Bias Writeup Due on Friday                                                                                                            |
 |      | Finals Week      |                                                                                                                                                                                                           | Final Reflection Writeup Due (Date TBD)                                                                                               |
@@ -404,19 +404,18 @@ related project work.
     finalizing the models before applying interpretability methods to
     them.  
 
+  - **DUE MONDAY, OCTOBER 10:** Project Update 5 (Updated Modeling
+    Results and Model Selection)  
+
   - **Tuesday, October 11: Working Session for Updating Models**  
     For this session, we’ll meet together for a working session to
     provide some time to incorporate feedback on the latest round of
     modeling results. We’ll be on hand to help groups debug and improve
     their results.  
 
-  - **DUE THURSDAY, OCTOBER 13:** Project Update 5 (Updated Modeling
-    Results and Model Selection)  
-
-  - **Thursday, October 13: Module I Q\&A, Midterm Distributed**  
-    During this meeting, we’ll have an open Q\&A session covering the
-    first module and project work, as well as distribute the take-home
-    midterm.  
+  - **Thursday, October 13: No Class, Midterm Distributed**  
+    We'll cancel class on this day to provide some extra time for working
+    on the midterm and updating model results.
 
   - **Tuesday, October 18 and Thursday, October 20: NO CLASSES – Fall
     Break**  
@@ -424,22 +423,39 @@ related project work.
 
 ### MODULE 2: UNDERSTANDING ML MODELS**  
 
+  - **DUE MONDAY, OCTOBER 24:** Revised Project Update 5
+
   - **DUE TUESDAY, OCTOBER 25:** Take-home midterm exam  
 
-  - **Tuesday, October 25: Model Interpretability Overview and Practical
-    Understanding of ML Models**  
+  - **Tuesday, October 25: ML Ethics and Fairness Overview**  
+    In this session, we’ll have a discussion about ethical issues in
+    machine learning, focusing on the broader landscape of topics in
+    this area, including questions around privacy, transparency, and
+    accountability. Note that we’ll spend some time in class discussing
+    the case study linked below, so please be sure to have read and
+    thought about it before class.  
+      
+    Required Readings:
+    
+      - Princeton Ethics Case Study 6: Public Sector Data Analysis
+        [Available
+        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf)
+
+    Optional Readings:
+    
+      - *Ethics and Data Science* by Loukides, M., Mason, H., and Patil,
+        D.J. O’Reilly (2018). Entire Book (don’t worry – it’s short\!)
+        [Available
+        Online](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar)
+        (When prompted to select institution, select ’Not listed? Click
+        here’ and enter your CMU email address to access content)
+
+  - **Thursday, October 27: Model Interpretability Overview**  
     Model interpretability can be thought of at two levels: global (how
     the model works in aggregate) and local (why an individual
     prediction came out as it did). In this class, we’ll focus on the
     bigger picture: discussing the landscape of model interpretability
     as well as different use cases and users.  
-      
-    We’ll also be introducing some simple and practical analyses to
-    perform after the modeling process and what it means to compare
-    performance across model specifications. These methods can help
-    provide a basic understanding of how your model is distinguishing
-    between predicted classes and play an important role in detecting
-    bugs such as leakage.  
       
     Note that we’ll also post assignments for the Module II methods
     early this week so teams can begin implementing them for the deep
@@ -457,28 +473,15 @@ related project work.
         [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
-  - **Thursday, October 27: ML Ethics and Fairness Overview**  
-    In this session, we’ll have a discussion about ethical issues in
-    machine learning, focusing on the broader landscape of topics in
-    this area, including questions around privacy, transparency, and
-    accountability. Note that we’ll spend some time in class discussing
-    the case study linked below, so please be sure to have read and
-    thought about it before class.  
-      
-    Required Readings:
-    
-      - *Ethics and Data Science* by Loukides, M., Mason, H., and Patil,
-        D.J. O’Reilly (2018). Entire Book (don’t worry – it’s short\!)
-        [Available
-        Online](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar)
-        (When prompted to select institution, select ’Not listed? Click
-        here’ and enter your CMU email address to access content)
-    
-      - Princeton Ethics Case Study 6: Public Sector Data Analysis
-        [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf)
+  - **Tuesday, November 1: Practical Understanding of ML Models**   
+    During this session, we'll be introducing some simple and practical analyses to
+    perform after the modeling process and what it means to compare
+    performance across model specifications. These methods can help
+    provide a basic understanding of how your model is distinguishing
+    between predicted classes and play an important role in detecting
+    bugs such as leakage.
 
-  - **Tuesday, November 1: Inherently-Interpretable Methods**  
+  - **Thursday, November 3: Inherently-Interpretable Methods**  
     In this class, we’ll start our deeper dives into specific methods by
     looking at inherently interpretable methods, including
     GA<sup>2</sup>M models and RiskSLIM. Groups will give a 15-minute
@@ -504,7 +507,7 @@ related project work.
         and Prediction* by Lakkaraju, H, et al. KDD 2016. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LakkarajuDecisionSets.pdf)
 
-  - **Thursday, November 3: Post-Hoc Local Explanations**  
+  - **Tuesday, November 8: Post-Hoc Local Explanations**  
     In this class, we’ll continue our discussion model interpretability
     by looking at three methods that can provide local, feature-based
     explanations without relying on the details of the underlying model:
@@ -536,7 +539,7 @@ related project work.
         arXiv preprint: arxiv/1905.04610. [Available
         Online](https://arxiv.org/pdf/1905.04610.pdf)
 
-  - **Tuesday, November 8: Other Interpretability Methods**  
+  - **Thursday, November 10: Other Interpretability Methods**  
     In this session, we’ll take a look at some of the other methods
     people have explored for model interpretability, such as
     counterfactual (e.g., DiCE) and example-based methods (e.g.,
@@ -563,11 +566,6 @@ related project work.
       - *Understanding Black-box Predictions via Influence Functions* by
         Koh, P.W. and Liang, P. ICML 2017. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/KohInfluenceFunctions.pdf)
-
-  - **Thursday, November 10: Module II Review**  
-    In this meeting, we’ll wrap up our discussion of ML interpretability
-    with a brief review of the methods we’ve covered (and what we
-    haven’t had time to discuss)  
 
   - **DUE FRIDAY, NOVEMBER 11:** Extended Abstract on Interpretability  
       
