@@ -10,6 +10,32 @@
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/31332)**
  - **Class communication and announcements will be primarily through [Slack](http://mlinpractice2022.slack.com)**
 
+**Team Assignments for Presentations**
+
+MODULE 2 –– INTERPRETABILITY
+| date                         | method/approach | presenting group | discussant group |
+| ---------------------------- |-|-|-|
+| Thu, Nov 3                   | GAMs | mcjoe | randomized\_string |
+| Thu, Nov 3                   | RiskSLIM | cortenide | weak\_learners |
+| Tue, Nov 8                   | LIME | team\_15 | choosy\_donors |
+| Tue, Nov 8                   | SHAP | team\_5 | team\_14 |
+| Tue, Nov 8                   | MAPLE | team\_3 | team\_10 |
+| Thu, Nov 10                  | DiCE | bug\_hunters | team\_13 |
+| Thu, Nov 10                  | ProtoDash | team\_9 | jnrsx |
+
+MODULE 3 –– FAIRNESS
+| date                         | method/approach | presenting group | discussant group |
+| ---------------------------- |-|-|-|
+| Tue, Nov 22                  | Removing Sensitive Features | randomized\_string | justin\_case |
+| Tue, Nov 22                  | Resampling - Under and Over | weak\_learners | mcjoe |
+| Tue, Nov 29                  | Zafar In-Processing | choosy\_donors | cortenide |
+| Tue, Nov 29                  | Celis In-Processing | team\_14 | team\_15 |
+| Tue, Nov 29                  | FairLearn In-Processing | team\_10 | team\_5 |
+| Thu, Dec 1                   | Model Selection | team\_13 | team\_3 |
+| Thu, Dec 1                   | Decoupled Classifiers | jnrsx | bug\_hunters |
+| Thu, Dec 1                   | Score Adjustments | justin\_case | team\_9 |
+
+
 ### Class Description
 
 This is a project-based course designed to provide students training and
