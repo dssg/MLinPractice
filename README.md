@@ -3,7 +3,7 @@
 **Previous Versions:** [Fall 2022](https://github.com/dssg/MLinPractice/releases/tag/fall2022) |  [Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021) | [Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020) | [Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)
 
 
-### Fall 2022: Tues & Thurs, 3:30-4:50 ([HOA 160](https://goo.gl/maps/ND39AzZQ8VLka9Gt7))
+### Fall 2023: Tues & Thurs, 3:30-4:50 ([HOA 160](https://goo.gl/maps/ND39AzZQ8VLka9Gt7))
 
 ### Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [detailed syllabus](README.md#structure)**
