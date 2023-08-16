@@ -33,7 +33,7 @@ mitigating algorithmic bias & disparities, and evaluating the impact of
 deployed models. 
 ## People
 
-### Instructors
+### Instructor
 
 | Rayid Ghani | 
 | --- | 
