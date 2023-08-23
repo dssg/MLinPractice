@@ -14,7 +14,7 @@
 
 This is a project-based course designed to provide students training and
 experience in solving real-world problems using machine learning,
-exploring the interface between research and practice, with a particular
+while exploring the interface between research and practice with a particular
 focus on topics in fairness and explainability.  
 
 The goal of this course is to give students exposure to the nuance of
@@ -27,9 +27,9 @@ learning systems for real-world problems and data, as well as applying
 and evaluating the utility of proposed methods for enhancing the
 interpretability and fairness of machine learning models. Through the
 course, students will develop skills in problem formulation, working
-with messy data, making ML design choices appropriate for the problem at
+with messy (aka real) data, making ML design choices appropriate for the problem at
 hand, model selection, model interpretability, understanding and
-mitigating algorithmic bias & disparities, and evaluating the impact of
+mitigating bias & disparities, and evaluating the impact of
 deployed models. 
 ## People
 
@@ -109,7 +109,7 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 Broadly, the course will be divided into three modules: 1) applied
 end-to-end machine learning pipelines, 2) model interpretability, and 3)
 fairness in machine learning. Throughout the course, students will work
-in groups of 4-5 to use an applied project based on a real-world problem
+in groups of 4-5 on an applied project based on a real-world problem
 to explore the ideas and methods covered in each module in detail.
 During the project, students will be responsible for several key
 deliverables:
@@ -163,12 +163,12 @@ related project work.
   
 ### MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS**  
 
-  - **Tuesday, August 30: Introduction**  
+  - **Tuesday, August 29: Introduction**  
     During our initial meeting, we’ll provide an introduction to the
     class, its goals, and an overview of the applied project we will be
     using as a motivating example throughout the semester.
 
-  - **Thursday, September 1: Project Scoping**  
+  - **Thursday, Augist 31: Project Scoping**  
     **DUE TODAY:** Project team selections  
       
     In this session, we’ll talk about scoping, problem definition, and
@@ -201,9 +201,9 @@ related project work.
       - *Predictive Modeling for Public Health: Preventing Childhood
         Lead Poisoning* by Potash, E, et al. KDD 2015.
 
-  - **DUE MONDAY, SEPTEMBER 5:** Individual Assignment: Getting to know the class project data
+  - **DUE TUESDAY, SEPTEMBER 5:** Individual Assignment: Getting to know the class project data
 
-  - **Tuesday, September 6: Obtaining, Storing, and Linking Data**  
+  - **Tuesday, September 5: Obtaining, Storing, and Linking Data**  
     In this class, we will look at some of the nuances of obtaining and
     using data in real-world projects, including a discussion of the
     strengths and weaknesses of different options for data storage as
@@ -223,8 +223,8 @@ related project work.
         Introduction and Section 1. [Available
         Online](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals)
 
-  - **Thursday, September 8: Analytical Formulation and Baselines**  
-    In this session, we’ll discuss analytical formulation of applied
+  - **Thursday, September 7: Analytical Formulation and Baselines**  
+    In this session, we’ll discuss the analytical formulation of applied
     projects. Distinct from the initial scoping, a true analytical
     formulation of your problem can only come after you have developed
     an understanding of the data at hand, which in turn will often
@@ -263,10 +263,10 @@ related project work.
         2013. Chapter 2: Business Problems and Data Science [Available
         Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
 
-  - **DUE MONDAY, SEPTEMBER 12:** Project Update 1 (Formulation and
+  - **DUE MONDAY, SEPTEMBER 11:** Project Update 1 (Formulation and
     Baselines)
 
-  - **Tuesday, September 13: Model Selection Methodology**  
+  - **Tuesday, September 12: Model Selection Methodology**  
     During this session, we’ll begin a discussion of model evaluation
     with a focus on validation strategies. Introductory machine learning
     classes tend to focus on techniques such as k-fold cross-validation
@@ -295,7 +295,7 @@ related project work.
         Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
         Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
-  - **Thursday, September 15: Model Performance Metrics**  
+  - **Thursday, September 14: Model Performance Metrics**  
     In this class, we’ll introduce topics around choosing performance
     metrics and evaluating classifiers. In most cases, a vast array of
     methods — each with a number of tunable hyperparameters — can be
@@ -307,7 +307,7 @@ related project work.
     that are performing equally well all learning the same patterns and
     generating the same predictions? How should you select one to deploy
     if they are not? In this class, we’ll begin to answer these
-    questions, focusing on the choice of performance metrics how they
+    questions, focusing on the choice of performance metrics and how they
     relate to your project’s goals, scope, and formulation.  
       
     Required Reading:
@@ -316,11 +316,11 @@ related project work.
         Dietterich, TG, et al. IJCAI 2016. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf)
 
-  - **DUE MONDAY, SEPTEMBER 19:** Project Update 2 (Validation set-up;
+  - **DUE MONDAY, SEPTEMBER 18:** Project Update 2 (Validation set-up;
     initial pipeline with train and validation sets and baseline
     implemented)
 
-  - **Tuesday, September 20: Feature Engineering and Imputation**  
+  - **Tuesday, September 19: Feature Engineering and Imputation**  
     In many real-world contexts, expressing domain expertise through
     thoughtful feature engineering can dramatically improve model
     performance by understanding what underlying factors are likely to
@@ -344,16 +344,16 @@ related project work.
       - *Missing-data imputation* by Gelman, A. [Available
         Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
-  - **Thursday, September 22: Hands-On Session for ML Pipeline
+  - **Thursday, September 21: Hands-On Session for ML Pipeline
     Review**  
     During this session, we’ll take some time to review the machine
     learning pipelines your teams have been building, providing feedback
     on structure, design decisions, and best practices.
 
-  - **DUE MONDAY, SEPTEMBER 26:** Project Update 3 (List of implemented
+  - **DUE MONDAY, SEPTEMBER 25:** Project Update 3 (List of implemented
     and planned features)
 
-  - **Tuesday, September 27: ML Modeling in Practice**  
+  - **Tuesday, September 26: ML Modeling in Practice**  
     This class will focus on some of the practical aspects of applying
     machine learning to real-world problems. In other classes, you have
     implemented and worked with a wide variety of machine learning
@@ -362,7 +362,7 @@ related project work.
     What pitfalls might you encounter in these situations and how can
     you avoid them?  
 
-  - **Thursday, September 29: Temporal Model Selection**  
+  - **Thursday, September 28: Temporal Model Selection**  
     During this class, we’ll continue our discussion from the previous
     week, delving into the details of winnowing down a large number of
     model specifications to one or a handful that perform “best” for
@@ -377,9 +377,9 @@ related project work.
         [Available
         Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
 
-  - **DUE MONDAY, OCTOBER 3:** Project Update 4 (Modeling Results)
+  - **DUE MONDAY, OCTOBER 2:** Project Update 4 (Modeling Results)
 
-  - **Tuesday, October 4: Module I Review: Applied ML End-to-End
+  - **Tuesday, October 3: Module I Review: Applied ML End-to-End
     Pipelines**  
     In this session, we’ll take some time to step back and review the
     concepts we have covered so far, with the goals of helping ensure
@@ -398,36 +398,36 @@ related project work.
         Ghani, R. et al. DSSG Blog. [Available
         Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
 
-  - **Thursday, October 6: Reviewing Project Modeling Results**  
+  - **Thursday, October 5: Reviewing Project Modeling Results**  
     In this class, we’ll take some time to look at the modeling results
     from the group projects, providing some feedback and advice for
     finalizing the models before applying interpretability methods to
     them.  
 
-  - **DUE MONDAY, OCTOBER 10:** Project Update 5 (Updated Modeling
+  - **DUE MONDAY, OCTOBER 9:** Project Update 5 (Updated Modeling
     Results and Model Selection)  
 
-  - **Tuesday, October 11: Working Session for Updating Models**  
+  - **Tuesday, October 10: Working Session for Updating Models**  
     For this session, we’ll meet together for a working session to
     provide some time to incorporate feedback on the latest round of
     modeling results. We’ll be on hand to help groups debug and improve
     their results.  
 
-  - **Thursday, October 13: No Class, Midterm Distributed**  
+  - **Thursday, October 12: No Class, Midterm Distributed**  
     We'll cancel class on this day to provide some extra time for working
     on the midterm and updating model results.
 
-  - **Tuesday, October 18 and Thursday, October 20: NO CLASSES – Fall
+  - **Tuesday, October 17 and Thursday, October 19: NO CLASSES – Fall
     Break**  
       
 
 ### MODULE 2: UNDERSTANDING ML MODELS**  
 
-  - **DUE MONDAY, OCTOBER 24:** Revised Project Update 5
+  - **DUE MONDAY, OCTOBER 23:** Revised Project Update 5
 
-  - **DUE TUESDAY, OCTOBER 25:** Take-home midterm exam  
+  - **DUE TUESDAY, OCTOBER 24:** Take-home midterm exam  
 
-  - **Tuesday, October 25: ML Ethics and Fairness Overview**  
+  - **Tuesday, October 24: ML Ethics and Fairness Overview**  
     In this session, we’ll have a discussion about ethical issues in
     machine learning, focusing on the broader landscape of topics in
     this area, including questions around privacy, transparency, and
@@ -450,7 +450,7 @@ related project work.
         (When prompted to select institution, select ’Not listed? Click
         here’ and enter your CMU email address to access content)
 
-  - **Thursday, October 27: Model Interpretability Overview**  
+  - **Thursday, October 26: Model Interpretability Overview**  
     Model interpretability can be thought of at two levels: global (how
     the model works in aggregate) and local (why an individual
     prediction came out as it did). In this class, we’ll focus on the
@@ -473,7 +473,7 @@ related project work.
         [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
-  - **Tuesday, November 1: Practical Understanding of ML Models**   
+  - **Tuesday, October 30: Practical Understanding of ML Models**   
     During this session, we'll be introducing some simple and practical analyses to
     perform after the modeling process and what it means to compare
     performance across model specifications. These methods can help
@@ -481,7 +481,7 @@ related project work.
     between predicted classes and play an important role in detecting
     bugs such as leakage.
 
-  - **Thursday, November 3: Inherently-Interpretable Methods**  
+  - **Thursday, November 2: Inherently-Interpretable Methods**  
     In this class, we’ll start our deeper dives into specific methods by
     looking at inherently interpretable methods, including
     GA<sup>2</sup>M models and RiskSLIM. Groups will give a 15-minute
@@ -507,7 +507,7 @@ related project work.
         and Prediction* by Lakkaraju, H, et al. KDD 2016. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LakkarajuDecisionSets.pdf)
 
-  - **Tuesday, November 8: Post-Hoc Local Explanations**  
+  - **Tuesday, November 7: Post-Hoc Local Explanations**  
     In this class, we’ll continue our discussion model interpretability
     by looking at three methods that can provide local, feature-based
     explanations without relying on the details of the underlying model:
@@ -539,7 +539,7 @@ related project work.
         arXiv preprint: arxiv/1905.04610. [Available
         Online](https://arxiv.org/pdf/1905.04610.pdf)
 
-  - **Thursday, November 10: Other Interpretability Methods**  
+  - **Thursday, November 9: Other Interpretability Methods**  
     In this session, we’ll take a look at some of the other methods
     people have explored for model interpretability, such as
     counterfactual (e.g., DiCE) and example-based methods (e.g.,
@@ -567,12 +567,12 @@ related project work.
         Koh, P.W. and Liang, P. ICML 2017. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/KohInfluenceFunctions.pdf)
 
-  - **DUE FRIDAY, NOVEMBER 11:** Extended Abstract on Interpretability  
+  - **DUE FRIDAY, NOVEMBER 10:** Extended Abstract on Interpretability  
       
 
 ### MODULE 3: FAIRNESS IN ML**  
 
-  - **Tuesday, November 15: Intro to Fairness**  
+  - **Tuesday, November 14: Intro to Fairness**  
     In this class, we’ll introduce topics in ML fairness, where we will
     focus our methods deep dives for the remainder of the semester: Just
     as important as assessing whether your model is making accurate
@@ -618,7 +618,7 @@ related project work.
         [Available
         Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
-  - **Thursday, November 17: Field Trials and Causality**  
+  - **Thursday, November 16: Field Trials and Causality**  
     In this session, we’ll briefly discuss field trials and issues of
     causality, critical for understanding how your model actually
     generalizes to real-world applications. Even with careful planning
@@ -643,7 +643,7 @@ related project work.
         Chapters 1 and 2. [Available Online (Open Access
         Link)](https://mitpress.mit.edu/books/elements-causal-inference)
 
-  - **Tuesday, November 22: Pre-Processing FairML Methods**  
+  - **Tuesday, November 21: Pre-Processing FairML Methods**  
     During this class, we’ll start exploring fairness-enhancing methods
     by specifically looking at pre-processing methods that work upstream
     of the machine learning models themselves in hopes of reducing
@@ -675,9 +675,9 @@ related project work.
         2012. [Available
         Online](https://dl.acm.org/citation.cfm?id=2090255)
 
-  - **Thursday, November 24: NO CLASSES – Thanksgiving**
+  - **Thursday, November 23: NO CLASSES – Thanksgiving**
 
-  - **Tuesday, November 29: In-Processing FairML Methods**  
+  - **Tuesday, November 28: In-Processing FairML Methods**  
     In this session, we’ll look at in-processing methods for improving
     fairness by adding constraints (or regularization terms) to the
     optimization performed during model training, focusing on methods
@@ -706,7 +706,7 @@ related project work.
         Zafar, M., et al. WWW 2017. [Available
         Online](https://dl.acm.org/doi/pdf/10.1145/3038912.3052660?casa_token=QuGrvlIf8bcAAAAA:9dUP_TCcEQFAXQc8BXmjlUtWQGzKehUolZBIvveQX1-Sj2KDeSdtZpzQG98TKi4BN6NTeizZKXtDaVI)
 
-  - **Thursday, December 1: Post-Process FairML Methods**  
+  - **Thursday, November 31: Post-Process FairML Methods**  
     This class, we’ll turn to post-processing methods, including
     fairness-aware model selection, decoupled models, and post-hoc score
     adjustments.  
@@ -732,18 +732,18 @@ related project work.
         K.T., et al. FAT\* 2020. [Available
         Online](https://arxiv.org/pdf/2001.09233)
 
-  - **Tuesday, December 6: Module III Review**  
+  - **Tuesday, December 5: Module III Review**  
     In this session, we’ll wrap up our discussion of ML interpretability
     with a brief review of the methods we’ve covered (and what we
     haven’t had time to discuss)  
 
-  - **Thursday, December 8: Wrap-Up**  
+  - **Thursday, December 7: Wrap-Up**  
     For this meeting, we’ll wrap up the course with a review of the
     topics we’ve covered throughout the semester and some comments on
     the important take-home messages we hope will be useful in your
     future research and work.  
 
-  - **DUE FRIDAY, DECEMBER 9:** Extended Abstract on Fairness
+  - **DUE FRIDAY, DECEMBER 8:** Extended Abstract on Fairness
 
   - **DUE DATE TBD (Finals Week): Final Reflection Write-Up**  
     As a final assignment, we’re asking each student to write up a brief
