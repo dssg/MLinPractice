@@ -168,7 +168,7 @@ related project work.
     class, its goals, and an overview of the applied project we will be
     using as a motivating example throughout the semester.
 
-  - **Thursday, Augist 31: Project Scoping**  
+  - **Thursday, August 31: Project Scoping**  
     **DUE TODAY:** Project team selections  
       
     In this session, we’ll talk about scoping, problem definition, and
