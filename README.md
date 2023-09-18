@@ -43,7 +43,7 @@ deployed models.
 
 Catalina Vajiac |  
 | --- | 
-| <img src='http://catvajiac.me/authors/admin/avatar_huefa40cd8f2a1bac27d9779963fc2943f_776687_250x250_fill_q90_lanczos_center.jpeg' width="200" /> <br /> Office Hours: Monday 2-3pm, Thursday 2-3pm  GHC 8018 TBD  | 
+| <img src='http://catvajiac.me/authors/admin/avatar_huefa40cd8f2a1bac27d9779963fc2943f_776687_250x250_fill_q90_lanczos_center.jpeg' width="200" /> <br /> Office Hours: Monday 2-3pm, Thursday 2-3pm  GHC 8018   | 
 
 ## Grading 
 
