@@ -344,8 +344,8 @@ related project work.
       - *Missing-data imputation* by Gelman, A. [Available
         Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
-  - **Thursday, September 21: Hands-On Session for ML Pipeline
-    Review**  
+  - **Thursday, September 21:  ML Pipelines
+    **  
     During this session, we’ll take some time to review the machine
     learning pipelines your teams have been building, providing feedback
     on structure, design decisions, and best practices.
