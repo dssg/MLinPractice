@@ -92,9 +92,9 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 | 9    | Tu: Oct 24       | [](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)[ML Ethics Issues Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx) | Add assignment: importances and cross tabs                                                                                            |
 | 9    | Th: Oct 26       | [Interpretability: Intro and Overview, taxonomy](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)                                                               |                                                                                                                                       |
 | 10   | Tu: Oct 31       | [Understanding the Models](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)                                                                                     | importances + cross tabs assignment due                                                                                               |
-| 10   | Th: Nov 2        | Interpretability Methods: Inherently Interpretable (GA2Ms, RiskSLIM, etc.)                                                                                                                                |                                                                                                                                       |
-| 11   | Tu: Nov 7        | Interpretability Methods:: Post-Hoc Local/Feature-based (LIME, SHAP, MAPLE)                                                                                                                               |                                                                                                                                       |
-| 11   | Th: Nov 9        | Interpretability Methods: Other methods (counterfactual, example-based, etc.)                                                                                                                             | Interpretability Writeup Due on Friday                                                                                                |
+| 10   | Th: Nov 2        | Interpretability Methods: Inherently Interpretable ([GA2Ms](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/CaruanaGAM.pdf), [RiskSLIM](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/UstunRudinINFORMS.pdf), etc.)                                                                                                                                |                                                                                                                                       |
+| 11   | Tu: Nov 7        | Interpretability Methods:: Post-Hoc Local/Feature-based ([LIME](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RibeiroLIME.pdf), [SHAP](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LundbergSHAP.pdf)                                                                                                                               |                                                                                                                                       |
+| 11   | Th: Nov 9        | Interpretability Methods: Other methods (counterfactual [DICE](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/MothilalCounterfactual.pdf), example-based [ProtoDash](https://arxiv.org/pdf/1707.01212), etc.)                                                                                                                             | Interpretability Writeup Due on Friday                                                                                                |
 | 12   | Tu: Nov 14       | [Fairness in ML Overview](https://github.com/dssg/MLinPractice/blob/main/Lectures/Lecture19-FairnessOverview.pptx)                                                                                        |                                                                                                                                       |
 | 12   | Th:Nov 16        | [Field Trials and Causality](https://github.com/dssg/MLinPractice/blob/main/Lectures/Lecture20-FieldValidation.pptx)                                                                                      |                                                                                                                                       |
 | 13   | Tu: Nov 21       | Fairness Methods: Pre-processing (removing sensitive attribute, sampling)                                                                                                                                 |                                                                                                                                       |
@@ -520,11 +520,11 @@ related project work.
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RibeiroLIME.pdf)
     
       - *A Unified Approach to Interpreting Model Predictions* by
-        Lundberg, SM and Lee, S. NIPS 2017. [Available
+        Lundberg, SM and Lee, S. NeuRIPS 2017. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LundbergSHAP.pdf)
     
       - *Model Agnostic Supervised Local Explanations* by Plumb, G,
-        Molitor, D, and Talwalkar, AS. NIPS 2018. [Available
+        Molitor, D, and Talwalkar, AS. NeuRIPS 2018. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PlumbMAPLE.pdf)
     
     Optional Readings:
@@ -609,7 +609,7 @@ related project work.
         Online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690)
     
       - *Does Mitigating ML’s Impact Disparity Require Treatment
-        Disparity?* by Lipton, Z, McAuley, J, and Chouldechova, A. NIPS
+        Disparity?* by Lipton, Z, McAuley, J, and Chouldechova, A. NeuRIPS
         2018. [Available
         Online](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity)
     
@@ -721,7 +721,7 @@ related project work.
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/DworkDecoupled.pdf)
     
       - *Equality of Opportunity in Supervised Learning* by Hardt, M.
-        and Price, E. NIPS 2016. [Available
+        and Price, E. NeurIPS 2016. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HardtEqualityOpportunity.pdf)
     
     Optional Readings:
