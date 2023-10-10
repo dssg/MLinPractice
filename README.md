@@ -379,7 +379,20 @@ related project work.
 
   - **DUE MONDAY, OCTOBER 2:** Project Update 4 (Modeling Results)
 
-  - **Tuesday, October 3: Module I Review: Applied ML End-to-End
+  - **Tuesday, October 3: Reviewing Project Modeling Results**  
+    In this class, we’ll take some time to look at the modeling results
+    from the group projects, providing some feedback and advice for
+    finalizing the models before applying interpretability methods to
+    them.
+
+   
+  - **Thursday, October 5: Other ML Problem Templates**  
+  
+
+  - **DUE MONDAY, OCTOBER 9:** Project Update 5 (Updated Modeling
+    Results and Model Selection)  
+
+  - **Tuesday, October 10: Module I Review: Applied ML End-to-End
     Pipelines**  
     In this session, we’ll take some time to step back and review the
     concepts we have covered so far, with the goals of helping ensure
@@ -398,20 +411,6 @@ related project work.
         Ghani, R. et al. DSSG Blog. [Available
         Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
 
-  - **Thursday, October 5: Reviewing Project Modeling Results**  
-    In this class, we’ll take some time to look at the modeling results
-    from the group projects, providing some feedback and advice for
-    finalizing the models before applying interpretability methods to
-    them.  
-
-  - **DUE MONDAY, OCTOBER 9:** Project Update 5 (Updated Modeling
-    Results and Model Selection)  
-
-  - **Tuesday, October 10: Working Session for Updating Models**  
-    For this session, we’ll meet together for a working session to
-    provide some time to incorporate feedback on the latest round of
-    modeling results. We’ll be on hand to help groups debug and improve
-    their results.  
 
   - **Thursday, October 12: No Class, Midterm Distributed**  
     We'll cancel class on this day to provide some extra time for working
