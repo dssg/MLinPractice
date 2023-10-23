@@ -422,8 +422,6 @@ related project work.
 
 ### MODULE 2: UNDERSTANDING ML MODELS**  
 
-  - **DUE MONDAY, OCTOBER 23:** Revised Project Update 5
-
   - **DUE TUESDAY, OCTOBER 24:** Take-home midterm exam  
 
   - **Tuesday, October 24: ML Ethics and Fairness Overview**  
@@ -472,6 +470,8 @@ related project work.
         [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
+  - **DUE TUESDAY, OCTOBER 30:**  Project Update 6 (Understanding Your Models)
+  - 
   - **Tuesday, October 30: Practical Understanding of ML Models**   
     During this session, we'll be introducing some simple and practical analyses to
     perform after the modeling process and what it means to compare
