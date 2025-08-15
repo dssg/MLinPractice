@@ -35,7 +35,7 @@ deployed models.
 
 | Rayid Ghani | 
 | --- | 
-| <img src='https://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />   TBD | 
+| ![Rayid Ghani Photo](/img/rayidphoto.png) <br /> GHC 8023 <br /> Office Hours: <br />   TBD | 
 
 ### Teaching Assistant
 
