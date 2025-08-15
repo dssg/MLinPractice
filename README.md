@@ -35,7 +35,7 @@ deployed models.
 
 | Rayid Ghani | 
 | --- | 
-| ![Rayid Ghani Photo](/img/rayidphoto.png) <br /> GHC 8023 <br /> Office Hours: <br />   TBD | 
+| <img src="img/rayidphoto.png" width="200" /><br /> GHC 8023 <br /> Office Hours: <br />   TBD | 
 
 ### Teaching Assistant
 
