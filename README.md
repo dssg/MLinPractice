@@ -1,27 +1,25 @@
 # 10718: Machine Learning in Practice
 
-**Previous Versions:** [Fall 2022](https://github.com/dssg/MLinPractice/releases/tag/fall2022) |  [Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021) | [Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020) | [Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)
+**Previous Versions:** [Fall 2023](https://github.com/dssg/MLinPractice/releases/tag/fall2023) | [Fall 2022](https://github.com/dssg/MLinPractice/releases/tag/fall2022) |  [Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021) | [Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020) | [Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)
 
 
-### Fall 2023: Tues & Thurs, 3:30-4:50 ([HOA 160](https://goo.gl/maps/ND39AzZQ8VLka9Gt7))
+### Fall 2025: Tues & Thurs, 2:00-3:20 ([POS 153](https://maps.app.goo.gl/FSHeY1jTBVzpsztA8))
 
 ### Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [detailed syllabus](README.md#structure)**
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/36097)**
- - **Class communication and announcements will be primarily through [Slack](http://mlinpractice2023.slack.com)**
+ - **Class communication and announcements will be primarily through email and piazza**
 
 ### Class Description
 
 This is a project-based course designed to provide students training and
 experience in solving real-world problems using machine learning,
-while exploring the interface between research and practice with a particular
-focus on topics in fairness and explainability.  
+while exploring the interface between research and practice.
 
 The goal of this course is to give students exposure to the nuance of
-applying machine learning to the real-world, where common assumptions
+using machine learning in the real-world, where common assumptions
 (like iid and stationarity) break down, and the growing needs for (and
-limitations of) approaches to improve fairness and explainability of
-these applications. Through project assignments, lectures, discussions,
+limitations of) approaches that go beyond optimizing for simple model accuracy measures and explore notions of fairness, explainability, robustness, etc. Through project assignments, lectures, discussions,
 and readings, students will learn about and experience building machine
 learning systems for real-world problems and data, as well as applying
 and evaluating the utility of proposed methods for enhancing the
@@ -37,7 +35,7 @@ deployed models.
 
 | Rayid Ghani | 
 | --- | 
-| <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />   Tue 2-3, Thu 1-2 | 
+| <img src='http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/RayidGhani-012-400x400.jpg' width='200' height='200' /> <br /> GHC 8023 <br /> Office Hours: <br />   TBD | 
 
 ### Teaching Assistant
 
@@ -47,23 +45,19 @@ Catalina Vajiac |
 
 ## Grading 
 
-Note that this course is being offered pass/fail. Each time you ask how each action you take will affect your grade will result in lowering of the grade :)
-
-Weekly project update assignments (10%)
+Project update assignments (25%)
 
 Midterm take-home exam (20%)
 
-Write-up on interpretability findings (15%)
+Write-up on interpretability findings (10%)
 
-Write-up on fairness findings (15%)
+Write-up on fairness findings (10%)
 
 Group presentation (5%)
 
-Final reflection write-up (15%)
+Final reflection write-up (10%)
 
-Quizzes on readings and concepts (5%)
-
-Class attendance and participation (10%)
+Class attendance and participation in discussions (15%)
 
 Submitting weekly check-in and feedback forms (5%)
 
@@ -109,7 +103,7 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 Broadly, the course will be divided into three modules: 1) applied
 end-to-end machine learning pipelines, 2) model interpretability, and 3)
 fairness in machine learning. Throughout the course, students will work
-in groups of 4-5 on an applied project based on a real-world problem
+in groups of 4 on an applied project based on a real-world problem
 to explore the ideas and methods covered in each module in detail.
 During the project, students will be responsible for several key
 deliverables:
