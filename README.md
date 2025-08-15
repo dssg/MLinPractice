@@ -35,11 +35,11 @@ deployed models.
 
 | Rayid Ghani | 
 | --- | 
-| <img src="img/rayidphoto.png" width="200" /><br /> GHC 8023 <br /> Office Hours: <br />   TBD | 
+| <img src="img/rayidphoto.png" width="200" /><br /> GHC 8023 <br /> Office Hours: <br />   Tuesday 12:30-1:30pm Wednesday 3-4pm  | 
 
 ### Teaching Assistant
 
-Catalina Vajiac |  
+Catalina Vajiac | 
 | --- | 
 | <img src='http://catvajiac.me/authors/admin/avatar_huefa40cd8f2a1bac27d9779963fc2943f_776687_250x250_fill_q90_lanczos_center.jpeg' width="200" /> <br /> Office Hours: Monday 2-3pm, Thursday 2-3pm  GHC 8018   | 
 
