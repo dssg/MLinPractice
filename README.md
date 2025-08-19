@@ -7,7 +7,7 @@
 
 ### Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [detailed syllabus](README.md#structure)**
- - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/36097)**
+ - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/49132)**
  - **Class communication and announcements will be primarily through email and piazza**
 
 ### Class Description
