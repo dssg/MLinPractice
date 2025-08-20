@@ -135,6 +135,9 @@ deliverables:
     3-4 pages in length, detailing the methods, how they were used in
     their project, findings, and any recommendations.
 
+## Grace Days
+Project teams receive 3 total grace days for use on your project deliverables. You may not use more than 1 grace day on any single assignment. We will automatically keep a tally of these grace days for you; they will be applied greedily. 
+
 ## Structure
 The course is divided into three modules:
 
