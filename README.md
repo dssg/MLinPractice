@@ -29,6 +29,12 @@ with messy (aka real) data, making ML design choices appropriate for the problem
 hand, model selection, model interpretability, understanding and
 mitigating bias & disparities, and evaluating the impact of
 deployed models. 
+
+### Course Learning Objectives
+ - Design and evaluate novel combinations of learning algorithms.
+ - Take real-world questions involving data and evaluate or develop appropriate methods to answer these questions.
+ - Present technical material clearly, in spoken and written form.
+ 
 ## People
 
 ### Instructor
@@ -37,11 +43,17 @@ deployed models.
 | --- | 
 | <img src="img/rayidphoto.png" width="200" /><br /> GHC 8023 <br /> Office Hours: <br />   Tuesday 12:30-1:30pm Wednesday 3-4pm  | 
 
-### Teaching Assistant
+### Education Associate
 
-Catalina Vajiac | 
+Daniel Bird | 
 | --- | 
-| <img src='http://catvajiac.me/authors/admin/avatar_huefa40cd8f2a1bac27d9779963fc2943f_776687_250x250_fill_q90_lanczos_center.jpeg' width="200" /> <br /> Office Hours: Monday 2-3pm, Thursday 2-3pm  GHC 8018   | 
+| <img src='img/Daniel Bird.jpeg' width="200" /> <br /> Office: GHC 8020   | 
+
+### Teaching Assistants
+
+Chancharik Mitra | Namrata	Deka | Rohan Venkatesh Kashyap
+| --- | --- | --- |
+| <img src='img/Chancharik_Mitra.jpg' width="200" /> <br /> Office Hours: TBD   | <img src='img/Namrata Deka.jpg' width="200" /> <br /> Office Hours: TBD   | <img src='img/Rohan.jpg' width="200" /> <br /> Office Hours: TBD   | 
 
 ## Grading 
 
@@ -137,6 +149,9 @@ deliverables:
 
 ## Grace Days
 Project teams receive 3 total grace days for use on your project deliverables. You may not use more than 1 grace day on any single assignment. We will automatically keep a tally of these grace days for you; they will be applied greedily. 
+
+## Participation and Missing Days
+Attendance in class and participation in class discussions is a large part of 10-718. Throughout the semester your participation will be measured by your responses in class and via Slido. You are permitted to miss a maximum of 4 lectures in order to still be considered for full participation credit, more than this will begin to reduce your participation grade.
 
 ## Structure
 The course is divided into three modules:
