@@ -8,7 +8,7 @@
 ### Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [detailed syllabus](README.md#structure)**
  - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/49132)**
- - **Class communication and announcements will be primarily through email and piazza**
+ - **Class communication and announcements will be primarily through email and [piazza](https://piazza.com/cmu/fall2025/10718/home)**
 
 ### Class Description
 
@@ -34,7 +34,7 @@ deployed models.
  - Design and evaluate novel combinations of learning algorithms.
  - Take real-world questions involving data and evaluate or develop appropriate methods to answer these questions.
  - Present technical material clearly, in spoken and written form.
- 
+
 ## People
 
 ### Instructor
