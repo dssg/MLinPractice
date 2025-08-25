@@ -216,194 +216,194 @@ related project work.
 - Individual Assignment: Getting to know the class project data
 - Project team selections
 
-    - **Tuesday, September 9: Data Exploration**  
+  - **Tuesday, September 9: Data Exploration**  
 
 
-  - **Thursday, September 11: Analytical Formulation and Baselines**  
-    In this session, we’ll discuss the analytical formulation of applied
-    projects. Distinct from the initial scoping, a true analytical
-    formulation of your problem can only come after you have developed
-    an understanding of the data at hand, which in turn will often
-    result in a greater understanding of the problem itself. Here,
-    you’ll ask how specifically your label (if relevant) is defined in
-    the data, what types of information are available as features, and
-    what baseline you’ll be measuring performance against. Very rarely
-    is the appropriate baseline as simple as “random choice” or the
-    population prevalence. Rather, it should reflect what would be
-    expected to happen otherwise: perhaps a simple decision rule that an
-    expert would come up with or even a pre-existing statistical model
-    that the current effort is seeking to replace.  
-      
-    Required Readings:
-    
-      - *Dissecting Racial Bias in an Algorithm Used to Manage the
-        Health of Populations* by Obermeyer, Z., Powers, B., et al.
-        Science. 2019. [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf)
-    
-      - *Problem Formulation and Fairness* by Passi and Barocas. FAT\*
-        2019. [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf)
-    
-    Optional Readings:
-    
-      - *Always Start with a Stupid Model, No Exceptions* by Ameisen, E.
-        Medium. [Available
-        Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
-    
-      - *Create a Common-Sense Baseline First* by Ramakrishnan. Medium.
-        [Available
-        Online](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47)
-    
-      - *Data Science for Business* by Provost and Fawcett. O’Reilly.
-        2013. Chapter 2: Business Problems and Data Science [Available
-        Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
+ - **Thursday, September 11: Analytical Formulation and Baselines**  
+   In this session, we’ll discuss the analytical formulation of applied
+   projects. Distinct from the initial scoping, a true analytical
+   formulation of your problem can only come after you have developed
+   an understanding of the data at hand, which in turn will often
+   result in a greater understanding of the problem itself. Here,
+   you’ll ask how specifically your label (if relevant) is defined in
+   the data, what types of information are available as features, and
+   what baseline you’ll be measuring performance against. Very rarely
+   is the appropriate baseline as simple as “random choice” or the
+   population prevalence. Rather, it should reflect what would be
+   expected to happen otherwise: perhaps a simple decision rule that an
+   expert would come up with or even a pre-existing statistical model
+   that the current effort is seeking to replace.  
+     
+   Required Readings:
+   
+     - *Dissecting Racial Bias in an Algorithm Used to Manage the
+       Health of Populations* by Obermeyer, Z., Powers, B., et al.
+       Science. 2019. [Available
+       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf)
+   
+     - *Problem Formulation and Fairness* by Passi and Barocas. FAT\*
+       2019. [Available
+       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf)
+   
+   Optional Readings:
+   
+     - *Always Start with a Stupid Model, No Exceptions* by Ameisen, E.
+       Medium. [Available
+       Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
+   
+     - *Create a Common-Sense Baseline First* by Ramakrishnan. Medium.
+       [Available
+       Online](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47)
+   
+     - *Data Science for Business* by Provost and Fawcett. O’Reilly.
+       2013. Chapter 2: Business Problems and Data Science [Available
+       Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
 
-  - **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and
-    Baselines)
-    
-  - **Tuesday, September 16: Model Selection Methodology**  
-    During this session, we’ll begin a discussion of model evaluation
-    with a focus on validation strategies. Introductory machine learning
-    classes tend to focus on techniques such as k-fold cross-validation
-    to guard against over-fitting, but is this always the best approach
-    in practice? How does your choice of validation strategy relate to
-    the manner in which you are hoping your model will generalize?  
-      
-    Required Reading:
-    
-      - *Cross-validation strategies for data with temporal, spatial,
-        hierarchical, or phylogenetic structure* by Roberts, DR, Bahn,
-        V, et al. Ecography 40:2017. [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf)
-    
-    Optional Readings:
-    
-      - *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
-        [Available
-        Online](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
-    
-      - *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
-        arXiv preprint: 1906.01998. 2019. [Available
-        Online](https://arxiv.org/abs/1906.01998)
-    
-      - *Big Data and Social Science (2nd edition)* edited by Foster,
-        Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
-        Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
+ - **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and
+   Baselines)
+   
+ - **Tuesday, September 16: Model Selection Methodology**  
+   During this session, we’ll begin a discussion of model evaluation
+   with a focus on validation strategies. Introductory machine learning
+   classes tend to focus on techniques such as k-fold cross-validation
+   to guard against over-fitting, but is this always the best approach
+   in practice? How does your choice of validation strategy relate to
+   the manner in which you are hoping your model will generalize?  
+     
+   Required Reading:
+   
+     - *Cross-validation strategies for data with temporal, spatial,
+       hierarchical, or phylogenetic structure* by Roberts, DR, Bahn,
+       V, et al. Ecography 40:2017. [Available
+       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf)
+   
+   Optional Readings:
+   
+     - *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
+       [Available
+       Online](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
+   
+     - *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
+       arXiv preprint: 1906.01998. 2019. [Available
+       Online](https://arxiv.org/abs/1906.01998)
+   
+     - *Big Data and Social Science (2nd edition)* edited by Foster,
+       Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
+       Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
-  - **Thursday, September 18: Model Performance Metrics**  
-    In this class, we’ll introduce topics around choosing performance
-    metrics and evaluating classifiers. In most cases, a vast array of
-    methods — each with a number of tunable hyperparameters — can be
-    brought to bear on your modeling question. How do you decide which
-    models are better than others and how can you be confident this
-    decision will generalize into the future when the model is deployed?
-    How should you balance considerations of performance,
-    explainability, and fairness when making these decisions? Are models
-    that are performing equally well all learning the same patterns and
-    generating the same predictions? How should you select one to deploy
-    if they are not? In this class, we’ll begin to answer these
-    questions, focusing on the choice of performance metrics and how they
-    relate to your project’s goals, scope, and formulation.  
-      
-    Required Reading:
-    
-      - *Transductive Optimization of Top k Precision* by Liu, LP,
-        Dietterich, TG, et al. IJCAI 2016. [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf)
+ - **Thursday, September 18: Model Performance Metrics**  
+   In this class, we’ll introduce topics around choosing performance
+   metrics and evaluating classifiers. In most cases, a vast array of
+   methods — each with a number of tunable hyperparameters — can be
+   brought to bear on your modeling question. How do you decide which
+   models are better than others and how can you be confident this
+   decision will generalize into the future when the model is deployed?
+   How should you balance considerations of performance,
+   explainability, and fairness when making these decisions? Are models
+   that are performing equally well all learning the same patterns and
+   generating the same predictions? How should you select one to deploy
+   if they are not? In this class, we’ll begin to answer these
+   questions, focusing on the choice of performance metrics and how they
+   relate to your project’s goals, scope, and formulation.  
+     
+   Required Reading:
+   
+     - *Transductive Optimization of Top k Precision* by Liu, LP,
+       Dietterich, TG, et al. IJCAI 2016. [Available
+       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf)
 
-  - **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up;
-    initial pipeline with train and validation sets and baseline
-    implemented)
+ - **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up;
+   initial pipeline with train and validation sets and baseline
+   implemented)
 
-  - **Tuesday, September 23: Feature Engineering and Imputation**  
-    In many real-world contexts, expressing domain expertise through
-    thoughtful feature engineering can dramatically improve model
-    performance by understanding what underlying factors are likely to
-    be predictive and helping the model find these relationships.
-    Likewise, most data sets you’ll encounter in practice are littered
-    with outliers, inconsistencies, and missingness. Handling these data
-    issues in a smart way can be critical to a project’s success. This
-    class will focus on these aspects of dealing with often messy and
-    inconsistent data encountered in applied projects.  
-      
-    Optional Readings:
-    
-      - *Missing Data Conundrum* by Akinfaderin, W. Medium. [Available
-        Online](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
-    
-      - *Feature Engineering for Machine Learning* by Zhang, A. and
-        Casari, A. O’Reilly. 2018. Chapter 2: Fancy Tricks with Simple
-        Numbers [Available
-        Online](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
-    
-      - *Missing-data imputation* by Gelman, A. [Available
-        Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
+ - **Tuesday, September 23: Feature Engineering and Imputation**  
+   In many real-world contexts, expressing domain expertise through
+   thoughtful feature engineering can dramatically improve model
+   performance by understanding what underlying factors are likely to
+   be predictive and helping the model find these relationships.
+   Likewise, most data sets you’ll encounter in practice are littered
+   with outliers, inconsistencies, and missingness. Handling these data
+   issues in a smart way can be critical to a project’s success. This
+   class will focus on these aspects of dealing with often messy and
+   inconsistent data encountered in applied projects.  
+     
+   Optional Readings:
+   
+     - *Missing Data Conundrum* by Akinfaderin, W. Medium. [Available
+       Online](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
+   
+     - *Feature Engineering for Machine Learning* by Zhang, A. and
+       Casari, A. O’Reilly. 2018. Chapter 2: Fancy Tricks with Simple
+       Numbers [Available
+       Online](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
+   
+     - *Missing-data imputation* by Gelman, A. [Available
+       Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
-  - **Thursday, September 25:  ML Pipelines**  
-    During this session, we’ll take some time to review the machine
-    learning pipelines your teams have been building, providing feedback
-    on structure, design decisions, and best practices.
+ - **Thursday, September 25:  ML Pipelines**  
+   During this session, we’ll take some time to review the machine
+   learning pipelines your teams have been building, providing feedback
+   on structure, design decisions, and best practices.
 
-  - **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented
-    and planned features)
+ - **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented
+   and planned features)
 
-  - **Tuesday, September 30: ML Modeling in Practice**  
-    This class will focus on some of the practical aspects of applying
-    machine learning to real-world problems. In other classes, you have
-    implemented and worked with a wide variety of machine learning
-    methods, but where should you start when dealing with a real problem
-    in practice? What is a “reasonable” hyperparameter grid to consider?
-    What pitfalls might you encounter in these situations and how can
-    you avoid them?  
+ - **Tuesday, September 30: ML Modeling in Practice**  
+   This class will focus on some of the practical aspects of applying
+   machine learning to real-world problems. In other classes, you have
+   implemented and worked with a wide variety of machine learning
+   methods, but where should you start when dealing with a real problem
+   in practice? What is a “reasonable” hyperparameter grid to consider?
+   What pitfalls might you encounter in these situations and how can
+   you avoid them?  
 
-  - **Thursday, Oct 2: Temporal Model Selection**  
-    During this class, we’ll continue our discussion from the previous
-    week, delving into the details of winnowing down a large number of
-    model specifications to one or a handful that perform “best” for
-    some definition of “best”. In particular, we’ll focus on the common
-    case of machine learning problems with a strong temporal component
-    and the desire to balance performance and stability in model
-    selection.  
-      
-    Optional Reading:
-    
-      - *Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017.
-        [Available
-        Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
+ - **Thursday, Oct 2: Temporal Model Selection**  
+   During this class, we’ll continue our discussion from the previous
+   week, delving into the details of winnowing down a large number of
+   model specifications to one or a handful that perform “best” for
+   some definition of “best”. In particular, we’ll focus on the common
+   case of machine learning problems with a strong temporal component
+   and the desire to balance performance and stability in model
+   selection.  
+     
+   Optional Reading:
+   
+     - *Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017.
+       [Available
+       Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
 
-  - **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
+ - **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
 
-  - **Tuesday, October 7: Module 1 Review: Applied ML End-to-End
-    Pipelines**  
-    In this session, we’ll take some time to step back and review the
-    concepts we have covered so far, with the goals of helping ensure
-    all the projects are on track for the second and third modules,
-    preparing for next week’s concept-focused midterm exam, and
-    highlighting what we see as the most important takeaways from this
-    section of the course.  
-      
-    Required Readings:
-    
-      - *Three Pitfalls to Avoid in Machine Learning* by Riley, P.
-        Nature. 527. 2019 (Comment) [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
-    
-      - *Top 10 ways your Machine Learning models may have leakage* by
-        Ghani, R. et al. DSSG Blog. [Available
-        Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
+ - **Tuesday, October 7: Module 1 Review: Applied ML End-to-End
+   Pipelines**  
+   In this session, we’ll take some time to step back and review the
+   concepts we have covered so far, with the goals of helping ensure
+   all the projects are on track for the second and third modules,
+   preparing for next week’s concept-focused midterm exam, and
+   highlighting what we see as the most important takeaways from this
+   section of the course.  
+     
+   Required Readings:
+   
+     - *Three Pitfalls to Avoid in Machine Learning* by Riley, P.
+       Nature. 527. 2019 (Comment) [Available
+       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
+   
+     - *Top 10 ways your Machine Learning models may have leakage* by
+       Ghani, R. et al. DSSG Blog. [Available
+       Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
 
 
-  - **Thursday, October 9: No Class, Midterm Distributed**  
-    We'll cancel class on this day to provide some extra time for working
-    on the midterm and updating model results.
+ - **Thursday, October 9: No Class, Midterm Distributed**  
+   We'll cancel class on this day to provide some extra time for working
+   on the midterm and updating model results.
 
-  - **Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall
-    Break**  
-      
- - **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
- - **DUE MONDAY, OCTOBER 21:** Project Update 5 (Updated Modeling
-    Results and Model Selection)  
+ - **Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall
+   Break**  
+     
+- **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
+- **DUE MONDAY, OCTOBER 21:** Project Update 5 (Updated Modeling
+   Results and Model Selection)  
 
 ### MODULE 2: Key Considerations Beyond Model Accuracy**
  This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be chosen as we go through the semester collaboratively.
