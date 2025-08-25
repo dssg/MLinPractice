@@ -57,15 +57,13 @@ deployed models.
 
 ## Grading 
 
-Project update assignments (25%)
+Project update assignments (30%)
 
 Midterm take-home exam (20%)
 
-Write-up on interpretability findings (10%)
+Write-up on module 2 findings (10%)
 
-Write-up on fairness findings (10%)
-
-Group presentation (5%)
+Group presentation (10%)
 
 Final reflection write-up (10%)
 
