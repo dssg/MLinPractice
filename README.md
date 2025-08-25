@@ -45,13 +45,13 @@ deployed models.
 
 ### Education Associate
 
-Daniel Bird | 
+|Daniel Bird | 
 | --- | 
 | <img src='img/Daniel Bird.jpeg' width="200" /> <br /> Office: GHC 8020   | 
 
 ### Teaching Assistants
 
-Chancharik Mitra | Namrata	Deka | Rohan Venkatesh Kashyap
+|Chancharik Mitra | Namrata	Deka | Rohan Venkatesh Kashyap
 | --- | --- | --- |
 | <img src='img/Chancharik_Mitra.jpg' width="200" /> <br /> Office Hours: TBD   | <img src='img/Namrata Deka.jpg' width="200" /> <br /> Office Hours: TBD   | <img src='img/Rohan.jpg' width="200" /> <br /> Office Hours: TBD   | 
 
