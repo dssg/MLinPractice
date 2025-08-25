@@ -163,18 +163,16 @@ related project work.
 - **Thursday, August 28: Why ML Systems can Fail in Practice**  
     In this session, we'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
   
-- **Tuesday, September 2: : ML Project Definition and Scoping**  
-   
-In this session, we’ll talk about scoping, problem definition, and
+- **Tuesday, September 2: : ML Project Definition and Scoping**
+   In this session, we’ll talk about scoping, problem definition, and
 understanding and balancing organizational goals. Well before we start doing technical ML work, a decision needs to be made about whether
 a given problem can and should be addressed with machine learning:
 is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they
 will devote resources to implementing the solution? How will success
 be measured? How will (often competing) goals of efficiency,
 effectiveness, and equity be balanced?
-  
-Required Reading:
 
+**Required Reading:**
   - *Data Science Project Scoping Guide* [Available
     Online](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/)
 
@@ -191,8 +189,7 @@ Optional Readings:
   - *Predictive Modeling for Public Health: Preventing Childhood
     Lead Poisoning* by Potash, E, et al. KDD 2015.
 
-
- - **Thursday, September 4: Obtaining, Storing, and Linking Data**  
+- **Thursday, September 4: Obtaining, Storing, and Linking Data**  
     In this class, we will look at some of the nuances of obtaining and
     using data in real-world projects, including a discussion of the
     strengths and weaknesses of different options for data storage as
@@ -213,13 +210,13 @@ Optional Readings:
         Online](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals)
 
    **DUE Today:**
-- Individual Assignment: Getting to know the class project data
-- Project team selections
+  - Individual Assignment: Getting to know the class project data
+  - Project team selections
 
-  - **Tuesday, September 9: Data Exploration**  
+- **Tuesday, September 9: Data Exploration**  
 
 
- - **Thursday, September 11: Analytical Formulation and Baselines**  
+- **Thursday, September 11: Analytical Formulation and Baselines**  
    In this session, we’ll discuss the analytical formulation of applied
    projects. Distinct from the initial scoping, a true analytical
    formulation of your problem can only come after you have developed
@@ -259,10 +256,10 @@ Optional Readings:
        2013. Chapter 2: Business Problems and Data Science [Available
        Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
 
- - **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and
+- **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and
    Baselines)
    
- - **Tuesday, September 16: Model Selection Methodology**  
+- **Tuesday, September 16: Model Selection Methodology**  
    During this session, we’ll begin a discussion of model evaluation
    with a focus on validation strategies. Introductory machine learning
    classes tend to focus on techniques such as k-fold cross-validation
@@ -291,7 +288,7 @@ Optional Readings:
        Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
        Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
- - **Thursday, September 18: Model Performance Metrics**  
+- **Thursday, September 18: Model Performance Metrics**  
    In this class, we’ll introduce topics around choosing performance
    metrics and evaluating classifiers. In most cases, a vast array of
    methods — each with a number of tunable hyperparameters — can be
@@ -312,11 +309,11 @@ Optional Readings:
        Dietterich, TG, et al. IJCAI 2016. [Available
        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf)
 
- - **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up;
+- **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up;
    initial pipeline with train and validation sets and baseline
    implemented)
 
- - **Tuesday, September 23: Feature Engineering and Imputation**  
+- **Tuesday, September 23: Feature Engineering and Imputation**  
    In many real-world contexts, expressing domain expertise through
    thoughtful feature engineering can dramatically improve model
    performance by understanding what underlying factors are likely to
@@ -340,31 +337,31 @@ Optional Readings:
      - *Missing-data imputation* by Gelman, A. [Available
        Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
- - **Thursday, September 25:  ML Pipelines**  
-   During this session, we’ll take some time to review the machine
-   learning pipelines your teams have been building, providing feedback
-   on structure, design decisions, and best practices.
+- **Thursday, September 25:  ML Pipelines**  
+  During this session, we’ll take some time to review the machine
+  learning pipelines your teams have been building, providing feedback
+  on structure, design decisions, and best practices.
 
- - **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented
-   and planned features)
+- **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented
+  and planned features)
 
- - **Tuesday, September 30: ML Modeling in Practice**  
-   This class will focus on some of the practical aspects of applying
-   machine learning to real-world problems. In other classes, you have
-   implemented and worked with a wide variety of machine learning
-   methods, but where should you start when dealing with a real problem
-   in practice? What is a “reasonable” hyperparameter grid to consider?
-   What pitfalls might you encounter in these situations and how can
-   you avoid them?  
+- **Tuesday, September 30: ML Modeling in Practice**  
+  This class will focus on some of the practical aspects of applying
+  machine learning to real-world problems. In other classes, you have
+  implemented and worked with a wide variety of machine learning
+  methods, but where should you start when dealing with a real problem
+  in practice? What is a “reasonable” hyperparameter grid to consider?
+  What pitfalls might you encounter in these situations and how can
+  you avoid them?  
 
- - **Thursday, Oct 2: Temporal Model Selection**  
-   During this class, we’ll continue our discussion from the previous
-   week, delving into the details of winnowing down a large number of
-   model specifications to one or a handful that perform “best” for
-   some definition of “best”. In particular, we’ll focus on the common
-   case of machine learning problems with a strong temporal component
-   and the desire to balance performance and stability in model
-   selection.  
+- **Thursday, Oct 2: Temporal Model Selection**  
+  During this class, we’ll continue our discussion from the previous
+  week, delving into the details of winnowing down a large number of
+  model specifications to one or a handful that perform “best” for
+  some definition of “best”. In particular, we’ll focus on the common
+  case of machine learning problems with a strong temporal component
+  and the desire to balance performance and stability in model
+  selection.  
      
    Optional Reading:
    
@@ -372,38 +369,38 @@ Optional Readings:
        [Available
        Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
 
- - **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
+- **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
 
- - **Tuesday, October 7: Module 1 Review: Applied ML End-to-End
-   Pipelines**  
-   In this session, we’ll take some time to step back and review the
-   concepts we have covered so far, with the goals of helping ensure
-   all the projects are on track for the second and third modules,
-   preparing for next week’s concept-focused midterm exam, and
-   highlighting what we see as the most important takeaways from this
-   section of the course.  
-     
-   Required Readings:
-   
-     - *Three Pitfalls to Avoid in Machine Learning* by Riley, P.
-       Nature. 527. 2019 (Comment) [Available
-       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
-   
-     - *Top 10 ways your Machine Learning models may have leakage* by
-       Ghani, R. et al. DSSG Blog. [Available
-       Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
+- **Tuesday, October 7: Module 1 Review: Applied ML End-to-End
+  Pipelines**  
+  In this session, we’ll take some time to step back and review the
+  concepts we have covered so far, with the goals of helping ensure
+  all the projects are on track for the second and third modules,
+  preparing for next week’s concept-focused midterm exam, and
+  highlighting what we see as the most important takeaways from this
+  section of the course.  
+    
+  Required Readings:
+  
+    - *Three Pitfalls to Avoid in Machine Learning* by Riley, P.
+      Nature. 527. 2019 (Comment) [Available
+      Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
+  
+    - *Top 10 ways your Machine Learning models may have leakage* by
+      Ghani, R. et al. DSSG Blog. [Available
+      Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
 
 
- - **Thursday, October 9: No Class, Midterm Distributed**  
-   We'll cancel class on this day to provide some extra time for working
-   on the midterm and updating model results.
+- **Thursday, October 9: No Class, Midterm Distributed**  
+  We'll cancel class on this day to provide some extra time for working
+  on the midterm and updating model results.
 
- - **Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall
-   Break**  
-     
+- **Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall
+  Break**  
+    
 - **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
 - **DUE MONDAY, OCTOBER 21:** Project Update 5 (Updated Modeling
-   Results and Model Selection)  
+  Results and Model Selection)  
 
 ### MODULE 2: Key Considerations Beyond Model Accuracy**
  This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be chosen as we go through the semester collaboratively.
