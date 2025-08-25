@@ -31,7 +31,7 @@ mitigating bias & disparities, and evaluating the impact of
 deployed models. 
 
 ### Course Learning Objectives
- - Design and evaluate novel combinations of learning algorithms.
+ - Design ML systems and evaluate the impact of various design choices across the machine learning workflow.
  - Take real-world questions involving data and evaluate or develop appropriate methods to answer these questions.
  - Present technical material clearly, in spoken and written form.
 
@@ -41,7 +41,7 @@ deployed models.
 
 | Rayid Ghani | 
 | --- | 
-| <img src="img/rayidphoto.png" width="200" /><br /> GHC 8023 <br /> Office Hours: <br />   Tuesday 12:30-1:30pm Wednesday 3-4pm  | 
+| <img src="img/rayidphoto.png" width="200" /><br /> GHC 8023 <br /> **Office Hours:** <br />   Tuesday 12:30-1:30pm  <br /> Wednesday 3-4pm  <br /> Email me if you want to meet outside these hours | 
 
 ### Education Associate
 
