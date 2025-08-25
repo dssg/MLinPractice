@@ -112,9 +112,9 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 |      | Finals Week      |                                                                                                                                                                                                           | Final Reflection Writeup Due (Date TBD)                                                                                               |
 
 ## Projects and Deliverables
-Broadly, the course will be divided into three modules: 1) applied
-end-to-end machine learning pipelines, 2) model interpretability, and 3)
-fairness in machine learning. Throughout the course, students will work
+Broadly, the course will be divided into two modules: 1) applied
+end-to-end machine learning pipelines, 2) Key considerations when building ML systems in practice such as interpretability,
+fairness, uncertainty quantification, privacy, MLOps. Throughout the course, students will work
 in groups of 4 on an applied project based on a real-world problem
 to explore the ideas and methods covered in each module in detail.
 During the project, students will be responsible for several key
@@ -128,24 +128,8 @@ deliverables:
     exam focused on the concepts and skills emphasized in this portion
     of the course.
 
-  - During the interpretability and fairness modules, each group will be
-    responsible for a 15-minute presentation on one of the methods we
-    will consider in class. This presentation should introduce the
-    method at a high level, provide a general understanding of how it
-    works, discuss preliminary results from implementing the method for
-    their project, and give some thought to its strengths and
-    weaknesses. A second group will be assigned for each method as a
-    "discussant" both of these groups will need to implement the method
-    before class.
+  - During the second half, each group will pick one topic (among a few choices) and implement that into their project and present their results (in person and a short writeup). 
 
-  - Also during these modules, groups will each be responsible for
-    applying three of the methods we discuss in the context of their
-    project (one from each day of discussion; note that you may use
-    either an existing implementation or write your own). At the end of
-    the module, the analysis and results obtained with these methods
-    should be written up in the format of an extended technical abstract
-    3-4 pages in length, detailing the methods, how they were used in
-    their project, findings, and any recommendations.
 
 ## Grace Days
 Project teams receive 3 total grace days for use on your project deliverables. You may not use more than 1 grace day on any single assignment. We will automatically keep a tally of these grace days for you; they will be applied greedily. 
@@ -154,13 +138,6 @@ Project teams receive 3 total grace days for use on your project deliverables. Y
 Attendance in class and participation in class discussions is a large part of 10-718. Throughout the semester your participation will be measured by your responses in class and via Slido. You are permitted to miss a maximum of 4 lectures in order to still be considered for full participation credit, more than this will begin to reduce your participation grade.
 
 ## Structure
-The course is divided into three modules:
-
-1.  Applying ML to Practical Problems
-
-2.  Understanding ML Models
-
-3.  Fairness in ML
 
 Below is a preliminary schedule of the course, including the readings
 that will be assigned for that week. Please be sure to have read and be
