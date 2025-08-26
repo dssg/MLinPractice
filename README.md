@@ -169,22 +169,22 @@ will devote resources to implementing the solution? How will success
 be measured? How will (often competing) goals of efficiency,
 effectiveness, and equity be balanced?
 
-**Required Reading:**
-  - *Data Science Project Scoping Guide* [Available
-    Online](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/)
-
-Optional Readings:
-
-  - *Fine-grained dengue forecasting using telephone triage
-    services* by Rehman, NA, et al. Sci. Adv. 2016. [Available
-    Online](https://nyunetworks.github.io/Pubs/rehman-science16.pdf)
-
-  - *Deconstructing Statistical Questions* by Hand, D.J. J. Royal
-    Stat Soc. A 157(3) 1994. [Available
-    Online](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
-
-  - *Predictive Modeling for Public Health: Preventing Childhood
-    Lead Poisoning* by Potash, E, et al. KDD 2015.
+   **Required Reading:**
+     - *Data Science Project Scoping Guide* [Available
+       Online](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/)
+   
+   Optional Readings:
+   
+     - *Fine-grained dengue forecasting using telephone triage
+       services* by Rehman, NA, et al. Sci. Adv. 2016. [Available
+       Online](https://nyunetworks.github.io/Pubs/rehman-science16.pdf)
+   
+     - *Deconstructing Statistical Questions* by Hand, D.J. J. Royal
+       Stat Soc. A 157(3) 1994. [Available
+       Online](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
+   
+     - *Predictive Modeling for Public Health: Preventing Childhood
+       Lead Poisoning* by Potash, E, et al. KDD 2015.
 
 - **Thursday, September 4: Obtaining, Storing, and Linking Data**  
     In this class, we will look at some of the nuances of obtaining and
