@@ -162,12 +162,12 @@ related project work.
   
 - **Tuesday, September 2: : ML Project Definition and Scoping**
    In this session, we’ll talk about scoping, problem definition, and
-understanding and balancing organizational goals. Well before we start doing technical ML work, a decision needs to be made about whether
-a given problem can and should be addressed with machine learning:
-is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they
-will devote resources to implementing the solution? How will success
-be measured? How will (often competing) goals of efficiency,
-effectiveness, and equity be balanced?
+   understanding and balancing organizational goals. Well before we start doing technical ML work, a decision needs to be made about whether
+   a given problem can and should be addressed with machine learning:
+   is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they
+   will devote resources to implementing the solution? How will success
+   be measured? How will (often competing) goals of efficiency,
+   effectiveness, and equity be balanced?
 
    **Required Reading:**
      - *Data Science Project Scoping Guide* [Available
@@ -206,11 +206,15 @@ effectiveness, and equity be balanced?
         Introduction and Section 1. [Available
         Online](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals)
 
-   **DUE Today:**
-  - Individual Assignment: Getting to know the class project data
-  - Project team selections
+    **Due Today:**
+     - Individual Assignment: Getting to know the class project data
+     - Project team selections
 
-- **Tuesday, September 9: Data Exploration**  
+
+- **Tuesday, September 9: Data Exploration**
+   You're all familiar with the concept and practice of data exploration. In this session,
+   we'll 1) learn about the use of data exploration in ML projects and 2) apply those ideas to the class project.
+   
 
 
 - **Thursday, September 11: Analytical Formulation and Baselines**  
