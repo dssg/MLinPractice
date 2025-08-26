@@ -31,10 +31,10 @@ mitigating bias & disparities, and evaluating the impact of
 deployed models. 
 
 ### Course Learning Objectives
- - Design ML systems that tackle real-world problems
- - Evaluate the impact of various design choices across the machine learning workflow in the context of real-world problems.
- - Take real-world questions involving data and evaluate or develop appropriate methods to answer these questions.
- - Present technical material clearly, in spoken and written form, to various audiences
+- Learn how to design end-to-end ML systems that tackle real-world problems
+- Evaluate the impact of various design choices across the machine learning workflow in the context of real-world problems.
+- Take real-world questions involving data and evaluate or develop appropriate methods to answer these questions.
+- Present technical material clearly, in spoken and written form, to various audiences
 
 ## People
 
@@ -108,8 +108,6 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 | 15   | Tu: Dec 2   | TBD                                                                                                                                          | Writeup Due                                                                                                                           |
 | 15   | Th: Dec 4   | [Wrap-Up](https://github.com/dssg/MLinPractice/blob/main/Lectures/Lecture21-Wrapup.pptx)                                                     |                                                                                                                                       |
 |      | Finals Week |                                                                                                                                              | Final Reflection Writeup Due                                                                                                          |
-
-
 
 
 ## Projects and Deliverables
@@ -436,7 +434,7 @@ with your classmates, attending each session is important to both your
 ability to learn from the course and to contribute to what others get
 out of it as well. As such, you’ll be expected to attend every session
 and your participation will factor into your grade as described above.
-Should anything come up will require you to miss a class (illness,
+Should anything come up that will require you to miss a class (illness,
 conferences, etc), please let one of the course staff know in advance.  
 
 **Academic Integrity:** Violations of class and university academic
