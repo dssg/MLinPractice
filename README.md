@@ -48,13 +48,13 @@ deployed models.
 
 |Daniel Bird | 
 | --- | 
-| <img src='img/Daniel Bird.jpeg' width="200" /> <br /> Office: GHC 8020   | 
+| <img src='img/Daniel Bird.jpeg' width="200" /> <br /> Office: GHC 8120   | 
 
 ### Teaching Assistants
 
 |Chancharik Mitra | Namrata	Deka | Rohan Venkatesh Kashyap
 | --- | --- | --- |
-| <img src='img/Chancharik_Mitra.jpg' width="200" /> <br /> Office Hours: TBD   | <img src='img/Namrata Deka.jpg' width="200" /> <br /> Office Hours: TBD   | <img src='img/Rohan.jpg' width="200" /> <br /> Office Hours: TBD   | 
+| <img src='img/Chancharik_Mitra.jpg' width="200" /> <br /> Office Hours: Tues 5pm and Thurs 11am GHC 8228   | <img src='img/Namrata Deka.jpg' width="200" /> <br /> Office Hours: Mon 4pm and Fri 10am GHC 8228   | <img src='img/Rohan.jpg' width="200" /> <br /> Office Hours: Tues 12:30pm and Wed 11am GHC 8228   | 
 
 ## Grading 
 
