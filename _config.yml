@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: "10-718: Machine Learning in Practice"
-
+markdown: GFM
 tags:
   - ML
   - Explainability
