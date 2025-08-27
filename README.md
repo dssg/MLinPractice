@@ -447,6 +447,14 @@ cheating, plagiarism, or other academic integrity violations will be
 reported to your advisor and the dean of students in addition to
 resulting in an immediate failure of the course.  
 
+**AI Use Policy:**  We want this class to reflect what solving problems with ML in the real world looks like, which means different policies depending on 1) where you're working 2) the data you’re using, and 3) the privacy and confidentiality requirements. For the data we are using in this class, as long as you don't share or upload any confidential information to any AI tool (on the web), you can use any tool you want. You're accountable for the output and the work you submit. Know that a lot of these models are trained on pretty bad ML code and practices :)
+
+We also want this class to help you understand what the AI tools are good for, where they fall short, and how to best use them to solve real-world problems. So use them, but be skeptical, review and test the output, and be ready to share what you find with others in the class.
+
+**tl;dr**
+- You can use anything you want, but you're accountable and responsible for what you submit
+- Be prepared to disclose and share what you used and how you used it so others can learn
+
 ## Resources
 
 **Students with Disabilities:** We value inclusion and will work to
