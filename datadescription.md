@@ -7,11 +7,11 @@ The data is provided in a relational format and split by dates.
 
 
 ### File descriptions
-donations.csv - contains information about the donations to each project. 
-essays.csv - contains project text posted by the teachers. 
-projects.csv - contains information about each project.
-resources.csv - contains information about the resources requested for each project. 
-outcomes.csv - contains information about the outcomes of projects
+- donations.csv - contains information about the donations to each project. 
+- essays.csv - contains project text posted by the teachers.
+- projects.csv - contains information about each project.-
+- resources.csv - contains information about the resources requested for each project.
+- outcomes.csv - contains information about the outcomes of projects
 
 
 #### Data fields
