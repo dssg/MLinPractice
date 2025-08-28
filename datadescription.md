@@ -13,6 +13,7 @@ projects.csv - contains information about each project.
 resources.csv - contains information about the resources requested for each project. 
 outcomes.csv - contains information about the outcomes of projects
 
+
 #### Data fields
 Below is a brief explanation of the provided data fields. Descriptions of self-explanatory names are omitted.
 
