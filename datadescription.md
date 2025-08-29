@@ -1,7 +1,7 @@
 ## Download links
 The data is in four different tables/csv files that you need to download. You can put it into a database (good life practice) or live in csv world (at your own risk).
  
-[Download directory](http://www.cs.cmu.edu/~rayid/10718data)
+[Download directory](https://drive.google.com/drive/folders/144BHesZVm-JG_mpt6I3fjhDwuVnwUf4h?usp=sharing)
 
 ## Dataset Description
 
