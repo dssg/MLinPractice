@@ -1,9 +1,9 @@
 ## Download links
-
-
+The data is in four different tables/csv files that you need to download. You can put it into a database (good life practice) or live in csv world (at your own risk).
+ 
+[Download directory](http://www.cs.cmu.edu/~rayid/10718data)
 
 ## Dataset Description
-The data is provided in a relational format and split by dates. 
 
 
 ### File descriptions
