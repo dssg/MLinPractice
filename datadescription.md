@@ -1,9 +1,9 @@
 # Class Project Details
 
-1. Project Background
-2. The Modeling Problem
-3. [Data Download](#dataset-description)
-4. Data Description
+1. [Project Background](#project-background)
+2. [The Modeling Problem](#the-modeling-problem)
+3. [Data Download](#download-link
+4. [Data Description](#dataset-description)
 
 ## Project Background
 Public schools in the United States face large disparities in funding, often resulting in teachers and staff members filling these gaps by purchasing classroom supplies out of their own pockets. DonorsChoose is an online crowdfunding platform that tries to help alleviate this financial burden on teachers by allowing them to seek funding for projects and resources from the community (projects can include classroom basics like books and markers, larger items like lab equipment or musical instruments, specific experiences like field trips or guest speakers).
@@ -15,12 +15,7 @@ For the purposes of the class project, \DonorsChoose has hired a digital content
 
 You are working with DonorsChoose, and your task is to help this content expert focus their limited resources on projects that most need the help. As such, you want to build a model to identify projects that are least likely to be fully funded before they expire and pass them off to the digital content expert for review.
 
-
-
-
-
-
-## Download links
+## Download link
 The data is in four different tables/csv files that you need to download. You can put it into a database (good life practice) or live in csv world (at your own risk).
  
 [Download directory](https://drive.google.com/drive/folders/144BHesZVm-JG_mpt6I3fjhDwuVnwUf4h?usp=sharing)
