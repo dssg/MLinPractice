@@ -2,7 +2,7 @@
 
 1. [Project Background](#project-background)
 2. [The Modeling Problem](#the-modeling-problem)
-3. [Data Download](#download-link
+3. [Data Download](#download-link)
 4. [Data Description](#dataset-description)
 
 ## Project Background
