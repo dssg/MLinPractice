@@ -11,23 +11,9 @@ The data is provided in a relational format and split by dates.
 - essays.csv - contains project text posted by the teachers.
 - projects.csv - contains information about each project.-
 - resources.csv - contains information about the resources requested for each project.
-- outcomes.csv - contains information about the outcomes of projects
-
 
 #### Data fields
 Below is a brief explanation of the provided data fields. Descriptions of self-explanatory names are omitted.
-
-#### outcomes.csv
-- at_least_1_teacher_referred_donor - teacher referred = donor donated because teacher shared a link or publicized their page
-- fully_funded - project was successfully completed
-- at_least_1_green_donation - a green donation is a donation made with credit card, PayPal, Amazon or check
-- great_chat - project has a comment thread with greater than average unique comments
-- three_or_more_non_teacher_referred_donors - non-teacher referred is a donor that landed on the site by means other than a teacher referral link/page
-- one_non_teacher_referred_donor_giving_100_plus - see above
-- donation_from_thoughtful_donor - a curated list of ~15 donors that are power donors and picky choosers (we trust them selecting great projects)
-- great_messages_proportion -  how great_chat is calculated. proportion of comments on the project page that are unique. If > avg (currently 62%) then great_chat = True
-- teacher_referred_count - number of donors that were teacher referred (see above)
-- non_teacher_referred_count - number of donors that were non-teacher referred (see above)
 
 #### projects.csv
 - projectid - project's unique identifier
@@ -71,27 +57,27 @@ Below is a brief explanation of the provided data fields. Descriptions of self-e
 - date_posted - data a project went live on the site
 
 #### donations.csv
-donationid - unique donation identifier
-projectid - unique project identifier (project that received the donation)
-donor_acctid - unique donor identifier (donor that made a donation)
-donor_city
-donor_state
-donor_zip
-is_teacher_acct - donor is also a teacher
-donation_timestamp
-donation_to_project - amount to project, excluding optional support (tip)
-donation_optional_support - amount of optional support
-donation_total - donated amount
-dollar_amount - donated amount in US dollars
-donation_included_optional_support - whether optional support (tip) was included for DonorsChoose.org
-payment_method - what card/payment option was used
-payment_included_acct_credit - whether a portion of a donation used account credits redemption
-payment_included_campaign_gift_card - whether a portion of a donation included corporate sponsored giftcard
-payment_included_web_purchased_gift_card - whether a portion of a donation included citizen purchased giftcard (ex: friend buy a giftcard for you)
-payment_was_promo_matched - whether a donation was matched 1-1 with corporate funds
-via_giving_page - donation given via a giving / campaign page (example: Mustaches for Kids)
-for_honoree - donation made for an honoree
-donation_message - donation comment/message. Used to calcualte great_chat
+- donationid - unique donation identifier
+- projectid - unique project identifier (project that received the donation)
+- donor_acctid - unique donor identifier (donor that made a donation)
+- donor_city
+- donor_state
+- donor_zip
+- is_teacher_acct - donor is also a teacher
+- donation_timestamp
+- donation_to_project - amount to project, excluding optional support (tip)
+- donation_optional_support - amount of optional support
+- donation_total - donated amount
+- dollar_amount - donated amount in US dollars
+- donation_included_optional_support - whether optional support (tip) was included for DonorsChoose.org
+- payment_method - what card/payment option was used
+- payment_included_acct_credit - whether a portion of a donation used account credits redemption
+- payment_included_campaign_gift_card - whether a portion of a donation included corporate sponsored giftcard
+- payment_included_web_purchased_gift_card - whether a portion of a donation included citizen purchased giftcard (ex: friend buy a giftcard for you)
+- payment_was_promo_matched - whether a donation was matched 1-1 with corporate funds
+- via_giving_page - donation given via a giving / campaign page (example: Mustaches for Kids)
+- for_honoree - donation made for an honoree
+- donation_message - donation comment/message. Used to calcualte great_chat
 
 #### essays.csv
 - projectid - unique project identifier
