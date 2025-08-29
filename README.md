@@ -140,8 +140,8 @@ For the purposes of the class project, \\DonorsChoose has hired a digital conten
 
 You are working with DonorsChoose, and your task is to help this content expert focus their limited resources on projects that most need the help. As such, you want to build a model to identify projects that are least likely to be fully funded before they expire and pass them off to the digital content expert for review.
 
-#### Data
-[Download links and data set description](dataescription.md)
+## Data
+[Download links and data set description](datadescription.md)
 
 
 ## Grace Days
