@@ -183,10 +183,12 @@ related project work.
    will devote resources to implementing the solution? How will success
    be measured? How will (often competing) goals of efficiency,
    effectiveness, and equity be balanced?
+  
    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)**
+  
    **Required Reading:**
      - *Data Science Project Scoping Guide* [Available
-       Online](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/)
+       Online](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
    
    Optional Readings:
    
