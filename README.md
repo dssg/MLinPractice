@@ -174,7 +174,7 @@ related project work.
 - **Thursday, August 28: Why ML Systems can Fail in Practice**  
     In this session, we'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
   
-- **Tuesday, September 2: : ML Project Definition and Scoping**
+- **Tuesday, September 2: : #### ML Project Definition and Scoping**
    In this session, we’ll talk about scoping, problem definition, and
    understanding and balancing organizational goals. Well before we start doing technical ML work, a decision needs to be made about whether
    a given problem can and should be addressed with machine learning:
