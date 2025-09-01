@@ -79,7 +79,7 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 | ---- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Tu: Aug 26  | [Class Intro and Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture1-ClassOverview.pptx)                               |                                                                                                                                       |
 | 1    | Th: Aug 28  | Why ML systems can fail in practice                                                                                                          |                                                                                                                                       |
-| 2    | Tu: Sep 2   | [Scoping and Defining ML Projects](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)                             | Individual Assignment: Getting to know the class project (due tuesday)<br>Project Team Selection                                      |
+| 2    | Tu: Sep 2   | [Scoping and Defining ML Projects](#ml-project-definition-and-scoping)                             | Individual Assignment: Getting to know the class project (due tuesday)<br>Project Team Selection                                      |
 | 2    | Th: Sep 4   | [Getting, Storing, and Linking Data](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)                              |                                                                                                                                       |
 | 3    | Tu: Sep 9   | Data Exploration                                                                                                                             | Short Assignment on Data Exploration                                                                                                  |
 | 3    | Th: Sep 11  | [Analytical Formulation / Baselines](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)                       |                                                                                                                                       |
@@ -183,7 +183,7 @@ related project work.
    will devote resources to implementing the solution? How will success
    be measured? How will (often competing) goals of efficiency,
    effectiveness, and equity be balanced?
-
+   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)**
    **Required Reading:**
      - *Data Science Project Scoping Guide* [Available
        Online](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/)
