@@ -233,11 +233,14 @@ related project work.
 
 - **Tuesday, September 9: Data Exploration**
    You're all familiar with the concept and practice of data exploration. In this session,
-   we'll 1) learn about the use of data exploration in ML projects and 2) apply those ideas to the class project.
+   we'll learn about the use of data exploration in ML projects and apply those ideas to the class project.
+  Most of this session will be focused on team presentations on the data exploration assignment (see canvas).
+  
    
 
 
-- **Thursday, September 11: Analytical Formulation and Baselines**  
+- **Thursday, September 11**
+  #### Analytical Formulation and Baselines
    In this session, we’ll discuss the analytical formulation of applied
    projects. Distinct from the initial scoping, a true analytical
    formulation of your problem can only come after you have developed
@@ -246,12 +249,14 @@ related project work.
    you’ll ask how specifically your label (if relevant) is defined in
    the data, what types of information are available as features, and
    what baseline you’ll be measuring performance against. Very rarely
-   is the appropriate baseline as simple as “random choice” or the
+   is the appropriate baseline as simple as “random” or the
    population prevalence. Rather, it should reflect what would be
    expected to happen otherwise: perhaps a simple decision rule that an
    expert would come up with or even a pre-existing statistical model
    that the current effort is seeking to replace.  
-     
+
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)**
+
    Required Readings:
    
      - *Dissecting Racial Bias in an Algorithm Used to Manage the
