@@ -247,7 +247,7 @@ related project work.
      - *Predictive Modeling for Public Health: Preventing Childhood
        Lead Poisoning* by Potash, E, et al. KDD 2015.
 
-- **Thursday, September 4: Obtaining, Storing, and Linking Data**
+- **Thursday, September 4**
     #### Obtaining, Storing, and Linking Data
     In this class, we will look at some of the nuances of obtaining and
     using data in real-world projects, including a discussion of the
@@ -255,7 +255,7 @@ related project work.
     well as the practical aspects of dealing with linkage of records
     from many different sources.  
 
-    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx  )**
+    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
   
     Optional Readings:
     
@@ -264,7 +264,7 @@ related project work.
         Online](https://link.springer.com/book/10.1007%2F978-3-642-31164-2)
     
       - *Big Data and Social Science* edited by Foster, Ghani, et al.
-        Chapter 4: Databases.
+        Chapter 4: Databases.[Available online](https://textbook.coleridgeinitiative.org/chap-db.html)
     
       - *Broken Promises of Privacy* by Ohm, P. UCLA Law Review. 2009.
         Introduction and Section 1. [Available
