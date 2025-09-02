@@ -80,7 +80,7 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 | 1    | Tu: Aug 26  | [Class Intro and Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture1-ClassOverview.pptx)                               |                                                                                                                                       |
 | 1    | Th: Aug 28  | Why ML systems can fail in practice                                                                                                          |                                                                                                                                       |
 | 2    | Tu: Sep 2   | [Scoping and Defining ML Projects](#ml-project-definition-and-scoping)                             | Individual Assignment: Getting to know the class project (due tuesday)<br>Project Team Selection                                      |
-| 2    | Th: Sep 4   | [Getting, Storing, and Linking Data](#getting-storing-and-linking-data)                              |                                                                                                                                       |
+| 2    | Th: Sep 4   | [Getting, Storing, and Linking Data](#obtaining-storing-and-linking-data)                              |                                                                                                                                       |
 | 3    | Tu: Sep 9   | Data Exploration                                                                                                                             | Short Assignment on Data Exploration                                                                                                  |
 | 3    | Th: Sep 11  | [Analytical Formulation / Baselines](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)                       |                                                                                                                                       |
 | 4    | Tu: Sep 16  | [Model Selection Methodology](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)                           | Project Assignment 1: Formulation and Baseline (due Monday)                                                                           |
@@ -208,7 +208,7 @@ related project work.
        Lead Poisoning* by Potash, E, et al. KDD 2015.
 
 - **Thursday, September 4: Obtaining, Storing, and Linking Data**
-    #### Obtaining, Storing, and Linking Data {#getting-data}
+    #### Obtaining, Storing, and Linking Data
     In this class, we will look at some of the nuances of obtaining and
     using data in real-world projects, including a discussion of the
     strengths and weaknesses of different options for data storage as
