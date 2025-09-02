@@ -224,13 +224,13 @@ related project work.
    be measured? How will (often competing) goals of efficiency,
    effectiveness, and equity be balanced?
   
-   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)**
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)**
   
   **Due Today:**
      - Individual Assignment: Getting to know the class project data
      - Project team selections
-     - 
-   **Required Reading:**
+       
+  **Required Reading:**
      - *Data Science Project Scoping Guide* [Available
        Online](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
    
@@ -253,25 +253,26 @@ related project work.
     using data in real-world projects, including a discussion of the
     strengths and weaknesses of different options for data storage as
     well as the practical aspects of dealing with linkage of records
-    from many different sources.  
-
-    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
+    from many different sources.
   
+    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
+   
     Optional Readings:
     
-      - *Data Matching* by Christen, P. Springer (2012). Chapter 2: The
-        Data Matching Process [Available
-        Online](https://link.springer.com/book/10.1007%2F978-3-642-31164-2)
-    
-      - *Big Data and Social Science* edited by Foster, Ghani, et al.
-        Chapter 4: Databases.[Available online](https://textbook.coleridgeinitiative.org/chap-db.html)
-    
-      - *Broken Promises of Privacy* by Ohm, P. UCLA Law Review. 2009.
-        Introduction and Section 1. [Available
-        Online](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals)
+    - *Data Matching* by Christen, P. Springer (2012). Chapter 2: The
+      Data Matching Process [Available
+      Online](https://link.springer.com/book/10.1007%2F978-3-642-31164-2)
+  
+    - *Big Data and Social Science* edited by Foster, Ghani, et al.
+      Chapter 4: Databases.[Available online](https://textbook.coleridgeinitiative.org/chap-db.html)
+  
+    - *Broken Promises of Privacy* by Ohm, P. UCLA Law Review. 2009.
+      Introduction and Section 1. [Available
+      Online](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals)
 
 
-- **Tuesday, September 9: Data Exploration**
+- **Tuesday, September 9**
+  #### Data Exploration
    You're all familiar with the concept and practice of data exploration. In this session,
    we'll learn about the use of data exploration in ML projects and apply those ideas to the class project.
   Most of this session will be focused on team presentations on the data exploration assignment (see canvas).
