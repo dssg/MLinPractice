@@ -18,18 +18,21 @@ You are working with DonorsChoose, and your task is to help this content expert 
 ## Download link
 The data is in four different tables/csv files that you need to download. You can put it into a database (good life practice) or live in csv world (at your own risk).
  
-[Download directory](https://drive.google.com/drive/folders/144BHesZVm-JG_mpt6I3fjhDwuVnwUf4h?usp=sharing)
-
-:warning: You will need to be logged into your andrew google account to access this.
+[**Dataset Download Link**](https://dsapp-public-data-migrated.s3.us-west-2.amazonaws.com/10718F25data.zip) 
 
 ## Dataset Description
 
+For this project, you have access to data from DonorsChoose about projects, teachers, schools, and donations. In the dataset, you'll find four tables:
 
-### File descriptions
-- donations.csv - contains information about the donations to each project. 
-- essays.csv - contains project text posted by the teachers.
-- projects.csv - contains information about each project.-
-- resources.csv - contains information about the resources requested for each project.
+- `projects` contains basic information about all the projects posted on the site, including characteristics of the teacher who posted (e.g., name, subject area, grade level, whether they participate in Teach for America, etc) it and their school (e.g., location, charter status, poverty level, NCES ID, etc).
+
+- `essays` contains the title, short description, and full essay that is posted with project to provide potential donors with information about what the teacher is asking for and what they plan to do with the resources, how it will benefit students, etc.
+
+- `resources` contains information about the specific resources being requested for the project (e.g., books, technology, etc), including their costs, quantities, and types.
+
+- `donations` contains transaction-level information about the donations to each project (e.g., amount, how it came in, etc), as well as some characteristics of the donor (e.g., whether the donor is a teacher, their location, whether they left a message, etc)
+
+A very rough data dictionary of the specific fields in each table is provided below:
 
 #### Data fields
 Below is a brief explanation of the provided data fields. Descriptions of self-explanatory names are omitted.
