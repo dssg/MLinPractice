@@ -222,6 +222,7 @@ related project work.
    
     Optional Readings:
     - [Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+    - [Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087)
     
     - *Data Matching* by Christen, P. Springer (2012). Chapter 2: The
       Data Matching Process [Available
