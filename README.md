@@ -221,7 +221,7 @@ related project work.
     **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
    
     Optional Readings:
-    - *[Netflix’s Trillions Scale Real-time Data Infrastructure]*(https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+    - [Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
     
     - *Data Matching* by Christen, P. Springer (2012). Chapter 2: The
       Data Matching Process [Available
