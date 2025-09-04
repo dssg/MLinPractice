@@ -241,8 +241,9 @@ related project work.
    You're all familiar with the concept and practice of data exploration. In this session,
    we'll learn about the use of data exploration in ML projects and apply those ideas to the class project.
   Most of this session will be focused on team presentations on the data exploration assignment (see canvas).
-  
-   
+
+  Optional Readings:
+    - [Can Foundation Models Wrangle your Data](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf)
 
 
 - **Thursday, September 11**
