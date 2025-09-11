@@ -292,13 +292,16 @@ related project work.
 - **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and
    Baselines)
    
-- **Tuesday, September 16: Model Selection Methodology**  
+- **Tuesday, September 16
+  #### Model Selection Methodology**  
    During this session, we’ll begin a discussion of model evaluation
    with a focus on validation strategies. Introductory machine learning
    classes tend to focus on techniques such as k-fold cross-validation
    to guard against over-fitting, but is this always the best approach
    in practice? How does your choice of validation strategy relate to
-   the manner in which you are hoping your model will generalize?  
+   the manner in which you are hoping your model will generalize?
+
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)**
      
    Required Reading:
    
@@ -321,7 +324,8 @@ related project work.
        Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
        Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
-- **Thursday, September 18: Model Performance Metrics**  
+- **Thursday, September 18
+  #### Model Performance Metrics**  
    In this class, we’ll introduce topics around choosing performance
    metrics and evaluating classifiers. In most cases, a vast array of
    methods — each with a number of tunable hyperparameters — can be
@@ -334,7 +338,10 @@ related project work.
    generating the same predictions? How should you select one to deploy
    if they are not? In this class, we’ll begin to answer these
    questions, focusing on the choice of performance metrics and how they
-   relate to your project’s goals, scope, and formulation.  
+   relate to your project’s goals, scope, and formulation.
+
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)**
+
      
    Required Reading:
    
