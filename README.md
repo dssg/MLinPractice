@@ -342,8 +342,11 @@ related project work.
 
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)**
 
-     
    Required Reading:
+
+      - [The Misuse of AUC: What High Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159)
+  
+   Optional Reading:
    
      - *Transductive Optimization of Top k Precision* by Liu, LP,
        Dietterich, TG, et al. IJCAI 2016. [Available
