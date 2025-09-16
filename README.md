@@ -309,6 +309,8 @@ related project work.
    
    Optional Readings:
    
+     - *[Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
+       
      - *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
        [Available
        Online](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
