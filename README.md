@@ -313,7 +313,7 @@ related project work.
        
      - *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
        [Available
-       Online](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
+       Online](https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9)
    
      - *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
        arXiv preprint: 1906.01998. 2019. [Available
