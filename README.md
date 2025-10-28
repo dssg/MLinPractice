@@ -434,9 +434,6 @@ related project work.
 - **DUE MONDAY, OCTOBER 21:** Project Update 5 (Updated Modeling
   Results and Model Selection)  
 
-### MODULE 2: Key Considerations Beyond Model Accuracy**
- This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
-
   - **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
 
 
@@ -454,7 +451,10 @@ related project work.
      - *Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017.
        [Available
        Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
-       
+
+### MODULE 2: Key Considerations Beyond Model Accuracy**
+ This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
+
   - **Thursday, October 23: ML Ethics Overview**  
     In this session, we’ll discuss ethical issues in
     machine learning, focusing on the broader landscape of topics in
@@ -479,18 +479,90 @@ related project work.
         here’ and enter your CMU email address to access content)
 
 
-### Additional Topics  
-  
-  - **Model Interpretability Overview**  
+  - **Tuesday, October 28: Practical Understanding of ML Models**   
+    During this session, we'll be introducing some simple and practical analyses to
+    perform after the modeling process and what it means to compare
+    performance across model specifications. These methods can help
+    provide a basic understanding of how your model is distinguishing
+    between predicted classes and play an important role in detecting
+    bugs such as leakage.
+
+   - **Tuesday, October 30: Intro to Fairness**  
+    In this class, we’ll introduce topics in ML fairness, where we will
+    focus our methods deep dives for the remainder of the semester: Just
+    as important as assessing whether your model is making accurate
+    predictions is determining whether it is doing so in a fair manner.
+    But, what do we mean by fairness? How can you measure it and what
+    can you do to mitigate any disparities you might find? Where in your
+    pipeline can bias be introduced? (spoiler: everywhere). This class
+    will provide a very brief introduction to the expansive field of
+    algorithmic fairness.  
+      
+    Required Readings:
+    
+      - *Fairness Definitions Explained* by Verma, S and Rubin, J.
+        [Available
+        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf)
+    
+      - *A Theory of Justice* by Rawls, J. 1971. Chapter 1: Justice as
+        Fairness, pp. 1-19. [Available
+        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf)
+        
+    Optional Readings:
+      - *Racial Equity in Algorithmic Criminal Justice* by Huq, A. Duke
+        Law Journal. 2018. [Available
+        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf)
+        \[Focus on sections: I.B.2, all of section II, III introduction,
+        III.B, and III.D.3\]
+
+    
+      - *Is Algorithmic Affirmative Action Legal?* by Bent, JR.
+        Georgetown Law Journal. 2019. [Available
+        Online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690)
+    
+      - *Does Mitigating ML’s Impact Disparity Require Treatment
+        Disparity?* by Lipton, Z, McAuley, J, and Chouldechova, A. NeuRIPS
+        2018. [Available
+        Online](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity)
+    
+      - *Equality of Opportunity* by Roemer, JE and Trannoy, A. 2013.
+        [Available
+        Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
+
+
+
+  - **Thursday and Tuesday November 6, 11 : Field Trials and Causality**  
+    In this session, we’ll briefly discuss field trials and issues of
+    causality, critical for understanding how your model actually
+    generalizes to real-world applications. Even with careful planning
+    and handling of the data, the only way to truly understand how well
+    your model works is by testing it in the field. Generally, you’re
+    concerned not only with its predictiveness, but the actual ability
+    of the model to help the program achieve its policy goals, such as
+    improving outcomes among the population it serves. Typically, this
+    involves working closely with business owners to develop a field trial
+    using either randomization or non-experimental methods depending on
+    the constraints of the setting.  
+      
+    Required Readings:
+    
+      - *The seven tools of causal inference, with reflections on
+        machine learning* by Pearl, J. Comm ACM. 2019 [Available
+        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf)
+    
+    Optional Readings:
+    
+      - *Elements of Causal Inference* by Peters et al. MIT Press.
+        Chapters 1 and 2. [Available Online (Open Access
+        Link)](https://mitpress.mit.edu/books/elements-causal-inference)
+
+        
+  - **Thursday November 13: Model Interpretability**  
     Model interpretability can be thought of at two levels: global (how
     the model works in aggregate) and local (why an individual
     prediction came out as it did). In this class, we’ll focus on the
     bigger picture: discussing the landscape of model interpretability
     as well as different use cases and users.  
-      
-    Note that we’ll also post assignments for the Module II methods
-    early this week so teams can begin implementing them for the deep
-    dives beginning the following week.  
       
     Required Readings:
     
@@ -504,41 +576,19 @@ related project work.
         [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
-   
  
-  - **Practical Understanding of ML Models**   
-    During this session, we'll be introducing some simple and practical analyses to
-    perform after the modeling process and what it means to compare
-    performance across model specifications. These methods can help
-    provide a basic understanding of how your model is distinguishing
-    between predicted classes and play an important role in detecting
-    bugs such as leakage.
-
-  - **Inherently-Interpretable Methods**  
-    In this class, we’ll start our deeper dives into specific methods by
-    looking at inherently interpretable methods, including
-    GA<sup>2</sup>M models and RiskSLIM. Groups will give a 15-minute
-    presentation on each method and then we will spend the remainder of
-    the class session comparing the methods and discussing the use cases
-    in which they may be most appropriate.  
+  - **Thursday November 18: Uncertainty Quantificaion**
+    Required Reading:
+    - *Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
+    
+  - **Tuesday November 23: Domain Shift and Temporal Drift**
+    Readings:
+    - Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
+    - Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
       
-    Required Readings **to Skim**:
-    
-      - *Intelligible Models for HealthCare: Predicting Pneumonia Risk
-        and Hospital 30-day Readmission* by Caruana, R, et al. KDD 2015.
-        [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/CaruanaGAM.pdf)
-    
-      - *Optimized Scoring Systems: Toward Trust in Machine Learning for
-        Healthcare and Criminal Justice* by Rudin, C, and Usutn, B.
-        INFORMS Journal on Applied Analytics. 2018. [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/UstunRudinINFORMS.pdf)
-    
-    Optional Readings:
-    
-      - *Interpretable Decision Sets: A Joint Framework for Description
-        and Prediction* by Lakkaraju, H, et al. KDD 2016. [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LakkarajuDecisionSets.pdf)
+  - **Thursday November 25: ML Ops and Deploying ML Systems**
+  - **Tuesday December 2 : Additional Topics**
+  - **Thursday December 4: Wrap-up**
 
 ## More Resources
 You may find a number of books useful as general background reading on
