@@ -585,6 +585,7 @@ related project work.
     Readings:
     - Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
     - Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
+    - 	In Search of Lost Domain Generalization[Available Online](https://openreview.net/pdf?id=lQdXeXDoWtI)
       
   - **Thursday November 25: ML Ops and Deploying ML Systems**
   - **Tuesday December 2 : Additional Topics**
