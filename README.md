@@ -19,7 +19,7 @@ while exploring the interface between research and practice.
 The goal of this course is to give students exposure to the nuance of
 using machine learning in the real-world, where common assumptions
 (like iid and stationarity) break down, and the growing needs for (and
-limitations of) approaches that go beyond optimizing for simple model accuracy measures and explore notions of fairness, explainability, robustness, etc. Through project assignments, lectures, discussions,
+limitations of) approaches that go beyond optimizing for simple model accuracy measures and explore notions of fairness, explainability, robustness, uncetainty quantification, etc. Through project assignments, lectures, discussions,
 and readings, students will learn about and experience building machine
 learning systems for real-world problems and data, as well as applying
 and evaluating the utility of proposed methods for enhancing the
@@ -82,7 +82,7 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 | 1    | Th: Aug 28  | Why ML systems can fail in practice [post-class discussion recap slides]                                                                     |                                                                                                                                       | individual research: website,s blogs, papers, videos, news articles                                                                                                                                                                                                                                         |
 | 2    | Tu: Sep 2   | [Scoping and Defining ML Projects](#ml-project-definition-and-scoping)                                                                       | Individual Assignment: Getting to know the class project (due tuesday)<br>Project Team Selection                                      | Required: [ML Project Scoping Guide<br>](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)Optional:Listed below                                                                                                                                                |
 | 2    | Th: Sep 4   | [Getting, Storing, and Linking Data](#obtaining-storing-and-linking-data)                                                                    |                                                                                                                                       | Optional: Listed below                                                                                                                                                                                                                                                                                      |
-| 3    | Tu: Sep 9   | Data Exploration                                                                                                                             | Assignment on Data Exploration (Due) and Team Pesentations on Data Exploration                                                        |                                                                                                                                                                                                                                                                                                             |
+| 3    | Tu: Sep 9   | Data Exploration                                                                                                                             | Assignment on Data Exploration (Due) and Team Presentations on Data Exploration                                                        |                                                                                                                                                                                                                                                                                                             |
 | 3    | Th: Sep 11  | [Analytical Formulation / Baselines](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)                       |                                                                                                                                       | Required: [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf)<br>[<br>Problemn Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf)<br> |
 | 4    | Tu: Sep 16  | [Model Selection Methodology](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)                           | Project Assignment 1: Formulation and Baseline (due Monday)                                                                           | Required: [Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure<br>](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf)Optional: [See below](http://readme.md/#model-selection-methodology)                                         |
 | 4    | Th: Sep 18  | [Performance Metrics](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)                                |                                                                                                                                       | Required: T[he Misuse of AUC: What High Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159)                                                                                                                                                                                                |
@@ -482,18 +482,18 @@ related project work.
 
   - **Tuesday, October 28: Practical Understanding of ML Models**   
     During this session, we'll be introducing some simple and practical analyses to
-    perform after the modeling process and what it means to compare
+    perform after the modeling process, and what it means to compare
     performance across model specifications. These methods can help
     provide a basic understanding of how your model is distinguishing
     between predicted classes and play an important role in detecting
     bugs such as leakage.
 
-   - **Tuesday, October 30: Intro to Fairness**  
+   - **Thursday, October 30: Intro to Fairness**  
     In this class, we’ll introduce topics in ML fairness, where we will
     focus our methods deep dives for the remainder of the semester: Just
     as important as assessing whether your model is making accurate
     predictions is determining whether it is doing so in a fair manner.
-    But, what do we mean by fairness? How can you measure it and what
+    But what do we mean by fairness? How can you measure it, and what
     can you do to mitigate any disparities you might find? Where in your
     pipeline can bias be introduced? (spoiler: everywhere). This class
     will provide a very brief introduction to the expansive field of
@@ -532,13 +532,13 @@ related project work.
 
 
 
-  - **Thursday and Tuesday November 6, 11 : Field Trials and Causality**  
+  - **Thursday and Tuesday November 6, 11: Field Trials and Causality**  
     In this session, we’ll briefly discuss field trials and issues of
     causality, critical for understanding how your model actually
     generalizes to real-world applications. Even with careful planning
     and handling of the data, the only way to truly understand how well
     your model works is by testing it in the field. Generally, you’re
-    concerned not only with its predictiveness, but the actual ability
+    concerned not only with its predictiveness but the actual ability
     of the model to help the program achieve its policy goals, such as
     improving outcomes among the population it serves. Typically, this
     involves working closely with business owners to develop a field trial
@@ -578,7 +578,7 @@ related project work.
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
  
-  - **Thursday November 18: Uncertainty Quantificaion**
+  - **Thursday November 18: Uncertainty Quantification**
     Required Reading:
     - *Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
     
@@ -593,7 +593,7 @@ related project work.
   - **Thursday December 4: Wrap-up**
 
 ## More Resources
-You may find a number of books useful as general background reading on
+You may find several books useful as general background reading on
 specific topics covered in class, but these are by no means required
 texts for the course:
 
