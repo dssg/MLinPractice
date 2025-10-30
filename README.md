@@ -62,11 +62,11 @@ Project update assignments (30%)
 
 Midterm take-home exam (20%)
 
-Write-up on module 2 findings (10%)
+Write-up on module 2 findings (15%)
 
 Group presentations (10%)
 
-Final reflection write-up (10%)
+Final reflection write-up (5%)
 
 Class attendance and participation in discussions (15%)
 
