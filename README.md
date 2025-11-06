@@ -438,18 +438,14 @@ related project work.
   We'll cancel class on this day to provide some extra time for working
   on the midterm and updating model results.
 
-- **Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall
-  Break**  
+- **Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall Break**  
     
 - **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
-- **DUE MONDAY, OCTOBER 21:** Project Update 5 (Updated Modeling
-  Results and Model Selection)  
-
-  - **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
+- **DUE TUESDAY, OCTOBER 21:** Project Update 5 (Updated Modeling Results and Model Selection)  
 
 
-  - **Tuesday, October 21:
-  #### Team Presentations and Temporal Model Selection**  
+- **Tuesday, October 21:
+#### Team Presentations and Temporal Model Selection**  
   During this class, we’ll continue our discussion from the previous
   week, delving into the details of winnowing down a large number of
   model specifications to one or a handful that perform “best” for
@@ -458,9 +454,10 @@ related project work.
   and the desire to balance performance and stability in model
   selection.
 
-   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture10-ModelSelection2.pptx)**  
-   Optional Reading:
-   
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture10-ModelSelection2.pptx)**  
+  
+  Optional Reading:
+
      - *Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017.
        [Available
        Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
@@ -468,7 +465,7 @@ related project work.
 ### MODULE 2: Key Considerations Beyond Model Accuracy**
  This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
 
-  - **Thursday, October 23:**
+ - **Thursday, October 23:**
   #### ML Ethics Overview  
     In this session, we’ll discuss ethical issues in
     machine learning, focusing on the broader landscape of topics in
@@ -495,8 +492,8 @@ related project work.
         here’ and enter your CMU email address to access content)
 
 
-  - **Tuesday, October 28:**
-    #### Practical Understanding of ML Models   
+ - **Tuesday, October 28:**
+   #### Practical Understanding of ML Models   
     During this session, we'll be introducing some simple and practical analyses to
     perform after the modeling process, and what it means to compare
     performance across model specifications. These methods can help
@@ -506,7 +503,7 @@ related project work.
 
     **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
 
-   - **Thursday, October 30:**
+ - **Thursday, October 30:**
    #### Intro to Fairness
     In this class, we’ll introduce topics in ML fairness, where we will
     focus our methods deep dives for the remainder of the semester: Just
@@ -519,7 +516,6 @@ related project work.
     algorithmic fairness.
 
    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx)** 
-
       
     Required Readings:
     
@@ -552,8 +548,8 @@ related project work.
         [Available
         Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
-  - **Thursday and Tuesday November 6, 11:**
-    #### Field Trials and Causality  
+ - **Thursday and Tuesday November 6, 11:**
+   #### Field Trials and Causality  
     In this session, we’ll briefly discuss field trials and issues of
     causality, critical for understanding how your model actually
     generalizes to real-world applications. Even with careful planning
@@ -586,8 +582,8 @@ related project work.
    
       - *[Breaking the Cycle of Incarceration With Targeted Mental Health Outreach: A Case Study in Machine Learning for Public Policy](https://arxiv.org/abs/2509.14129). Kit T Rodolfa, Erika Salomon, Jin Yao, Steve Yoder, Robert Sullivan, Kevin McGuire, Allie Dickinson, Rob MacDougall, Brian Seidler, Christina Sung, Claire Herdeman, Rayid Ghani
         
-  - **Thursday November 13**
-    #### Model Interpretability  
+ - **Thursday November 13**
+ #### Model Interpretability  
     Model interpretability can be thought of at two levels: global (how
     the model works in aggregate) and local (why an individual
     prediction came out as it did). In this class, we’ll focus on the
@@ -607,8 +603,8 @@ related project work.
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
  
-  - **Thursday November 18:**
-    #### Uncertainty Quantification
+ - **Thursday November 18:**
+   #### Uncertainty Quantification
        We will focus on understanding what kinds of uncertainty matter, how to estimate them, and how to act on them when deploying or governing ML systems. This will involve:
   1. Distinguishing between different types of uncertainty (aleatoric, epistemic, systemic, social).
   2. Implementing and interpreting basic techniques for quantifying model uncertainty.
@@ -618,19 +614,19 @@ related project work.
     Required Reading:
     - *Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
     
-  - **Tuesday November 23:**
-    #### Domain Shift and Temporal Drift
+ - **Tuesday November 23:**
+   #### Domain Shift and Temporal Drift
     Readings:
     - Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
     - Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
     - 	In Search of Lost Domain Generalization[Available Online](https://openreview.net/pdf?id=lQdXeXDoWtI)
       
-  - **Thursday November 25:**
-    #### ML Ops and Deploying ML Systems
+ - **Thursday November 25:**
+ #### ML Ops and Deploying ML Systems
 
     
-  - **Tuesday December 2 and Thursday December 4:**
-    #### Wrap-up and Team Presentations
+ - **Tuesday December 2 and Thursday December 4:**
+#### Wrap-up and Team Presentations
  
 
 ## More Resources
