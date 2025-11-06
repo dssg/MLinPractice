@@ -539,7 +539,7 @@ related project work.
     and handling of the data, the only way to truly understand how well
     your model works is by testing it in the field. Generally, you’re
     concerned not only with its predictiveness but the actual ability
-    of the model to help the program achieve its policy goals, such as
+    of the model to help the program achieve its goals, such as
     improving outcomes among the population it serves. Typically, this
     involves working closely with business owners to develop a field trial
     using either randomization or non-experimental methods depending on
@@ -550,12 +550,20 @@ related project work.
       - *The seven tools of causal inference, with reflections on
         machine learning* by Pearl, J. Comm ACM. 2019 [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf)
+
+      - *[Running Randomized Controlled Trials](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf)
+        
     
     Optional Readings:
-    
+  
       - *Elements of Causal Inference* by Peters et al. MIT Press.
         Chapters 1 and 2. [Available Online (Open Access
         Link)](https://mitpress.mit.edu/books/elements-causal-inference)
+
+      - *[The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174). Susan Athey and Guido Imbens
+   
+      - *[Breaking the Cycle of Incarceration With Targeted Mental Health Outreach: A Case Study in Machine Learning for Public Policy](https://arxiv.org/abs/2509.14129). Kit T Rodolfa, Erika Salomon, Jin Yao, Steve Yoder, Robert Sullivan, Kevin McGuire, Allie Dickinson, Rob MacDougall, Brian Seidler, Christina Sung, Claire Herdeman, Rayid Ghani
+
 
         
   - **Thursday November 13: Model Interpretability**  
