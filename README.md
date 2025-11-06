@@ -479,7 +479,6 @@ related project work.
 
    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)**  
 
-      
     Required Readings:
     
       - Princeton Ethics Case Study 6: Public Sector Data Analysis
@@ -497,7 +496,7 @@ related project work.
 
 
   - **Tuesday, October 28:**
-    #### Practical Understanding of ML Models**   
+    #### Practical Understanding of ML Models   
     During this session, we'll be introducing some simple and practical analyses to
     perform after the modeling process, and what it means to compare
     performance across model specifications. These methods can help
@@ -508,7 +507,7 @@ related project work.
     **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
 
    - **Thursday, October 30:**
-     #### Intro to Fairness
+   #### Intro to Fairness
     In this class, we’ll introduce topics in ML fairness, where we will
     focus our methods deep dives for the remainder of the semester: Just
     as important as assessing whether your model is making accurate
@@ -568,8 +567,6 @@ related project work.
     the constraints of the setting.
 
     **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx)** 
-
-
     
     Required Readings:
     
@@ -578,8 +575,7 @@ related project work.
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf)
 
       - *[Running Randomized Controlled Trials](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf)
-        
-    
+            
     Optional Readings:
   
       - *Elements of Causal Inference* by Peters et al. MIT Press.
@@ -589,8 +585,6 @@ related project work.
       - *[The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174). Susan Athey and Guido Imbens
    
       - *[Breaking the Cycle of Incarceration With Targeted Mental Health Outreach: A Case Study in Machine Learning for Public Policy](https://arxiv.org/abs/2509.14129). Kit T Rodolfa, Erika Salomon, Jin Yao, Steve Yoder, Robert Sullivan, Kevin McGuire, Allie Dickinson, Rob MacDougall, Brian Seidler, Christina Sung, Claire Herdeman, Rayid Ghani
-
-
         
   - **Thursday November 13**
     #### Model Interpretability  
@@ -613,40 +607,34 @@ related project work.
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
  
-  - **Thursday November 18: Uncertainty Quantification**
+  - **Thursday November 18:**
+    #### Uncertainty Quantification
+       We will focus on understanding what kinds of uncertainty matter, how to estimate them, and how to act on them when deploying or governing ML systems. This will involve:
+  1. Distinguishing between different types of uncertainty (aleatoric, epistemic, systemic, social).
+  2. Implementing and interpreting basic techniques for quantifying model uncertainty.
+  3. Communicating uncertainty effectively to decision-makers.
+  4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
+
     Required Reading:
     - *Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
     
-  - **Tuesday November 23: Domain Shift and Temporal Drift**
+  - **Tuesday November 23:**
+    #### Domain Shift and Temporal Drift
     Readings:
     - Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
     - Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
     - 	In Search of Lost Domain Generalization[Available Online](https://openreview.net/pdf?id=lQdXeXDoWtI)
       
-  - **Thursday November 25: ML Ops and Deploying ML Systems**
-  - **Tuesday December 2 : Additional Topics**
-  - **Thursday December 4: Wrap-up**
+  - **Thursday November 25:**
+    #### ML Ops and Deploying ML Systems
+
+    
+  - **Tuesday December 2 and Thursday December 4:**
+    #### Wrap-up and Team Presentations
+ 
 
 ## More Resources
-You may find several books useful as general background reading on
-specific topics covered in class, but these are by no means required
-texts for the course:
-
-  - *Big Data and Social Science* edited by Foster, Ghani, et al.
-    [Available Online](https://textbook.coleridgeinitiative.org/)
-
-  - *Practical Fairness: Achieving Fair and Secure Data Models* by
-    Nielsen
-
-  - *Fairness and Machine Learning* by Barocas, Hardt, and Narayana
-
-  - *Weapons of Math Destruction* by O’Neil
-
-  - *Exploratory Data Analysis* by Tukey
-
-  - *Data Science for Business* by Provost and Fawcett  
-
-Additionally, the Global Communication Center (GCC) can provide
+The Global Communication Center (GCC) can provide
 assistance with the written or oral communication assignments in this
 class. The GCC is a free service, open to all students, and located in
 Hunt Library. You can learn more on the GCC website:
