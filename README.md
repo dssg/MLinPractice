@@ -357,7 +357,8 @@ related project work.
    initial pipeline with train and validation sets and baseline
    implemented)
 
-- **Tuesday, September 23: Feature Engineering and Imputation**  
+- **Tuesday, September 23:**
+  #### Feature Engineering and Imputation**  
    In many real-world contexts (especially involving tabular data), expressing domain expertise through
    thoughtful feature engineering can dramatically improve model
    performance by understanding what underlying factors are likely to
@@ -384,7 +385,8 @@ related project work.
      - *Missing-data imputation* by Gelman, A. [Available
        Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
-- **Thursday, September 25:  ML Pipelines**  
+- **Thursday, September 25:**
+  #### ML Pipelines  
   During this session, we’ll take some time to review the machine
   learning pipelines your teams have been building, providing feedback
   on structure, design decisions, and best practices.
@@ -394,7 +396,8 @@ related project work.
 - **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented
   and planned features)
 
-- **Tuesday, September 30: ML Modeling in Practice**  
+- **Tuesday, September 30:**
+  #### ML Modeling in Practice 
   This class will focus on some of the practical aspects of applying
   machine learning to real-world problems. In other classes, you have
   implemented and worked with a wide variety of machine learning
@@ -409,8 +412,8 @@ related project work.
 
 - **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
 
-- **Tuesday, October 7: Module 1 Review: Applied ML End-to-End
-  Pipelines**  
+- **Tuesday, October 7:**
+  #### Module 1 Review: Applied ML End-to-End Pipelines  
   In this session, we’ll take some time to step back and review the
   concepts we have covered so far, with the goals of helping ensure
   all the projects are on track for the second and third modules,
@@ -445,7 +448,8 @@ related project work.
   - **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
 
 
-  - **Tuesday, October 21: Team Presentations and Temporal Model Selection**  
+  - **Tuesday, October 21:
+  #### Team Presentations and Temporal Model Selection**  
   During this class, we’ll continue our discussion from the previous
   week, delving into the details of winnowing down a large number of
   model specifications to one or a handful that perform “best” for
@@ -464,7 +468,8 @@ related project work.
 ### MODULE 2: Key Considerations Beyond Model Accuracy**
  This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
 
-  - **Thursday, October 23: ML Ethics Overview**  
+  - **Thursday, October 23:**
+  #### ML Ethics Overview  
     In this session, we’ll discuss ethical issues in
     machine learning, focusing on the broader landscape of topics in
     this area, including questions around privacy, transparency, and
@@ -491,7 +496,8 @@ related project work.
         here’ and enter your CMU email address to access content)
 
 
-  - **Tuesday, October 28: Practical Understanding of ML Models**   
+  - **Tuesday, October 28:**
+    #### Practical Understanding of ML Models**   
     During this session, we'll be introducing some simple and practical analyses to
     perform after the modeling process, and what it means to compare
     performance across model specifications. These methods can help
@@ -501,7 +507,8 @@ related project work.
 
     **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
 
-   - **Thursday, October 30: Intro to Fairness**  
+   - **Thursday, October 30:**
+     #### Intro to Fairness
     In this class, we’ll introduce topics in ML fairness, where we will
     focus our methods deep dives for the remainder of the semester: Just
     as important as assessing whether your model is making accurate
@@ -546,7 +553,8 @@ related project work.
         [Available
         Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
-  - **Thursday and Tuesday November 6, 11: Field Trials and Causality**  
+  - **Thursday and Tuesday November 6, 11:**
+    #### Field Trials and Causality  
     In this session, we’ll briefly discuss field trials and issues of
     causality, critical for understanding how your model actually
     generalizes to real-world applications. Even with careful planning
@@ -584,7 +592,8 @@ related project work.
 
 
         
-  - **Thursday November 13: Model Interpretability**  
+  - **Thursday November 13**
+    #### Model Interpretability  
     Model interpretability can be thought of at two levels: global (how
     the model works in aggregate) and local (why an individual
     prediction came out as it did). In this class, we’ll focus on the
