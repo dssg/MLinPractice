@@ -149,24 +149,24 @@ You are working with DonorsChoose, and your task is to help this content expert 
 [Download links and data set description](datadescription.md)
 
 ### More details about Module 2 
-Module 2 will involve selecting one (or more) topic that you want to go deeper into once you've built an initial ML pipeline and have built a set of reasonable models. This will involve exploring key considerations that are critical in real-world ML problems including interpretablity, fairness, uncertainty quantification, robustness, causality, and drift. The assignment in Module 2 will start from the moels you've already built and will involve two deliverables:
+Module 2 will involve selecting one (or more) topic that you want to go deeper into once you've built an initial ML pipeline and have built a set of reasonable models. This will involve exploring key considerations that are critical in real-world ML problems, including interpretablity, fairness, uncertainty quantification, robustness, causality, and drift. The assignment in Module 2 will start from the models you've already built and will involve two deliverables:
 
 1. short write-up (under 4 pages) based on applying your selected topic to your class project.
-- The need for this topic in your project (who will be the user and who will be impacted and why it's important)
+- The need for this topic in your project (who will be the user and who will be impacte,d and why it's important)
 - What question are you trying to answer 
-- Which methods within this topic you choose to try and why
+- Which methods within this topic did you choose to try, and why
 - How was your implementation experience (easy to use package? difficulties in implementation?)
-- Results - What did you find? Did it work? Will it help the downstream donorschoose team , teachers, or students?
-- Your recommendations for donorschoose based on your work
-- 
+- Results - What did you find? Do you know if it worked? Will it help the downstream DonorsChoose team, teachers, or students?
+- Your recommendations for DonorsChoose based on your work
+
 2. Short 10-minute presentation during the last week of class on yur findings
 
 
 ## Grace Days
-Project teams receive 3 total grace days for use on your project deliverables. You may not use more than 1 grace day on any single assignment. We will automatically keep a tally of these grace days for you; they will be applied greedily. 
+Project teams receive 3 total grace days for use on their project deliverables. You may not use more than 1 grace day on any single assignment. We will automatically keep a tally of these grace days for you; they will be applied greedily. 
 
 ## Participation and Missing Days
-Attendance in class and participation in class discussions is a large part of 10-718. Throughout the semester your participation will be measured by your responses in class and via Slido. You are permitted to miss a maximum of 4 lectures in order to still be considered for full participation credit, more than this will begin to reduce your participation grade.
+Attendance in class and participation in class discussions is a large part of 10-718. Throughout the semester, your participation will be measured by your responses in class and via Slido. You are permitted to miss a maximum of 4 lectures in order to still be considered for full participation credit; more than this will begin to reduce your participation grade.
 
 ## Structure
 
@@ -177,8 +177,8 @@ Most of these topics can be (and often are) the focus of entire courses
 and generally, we’ll only scratch the surface, but hopefully inspire you
 to delve deeper into areas that interest you (and you’ll find plenty of
 open research questions in each). Optional readings are also listed for
-most sessions which may be of interest to students who wish to delve
-deeper into a given area as well as provide additional context for your
+most sessions, which may be of interest to students who wish to delve
+deeper into a given area, as well as provide additional context for your
 related project work.  
   
 ### MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS**  
@@ -188,7 +188,7 @@ related project work.
     class, its goals, and an overview of the applied project we will be
     using as a motivating example throughout the semester.
 
-- **Thursday, August 28: Why ML Systems can Fail in Practice**  
+- **Thursday, August 28: Why ML Systems Can Fail in Practice**  
     We'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
   
 - **Tuesday, September 2:**
@@ -228,7 +228,7 @@ related project work.
     In this class, we will look at some of the nuances of obtaining and
     using data in real-world projects, including a discussion of the
     strengths and weaknesses of different options for data storage as
-    well as the practical aspects of dealing with linkage of records
+    well as the practical aspects of dealing with the linkage of records
     from many different sources.
   
     **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
