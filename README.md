@@ -145,8 +145,21 @@ For the purposes of the class project, \\DonorsChoose has hired a digital conten
 
 You are working with DonorsChoose, and your task is to help this content expert focus their limited resources on projects that most need the help. As such, you want to build a model to identify projects that are least likely to be fully funded before they expire and pass them off to the digital content expert for review.
 
-## Data
+#### Data
 [Download links and data set description](datadescription.md)
+
+### More details about Module 2 
+Module 2 will involve selecting one (or more) topic that you want to go deeper into once you've built an initial ML pipeline and have built a set of reasonable models. This will involve exploring key considerations that are critical in real-world ML problems including interpretablity, fairness, uncertainty quantification, robustness, causality, and drift. The assignment in Module 2 will start from the moels you've already built and will involve two deliverables:
+
+1. short write-up (under 4 pages) based on applying your selected topic to your class project.
+- The need for this topic in your project (who will be the user and who will be impacted and why it's important)
+- What question are you trying to answer 
+- Which methods within this topic you choose to try and why
+- How was your implementation experience (easy to use package? difficulties in implementation?)
+- Results - What did you find? Did it work? Will it help the downstream donorschoose team , teachers, or students?
+- Your recommendations for donorschoose based on your work
+- 
+2. Short 10-minute presentation during the last week of class on yur findings
 
 
 ## Grace Days
