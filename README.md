@@ -125,14 +125,14 @@ During the project, students will be responsible for several key
 deliverables:
 
   - Throughout the first module (covering applied ML pipelines), groups
-    will submit short project update assignments on a weekly basis to
-    get feedback on their approach and initial results.
+    will submit short project update assignments weekly, anbd iterate based on
+     feedback from the instructors.
 
   - At the end of the first module, there will be a take-home midterm
     exam focused on the concepts and skills emphasized in this portion
     of the course.
 
-  - During the second half, each group will pick one topic (among a few choices) and implement that into their project and present their results (through a short writeup and a team presentation).
+  - During the second half, each group will pick one topic (among a few choices) and implement that into their project and present their results (through a short write-up and a team presentation).
 
 ### More details about the class project
 
@@ -171,18 +171,17 @@ related project work.
 ### MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS**  
 
 - **Tuesday, August 26: Introduction**  
-    During our initial meeting, we’ll provide an introduction to the
+    We’ll provide an introduction to the
     class, its goals, and an overview of the applied project we will be
     using as a motivating example throughout the semester.
 
-
 - **Thursday, August 28: Why ML Systems can Fail in Practice**  
-    In this session, we'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
+    We'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
   
 - **Tuesday, September 2:**
   #### ML Project Definition and Scoping
    In this session, we’ll talk about scoping, problem definition, and
-   understanding and balancing organizational goals. Well before we start doing technical ML work, a decision needs to be made about whether
+   understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether
    a given problem can and should be addressed with machine learning:
    is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they
    will devote resources to implementing the solution? How will success
@@ -209,8 +208,7 @@ related project work.
        Stat Soc. A 157(3) 1994. [Available
        Online](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
    
-     - *Predictive Modeling for Public Health: Preventing Childhood
-       Lead Poisoning* by Potash, E, et al. KDD 2015.
+     - *Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning* by Potash, E, et al. KDD 2015.
 
 - **Thursday, September 4**
     #### Obtaining, Storing, and Linking Data
@@ -329,14 +327,14 @@ related project work.
        Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
 - **Thursday, September 18
-  #### Model Performance Metrics**  
+  #### Model (Selection) Performance Metrics**  
    In this class, we’ll introduce topics around choosing performance
    metrics and evaluating classifiers. In most cases, a vast array of
-   methods — each with a number of tunable hyperparameters — can be
-   brought to bear on your modeling question. How do you decide which
+   methods — each with several tunable hyperparameters — can be
+   used for your modeling question. How do you decide which
    models are better than others and how can you be confident this
    decision will generalize into the future when the model is deployed?
-   How should you balance considerations of performance,
+   How should you balance performance,
    explainability, and fairness when making these decisions? Are models
    that are performing equally well all learning the same patterns and
    generating the same predictions? How should you select one to deploy
@@ -360,15 +358,18 @@ related project work.
    implemented)
 
 - **Tuesday, September 23: Feature Engineering and Imputation**  
-   In many real-world contexts, expressing domain expertise through
+   In many real-world contexts (especially involving tabular data), expressing domain expertise through
    thoughtful feature engineering can dramatically improve model
    performance by understanding what underlying factors are likely to
    be predictive and helping the model find these relationships.
    Likewise, most data sets you’ll encounter in practice are littered
    with outliers, inconsistencies, and missingness. Handling these data
    issues in a smart way can be critical to a project’s success. This
-   class will focus on these aspects of dealing with often messy and
-   inconsistent data encountered in applied projects.  
+   session will focus on these aspects of dealing with often messy and
+   inconsistent data encountered in applied projects.
+
+    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture7-Features.pptx)**
+
      
    Optional Readings:
    
@@ -388,6 +389,8 @@ related project work.
   learning pipelines your teams have been building, providing feedback
   on structure, design decisions, and best practices.
 
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture8-Machine-Learning-Pipelines.pptx)**
+
 - **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented
   and planned features)
 
@@ -398,7 +401,9 @@ related project work.
   methods, but where should you start when dealing with a real problem
   in practice? What is a “reasonable” hyperparameter grid to consider?
   What pitfalls might you encounter in these situations and how can
-  you avoid them?  
+  you avoid them?
+
+   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture9-PracticalModeling-Hyperparameters.pptx)** 
 
 - **Thursday, Oct 2: Team Presentations and Feedback on Modeling Results
 
@@ -411,7 +416,9 @@ related project work.
   all the projects are on track for the second and third modules,
   preparing for next week’s concept-focused midterm exam, and
   highlighting what we see as the most important takeaways from this
-  section of the course.  
+  section of the course.
+
+     **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)** 
     
   Required Readings:
   
@@ -445,8 +452,9 @@ related project work.
   some definition of “best”. In particular, we’ll focus on the common
   case of machine learning problems with a strong temporal component
   and the desire to balance performance and stability in model
-  selection.  
-     
+  selection.
+
+   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture10-ModelSelection2.pptx)**  
    Optional Reading:
    
      - *Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017.
@@ -462,7 +470,10 @@ related project work.
     this area, including questions around privacy, transparency, and
     accountability. Note that we’ll spend some time in class discussing
     the case study linked below, so please be sure to have read and
-    thought about it before class.  
+    thought about it before class. We will have a surprise (hopefully, fun) activity in class instead of a lecture session.
+
+   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)**  
+
       
     Required Readings:
     
@@ -488,6 +499,8 @@ related project work.
     between predicted classes and play an important role in detecting
     bugs such as leakage.
 
+    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
+
    - **Thursday, October 30: Intro to Fairness**  
     In this class, we’ll introduce topics in ML fairness, where we will
     focus our methods deep dives for the remainder of the semester: Just
@@ -497,7 +510,10 @@ related project work.
     can you do to mitigate any disparities you might find? Where in your
     pipeline can bias be introduced? (spoiler: everywhere). This class
     will provide a very brief introduction to the expansive field of
-    algorithmic fairness.  
+    algorithmic fairness.
+
+   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx)** 
+
       
     Required Readings:
     
@@ -530,8 +546,6 @@ related project work.
         [Available
         Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
-
-
   - **Thursday and Tuesday November 6, 11: Field Trials and Causality**  
     In this session, we’ll briefly discuss field trials and issues of
     causality, critical for understanding how your model actually
@@ -543,8 +557,12 @@ related project work.
     improving outcomes among the population it serves. Typically, this
     involves working closely with business owners to develop a field trial
     using either randomization or non-experimental methods depending on
-    the constraints of the setting.  
-      
+    the constraints of the setting.
+
+    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx)** 
+
+
+    
     Required Readings:
     
       - *The seven tools of causal inference, with reflections on
