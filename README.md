@@ -604,6 +604,9 @@ related project work.
     prediction came out as it did). In this class, we’ll focus on the
     bigger picture: discussing the landscape of model interpretability
     as well as different use cases and users.  
+  
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)** 
+
       
     Required Readings:
     
@@ -626,11 +629,16 @@ related project work.
   3. Communicating uncertainty effectively to decision-makers.
   4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
 
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)** 
+
     Required Reading:
     - *Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
     
  - **Tuesday November 23:**
    #### Domain Shift and Temporal Drift
+ 
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/temporal%20drift%20and%20domain%20shift.pptx)** 
+
     Readings:
     - Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
     - Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
@@ -638,6 +646,8 @@ related project work.
       
  - **Thursday November 25:**
  #### ML Ops and Deploying ML Systems
+
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/mlops.pptx)** 
 
     
  - **Tuesday December 2 and Thursday December 4:**
