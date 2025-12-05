@@ -187,12 +187,10 @@ related project work.
     - [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide)
    
   **Optional Readings:**
-   
     - [Fine-grained dengue forecasting using telephone triage
-       services]((https://nyunetworks.github.io/Pubs/rehman-science16.pdf)) by Rehman, NA, et al. Sci. Adv. 2016.
+       services](https://nyunetworks.github.io/Pubs/rehman-science16.pdf) by Rehman, NA, et al. Sci. Adv. 2016.
    
-    - [Deconstructing Statistical Questions]((http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
-     ) by Hand, D.J. J. Royal Stat Soc. A 157(3) 1994. 
+    - [Deconstructing Statistical Questions](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)  by Hand, D.J. J. Royal Stat Soc. A 157(3) 1994. 
 
     - Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning* by Potash, E, et al. KDD 2015.
 
