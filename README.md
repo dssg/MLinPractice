@@ -179,9 +179,9 @@ related project work.
   
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)
   
-#### Due Today:
-    - Individual Assignment: Getting to know the class project data
-    - Project team selections
+#### Due Today: :warning:
+1. Individual Assignment: Getting to know the class project data
+2. Project team selections
        
 #### Required Reading:
 
@@ -202,18 +202,18 @@ related project work.
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
    
 ####   Optional Readings:
-    - [Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
 
-    - [Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087)
+[Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+
+[Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087)
     
-    - [Data Matching](https://link.springer.com/book/10.1007%2F978-3-642-31164-2) by Christen, P. Springer (2012). Chapter 2: The Data Matching Process
+[Data Matching](https://link.springer.com/book/10.1007%2F978-3-642-31164-2) by Christen, P. Springer (2012). Chapter 2: The Data Matching Process
   
-    - Big Data and Social Science* edited by Foster, Ghani, et al.
+Big Data and Social Science* edited by Foster, Ghani, et al.
       [Chapter 4: Databases](https://textbook.coleridgeinitiative.org/chap-db.html)
   
-    - [Broken Promises of Privacy](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals) by Ohm, P. UCLA Law Review. 2009.
+[Broken Promises of Privacy](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals) by Ohm, P. UCLA Law Review. 2009.
       Introduction and Section 1.
-
 
 :calendar:	**Tuesday, September 9**
 ### Data Exploration
@@ -250,7 +250,7 @@ related project work.
   [Problem Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf) by Passi and Barocas. FAT \* 2019.
    
 #### Optional Readings:
-   
+  
   Always Start with a Stupid Model, No Exceptions* by Ameisen, E. Medium. [Available
        Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
    
@@ -282,17 +282,17 @@ related project work.
    
 #### Optional Readings:
    
-    - *[Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
+  *[Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
        
-    - *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
+  *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
        [Available
        Online](https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9)
    
-    - *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
+  *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
        arXiv preprint: 1906.01998. 2019. [Available
        Online](https://arxiv.org/abs/1906.01998)
    
-    - *Big Data and Social Science (2nd edition)* edited by Foster,
+  *Big Data and Social Science (2nd edition)* edited by Foster,
        Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
        Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
@@ -315,13 +315,11 @@ related project work.
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)**
 
 ####   Required Reading:
-    - [The Misuse of AUC, What High Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159)
+  [The Misuse of AUC, What High Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159)
   
-  Optional Reading:
+#### Optional Reading:
    
-    - *Transductive Optimization of Top k Precision* by Liu, LP,
-       Dietterich, TG, et al. IJCAI 2016. [Available
-       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf)
+  Transductive Optimization of Top k Precision* by Liu, LP, Dietterich, TG, et al. IJCAI 2016. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf)
 
   **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up;
    initial pipeline with train and validation sets and baseline
