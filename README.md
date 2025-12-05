@@ -165,15 +165,15 @@ related project work.
   
 ## MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS**  
 
-📆 :calendar:	**Tuesday, August 26:**
+:calendar:	**Tuesday, August 26:**
 ### Introduction
   We’ll provide an introduction to the class, its goals, and an overview of the applied project we will be using as a motivating example throughout the semester.
 
-**Thursday, August 28:**
+:calendar:	**Thursday, August 28:**
 ### Why ML Systems Can Fail in Practice**  
   We'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
   
-**Tuesday, September 2:**
+:calendar:	**Tuesday, September 2:**
 ### ML Project Definition and Scoping
   In this session, we’ll talk about scoping, problem definition, and understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether a given problem can and should be addressed with machine learning: is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they will devote resources to implementing the solution? How will success be measured? How will (often competing) goals of efficiency, effectiveness, and equity be balanced?
   
@@ -195,13 +195,13 @@ related project work.
 
   Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning* by Potash, E, et al. KDD 2015.
 
-**Thursday, September 4**
+:calendar:	**Thursday, September 4**
 ### Obtaining, Storing, and Linking Data
   In this class, we will look at some of the nuances of obtaining and using data in real-world projects, including a discussion of the strengths and weaknesses of different options for data storage as well as the practical aspects of dealing with the linkage of records from many different sources.
   
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
    
-  Optional Readings:
+####   Optional Readings:
     - [Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
 
     - [Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087)
@@ -215,14 +215,15 @@ related project work.
       Introduction and Section 1.
 
 
-**Tuesday, September 9**
+:calendar:	**Tuesday, September 9**
 ### Data Exploration
   You're all familiar with the general concept and practice of data exploration. In this session, we'll learn about the use of data exploration, specifically in ML projects, and apply those ideas to our class project. Most of this session will be focused on team presentations on the data exploration assignment (see canvas).
   
-  Optional Readings:
-    - [Can Foundation Models Wrangle your Data](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf)
+#### Optional Readings:
+  [Can Foundation Models Wrangle your Data](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf)
 
-**Thursday, September 11**
+
+:calendar:	**Thursday, September 11**
 ### Analytical Formulation and Baselines
   In this session, we’ll discuss the analytical formulation of applied
   projects. Distinct from the initial scoping, a true analytical
@@ -238,36 +239,30 @@ related project work.
   expert would come up with or even a pre-existing statistical model
   that the current effort is seeking to replace.  
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)**
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)**
 
   **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and Baselines)
 
-  **Required Readings**:
+#### Required Readings:
    
-    - *Dissecting Racial Bias in an Algorithm Used to Manage the
-       Health of Populations* by Obermeyer, Z., Powers, B., et al.
-       Science. 2019. [Available
-       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf)
+  [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf) by Obermeyer, Z., Powers, B., et al. Science. 2019.
    
-    - *Problem Formulation and Fairness* by Passi and Barocas. FAT\*
-       2019. [Available
-       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf)
+  [Problem Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf) by Passi and Barocas. FAT \* 2019.
    
-  Optional Readings:
+#### Optional Readings:
    
-    - *Always Start with a Stupid Model, No Exceptions* by Ameisen, E.
-       Medium. [Available
+  Always Start with a Stupid Model, No Exceptions* by Ameisen, E. Medium. [Available
        Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
    
-    - *Create a Common-Sense Baseline First* by Ramakrishnan. Medium.
+  Create a Common-Sense Baseline First* by Ramakrishnan. Medium.
        [Available
        Online](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47)
    
-    - *Data Science for Business* by Provost and Fawcett. O’Reilly.
+  Data Science for Business* by Provost and Fawcett. O’Reilly.
        2013. Chapter 2: Business Problems and Data Science [Available
        Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
    
-**Tuesday, September 16**
+:calendar:	**Tuesday, September 16**
 ### Model Selection Methodology 
   During this session, we’ll begin a discussion of model evaluation
   with a focus on validation strategies. Introductory machine learning
@@ -276,16 +271,16 @@ related project work.
   in practice? How does your choice of validation strategy relate to
   the manner in which you are hoping your model will generalize?
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)**
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)**
      
-  Required Reading:
+#### Required Reading:
    
-    - *Cross-validation strategies for data with temporal, spatial,
+  Cross-validation strategies for data with temporal, spatial,
        hierarchical, or phylogenetic structure* by Roberts, DR, Bahn,
        V, et al. Ecography 40:2017. [Available
        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf)
    
-  Optional Readings:
+#### Optional Readings:
    
     - *[Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
        
@@ -301,7 +296,7 @@ related project work.
        Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
        Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
-**Thursday, September 18**
+:calendar:	**Thursday, September 18**
 ### Model (Selection) Performance Metrics  
   In this class, we’ll introduce topics around choosing performance
   metrics and evaluating classifiers. In most cases, a vast array of
@@ -317,9 +312,9 @@ related project work.
   questions, focusing on the choice of performance metrics and how they
   relate to your project’s goals, scope, and formulation.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)**
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)**
 
-  Required Reading:
+####   Required Reading:
     - [The Misuse of AUC, What High Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159)
   
   Optional Reading:
@@ -332,7 +327,7 @@ related project work.
    initial pipeline with train and validation sets and baseline
    implemented)
 
-**Tuesday, September 23:**
+:calendar:	**Tuesday, September 23:**
 ### Feature Engineering and Imputation 
   In many real-world contexts (especially involving tabular data), expressing domain expertise through
   thoughtful feature engineering can dramatically improve model
@@ -344,9 +339,9 @@ related project work.
   session will focus on these aspects of dealing with often messy and
   inconsistent data encountered in applied projects.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture7-Features.pptx)**
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture7-Features.pptx)**
   
-  Optional Readings:
+####   Optional Readings:
    
     - *Missing Data Conundrum* by Akinfaderin, W. Medium. [Available
        Online](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
@@ -359,17 +354,17 @@ related project work.
     - *Missing-data imputation* by Gelman, A. [Available
        Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
-**Thursday, September 25:**
+:calendar:	**Thursday, September 25:**
 ### ML Pipelines  
   During this session, we’ll take some time to review the machine
   learning pipelines your teams have been building, providing feedback
   on structure, design decisions, and best practices.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture8-Machine-Learning-Pipelines.pptx)**
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture8-Machine-Learning-Pipelines.pptx)**
 
   **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented and planned features)
 
-**Tuesday, September 30:**
+:calendar:	**Tuesday, September 30:**
 ### ML Modeling in Practice 
   This class will focus on some of the practical aspects of applying
   machine learning to real-world problems. In other classes, you have
@@ -379,12 +374,12 @@ related project work.
   What pitfalls might you encounter in these situations and how can
   you avoid them?
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture9-PracticalModeling-Hyperparameters.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture9-PracticalModeling-Hyperparameters.pptx)** 
   
-**Thursday, Oct 2: Team Presentations and Feedback on Modeling Results**
+:calendar:	**Thursday, Oct 2: Team Presentations and Feedback on Modeling Results**
   **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
 
-**Tuesday, October 7:**
+:calendar:	**Tuesday, October 7:**
 ### Module 1 Review: Applied ML End-to-End Pipelines  
   In this session, we’ll take some time to step back and review the
   concepts we have covered so far, with the goals of helping ensure
@@ -393,9 +388,9 @@ related project work.
   highlighting what we see as the most important takeaways from this
   section of the course.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)** 
     
-  Required Readings:
+####   Required Readings:
     - *Three Pitfalls to Avoid in Machine Learning* by Riley, P.
       Nature. 527. 2019 (Comment) [Available
       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
@@ -404,17 +399,17 @@ related project work.
       Ghani, R. et al. DSSG Blog. [Available
       Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
 
-**Thursday, October 9: No Class, Midterm Distributed**  
+:calendar:	**Thursday, October 9: No Class, Midterm Distributed**  
   We'll cancel class on this day to provide some extra time for working
   on the midterm and updating model results.
 
-**Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall Break**  
+:calendar:	**Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall Break**  
     
   **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
   **DUE TUESDAY, OCTOBER 21:** Project Update 5 (Updated Modeling Results and Model Selection)  
 
 
-**Tuesday, October 21**
+:calendar:	**Tuesday, October 21**
 ### Team Presentations and Temporal Model Selection**  
   During this class, we’ll continue our discussion from the previous
   week, delving into the details of winnowing down a large number of
@@ -424,7 +419,7 @@ related project work.
   and the desire to balance performance and stability in model
   selection.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture10-ModelSelection2.pptx)**  
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture10-ModelSelection2.pptx)**  
   
   Optional Reading:
 
@@ -435,7 +430,7 @@ related project work.
 ## MODULE 2: Key Considerations Beyond Model Accuracy**
 This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
 
-**Thursday, October 23:**
+:calendar:	**Thursday, October 23:**
 ### ML Ethics Overview  
   In this session, we’ll discuss ethical issues in
   machine learning, focusing on the broader landscape of topics in
@@ -444,15 +439,15 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   the case study linked below, so please be sure to have read and
   thought about it before class. We will have a surprise (hopefully, fun) activity in class instead of a lecture session.
   
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)**  
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)**  
 
-  Required Readings:
+####   Required Readings:
     
     - Princeton Ethics Case Study 6: Public Sector Data Analysis
         [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf)
 
-  Optional Readings:
+####   Optional Readings:
     
     - *Ethics and Data Science* by Loukides, M., Mason, H., and Patil,
         D.J. O’Reilly (2018). Entire Book (don’t worry – it’s short\!)
@@ -461,7 +456,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
         (When prompted to select institution, select ’Not listed? Click
         here’ and enter your CMU email address to access content)
 
-**Tuesday, October 28:**
+:calendar:	**Tuesday, October 28:**
 ### Practical Understanding of ML Models: What did my model learn? 
     During this session, we'll be introducing some simple and practical analyses to
     perform after the modeling process, and what it means to compare
@@ -470,9 +465,9 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
     between predicted classes and play an important role in detecting
     bugs such as leakage.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
 
-**Thursday, October 30:**
+:calendar:	**Thursday, October 30:**
 ### Introduction to ML and Fairness
   In this class, we’ll introduce topics in ML fairness, where we will
   focus our methods deep dives for the remainder of the semester: Just
@@ -484,9 +479,9 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   will provide a very brief introduction to the expansive field of
   FairML.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx)** 
       
-  Required Readings:
+####   Required Readings:
     
     - *Fairness Definitions Explained* by Verma, S and Rubin, J.
         [Available
@@ -496,7 +491,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
         Fairness, pp. 1-19. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf)
         
-  Optional Readings:
+####   Optional Readings:
       - *Racial Equity in Algorithmic Criminal Justice* by Huq, A. Duke
         Law Journal. 2018. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf)
@@ -517,7 +512,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
         [Available
         Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
-**Thursday and Tuesday November 6, 11:**
+:calendar:	**Thursday and Tuesday November 6, 11:**
 ### Field Trials and Causality  
   In this session, we’ll briefly discuss field trials and issues of
   causality, critical for understanding how your model actually
@@ -531,9 +526,9 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   using either randomization or non-experimental methods depending on
   the constraints of the setting.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx)** 
     
-  Required Readings:
+####   Required Readings:
     
     - *The seven tools of causal inference, with reflections on
         machine learning* by Pearl, J. Comm ACM. 2019 [Available
@@ -541,7 +536,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
 
     - *[Running Randomized Controlled Trials](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf)
             
-  Optional Readings:
+####   Optional Readings:
   
     - *Elements of Causal Inference* by Peters et al. MIT Press.
         Chapters 1 and 2. [Available Online (Open Access
@@ -551,7 +546,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
    
     - *[Breaking the Cycle of Incarceration With Targeted Mental Health Outreach: A Case Study in Machine Learning for Public Policy](https://arxiv.org/abs/2509.14129). Kit T Rodolfa, Erika Salomon, Jin Yao, Steve Yoder, Robert Sullivan, Kevin McGuire, Allie Dickinson, Rob MacDougall, Brian Seidler, Christina Sung, Claire Herdeman, Rayid Ghani
         
-**Thursday November 13**
+:calendar:	**Thursday November 13**
 ### Model Interpretability  
   Model interpretability can be thought of at two levels: global (how
   the model works in aggregate) and local (why an individual
@@ -559,10 +554,10 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   bigger picture: discussing the landscape of model interpretability
   as well as different use cases and users.  
   
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)** 
 
       
-  Required Readings:
+####  Required Readings:
     
       - *Explainable Machine Learning for Public Policy: Use Cases,
         Gaps, and Research Directions* by Amarasinghe, K., et al. arXiv
@@ -575,7 +570,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
  
-**Thursday November 18:**
+:calendar:	**Thursday November 18:**
 ### Uncertainty Quantification
     We will focus on understanding what kinds of uncertainty matter, how to estimate them, and how to act on them when deploying or governing ML systems. This will involve:
       1. Distinguishing between different types of uncertainty (aleatoric, epistemic, systemic, social).
@@ -583,29 +578,29 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
       3. Communicating uncertainty effectively to decision-makers.
       4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)** 
 
-  Required Reading:
+####   Required Reading:
     - *Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
     
-**Tuesday November 23:**
+:calendar:	**Tuesday November 23:**
 ### Domain Shift and Temporal Drift
  
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/temporal%20drift%20and%20domain%20shift.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/temporal%20drift%20and%20domain%20shift.pptx)** 
 
   Readings:
     - Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
     - Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
     - In Search of Lost Domain Generalization[Available Online](https://openreview.net/pdf?id=lQdXeXDoWtI)
       
-**Thursday November 25:**
+:calendar:	**Thursday November 25:**
 ### ML Ops and Deploying ML Systems
 
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/mlops.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/mlops.pptx)** 
 
   Readings (in slides)
     
-**Tuesday December 2 and Thursday December 4:**
+:calendar:	**Tuesday December 2 and Thursday December 4:**
 ### Wrap-up and Team Presentations
  
 
