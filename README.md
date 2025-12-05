@@ -165,10 +165,12 @@ related project work.
   
 ## MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS**  
 
-**Tuesday, August 26: Introduction**  
+**Tuesday, August 26:**
+### Introduction
   We’ll provide an introduction to the class, its goals, and an overview of the applied project we will be using as a motivating example throughout the semester.
 
-**Thursday, August 28: Why ML Systems Can Fail in Practice**  
+**Thursday, August 28:**
+### Why ML Systems Can Fail in Practice**  
   We'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
   
 **Tuesday, September 2:**
@@ -182,17 +184,17 @@ related project work.
     - Project team selections
        
   **Required Reading:**
-    - *[Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide)*
+    - [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide)
    
   **Optional Readings:**
    
-     - [Fine-grained dengue forecasting using telephone triage
+    - [Fine-grained dengue forecasting using telephone triage
        services]((https://nyunetworks.github.io/Pubs/rehman-science16.pdf)) by Rehman, NA, et al. Sci. Adv. 2016.
    
-     - [Deconstructing Statistical Questions]((http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
+    - [Deconstructing Statistical Questions]((http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
      ) by Hand, D.J. J. Royal Stat Soc. A 157(3) 1994. 
 
-     - *Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning* by Potash, E, et al. KDD 2015.
+    - Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning* by Potash, E, et al. KDD 2015.
 
 **Thursday, September 4**
 ### Obtaining, Storing, and Linking Data
