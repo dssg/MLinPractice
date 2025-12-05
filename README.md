@@ -525,11 +525,11 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
  
 :calendar:	**Thursday November 18:**
 ### Uncertainty Quantification
-    We will focus on understanding what kinds of uncertainty matter, how to estimate them, and how to act on them when deploying or governing ML systems. This will involve:
-      1. Distinguishing between different types of uncertainty (aleatoric, epistemic, systemic, social).
-      2. Implementing and interpreting basic techniques for quantifying model uncertainty.
-      3. Communicating uncertainty effectively to decision-makers.
-      4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
+  We will focus on understanding what kinds of uncertainty matter, how to estimate them, and how to act on them when deploying or governing ML systems. This will involve:
+  1. Distinguishing between different types of uncertainty (aleatoric, epistemic, systemic, social).
+  2. Implementing and interpreting basic techniques for quantifying model uncertainty.
+  3. Communicating uncertainty effectively to decision-makers.
+  4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
 
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)** 
 
