@@ -2,39 +2,28 @@
 
 **Previous Versions:** [Fall 2023](https://github.com/dssg/MLinPractice/releases/tag/fall2023) | [Fall 2022](https://github.com/dssg/MLinPractice/releases/tag/fall2022) |  [Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021) | [Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020) | [Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)
 
+## Fall 2025: Tues & Thurs, 2:00-3:20 ([POS 153](https://maps.app.goo.gl/FSHeY1jTBVzpsztA8))
 
-### Fall 2025: Tues & Thurs, 2:00-3:20 ([POS 153](https://maps.app.goo.gl/FSHeY1jTBVzpsztA8))
-
-### Important 
+## Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [detailed syllabus](README.md#structure)**
- - **All assignments will be on and submitted through [canvas](https://canvas.cmu.edu/courses/49132)**
+ - **All assignments will be on, and submitted through [canvas](https://canvas.cmu.edu/courses/49132)**
  - **Class communication and announcements will be primarily through email and [piazza](https://piazza.com/cmu/fall2025/10718/home)**
 
-### Class Description
+## Class Description
 
-This is a project-based course designed to provide students training and
-experience in solving real-world problems using machine learning,
-while exploring the interface between research and practice.
+This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, while exploring the interface, translation, and gaps between research and practice.
 
-The goal of this course is to give students exposure to the nuance of
-using machine learning in the real-world, where common assumptions
-(like iid and stationarity) break down, and the growing needs for (and
-limitations of) approaches that go beyond optimizing for simple model accuracy measures and explore notions of fairness, explainability, robustness, uncetainty quantification, etc. Through project assignments, lectures, discussions,
-and readings, students will learn about and experience building machine
-learning systems for real-world problems and data, as well as applying
-and evaluating the utility of proposed methods for enhancing the
-interpretability and fairness of machine learning models. Through the
-course, students will develop skills in problem formulation, working
-with messy (aka real) data, making ML design choices appropriate for the problem at
-hand, model selection, model interpretability, understanding and
-mitigating bias & disparities, and evaluating the impact of
-deployed models. 
+The goal of this course is to give students exposure to the nuance of using machine learning in the real-world, where common assumptions (like iid and stationarity) break down, and the growing needs for (and
+limitations of) approaches that go beyond optimizing for simple model accuracy measures such as fairness, explainability, robustness, uncetainty quantification, etc. Through project assignments, lectures, discussions,
+and readings, students will learn about and experience building machine learning systems for real-world problems (suing real-world data_, as well as applying and evaluating the utility of proposed methods for enhancing the
+interpretability, uncertainty quantification, causal inference capabilities, robustness, and fairness of machine learning models. Students will develop skills in problem formulation, working with messy (aka real) data, making ML design choices appropriate for the problem at hand, model selection, model interpretability, understanding and
+mitigating bias & disparities, and evaluating the impact of deployed models in the real-world. 
 
-### Course Learning Objectives
-- Learn how to design end-to-end ML systems that tackle real-world problems
-- Evaluate the impact of various design choices across the machine learning workflow in the context of real-world problems.
+## Course Learning Objectives
+- Design and Development: Learn how to design and develop end-to-end ML systems that tackle real-world problems
+- Understand and Evaluate: the impact of various design choices across the machine learning workflow in the context of real-world problems.
 - Take real-world questions involving data and evaluate or develop appropriate methods to answer these questions.
-- Present technical material clearly, in spoken and written form, to various audiences
+- Communications: Present technical material clearly, in spoken and written form, to various audiences
 
 ## People
 
@@ -57,24 +46,23 @@ deployed models.
 | <img src='img/Chancharik_Mitra.jpg' width="200" /> <br /> Office Hours: Tues 5pm and Thurs 11am GHC 8228   | <img src='img/Namrata Deka.jpg' width="200" /> <br /> Office Hours: Mon 4pm and Fri 10am GHC 8228   | <img src='img/Rohan.jpg' width="200" /> <br /> Office Hours: Tues 12:30pm and Wed 11am GHC 8228   | 
 
 ## Grading 
-
-Project update assignments (30%)
+Project-related assignments
+- Project update assignments (30%)
+- Write-up on module 2 findings (15%)
+- Group presentations (mid-semester and end of semester) (10%)
 
 Midterm take-home exam (20%)
-
-Write-up on module 2 findings (15%)
-
-Group presentations (10%)
 
 Final reflection write-up (5%)
 
 Class attendance and participation in discussions (15%)
 
-Submitting weekly check-in and feedback forms (5%)
+Weekly check-in and feedback forms (5%)
 
 ## Schedule
 
-See the **[detailed syllabus](README.md#structure)** below for much more detail as well, including **links to required readings** and information about group projects, grading, and helpful optional readings.
+See the **[detailed syllabus](README.md#structure)** below for more details, including **links to required readings** and information about group projects, grading, and helpful optional readings.
+
 | Week | Dates       | Topic                                                                                                                                        | Assignments                                                                                                                           | Readings                                                                                                                                                                                                                                                                                                    |
 | ---- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Tu: Aug 26  | [Class Intro and Overview](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture1-ClassOverview.pptx)                               |                                                                                                                                       |                                                                                                                                                                                                                                                                                                             |
@@ -119,22 +107,14 @@ See the **[detailed syllabus](README.md#structure)** below for much more detail 
 
 ## Projects and Deliverables
 Broadly, the course will be divided into two modules: 1) applied
-end-to-end machine learning pipelines, 2) Key considerations when building ML systems in practice, such as interpretability,
-fairness, uncertainty quantification, privacy, MLOps. Throughout the course, students will work
-in groups of 4 on an applied project based on a real-world problem
-to explore the ideas and methods covered in each module in detail.
-During the project, students will be responsible for several key
-deliverables:
+end-to-end machine learning pipelines, 2) Key considerations when building ML systems in practice, such as interpretability, fairness, uncertainty quantification, privacy, MLOps. Throughout the course, students will work
+in groups of 4 on an applied project based on a real-world problem to explore the ideas and methods covered in each module in detail. During the project, students will be responsible for several key deliverables:
 
-  - Throughout the first module (covering applied ML pipelines), groups
-    will submit short project update assignments weekly, anbd iterate based on
-     feedback from the instructors.
+  - Throughout the first module (covering applied ML pipelines), groups will submit short project update assignments weekly, anbd iterate based on feedback from the instructors.
 
-  - At the end of the first module, there will be a take-home midterm
-    exam focused on the concepts and skills emphasized in this portion
-    of the course.
+  - At the end of the first module, there will be a take-home midterm exam focused on the concepts and skills emphasized in this portion of the course.
 
-  - During the second half, each group will pick one topic (among a few choices) and implement that into their project and present their results (through a short write-up and a team presentation).
+  - During the second half, each group will pick one topic (among a few choices listed below and chosen collaboeratively with the class), implement that into their project, and present their results (through a short write-up and a team presentation).
 
 ### More details about the class project
 
@@ -151,17 +131,17 @@ You are working with DonorsChoose, and your task is to help this content expert 
 [Download links and data set description](datadescription.md)
 
 ### More details about Module 2 
-Module 2 will involve selecting one (or more) topic that you want to go deeper into once you've built an initial ML pipeline and have built a set of reasonable models. This will involve exploring key considerations that are critical in real-world ML problems, including interpretablity, fairness, uncertainty quantification, robustness, causality, and drift. The assignment in Module 2 will start from the models you've already built and will involve two deliverables:
+Module 2 will involve selecting one (or more) topic that you want to go deeper into once you've built an initial ML pipeline and a set of reasonable (correct and well-performing) models. This will involve exploring key considerations that are critical in real-world ML problems, including interpretablity, fairness, uncertainty quantification, robustness, causality, and drift. The assignment in Module 2 will start from the models you've already built and will involve two deliverables:
 
 1. short write-up (under 4 pages) based on applying your selected topic to your class project.
-- The need for this topic in your project (who will be the user and who will be impacte,d and why it's important)
+- The need for this topic in your project (who will be the user and who will be impacted, and why it's important)
 - What question are you trying to answer 
 - Which methods within this topic did you choose to try, and why
 - How was your implementation experience (easy to use package? difficulties in implementation?)
 - Results - What did you find? Do you know if it worked? Will it help the downstream DonorsChoose team, teachers, or students?
 - Your recommendations for DonorsChoose based on your work
 
-2. Short 10-minute presentation during the last week of class on yur findings
+2. Short 10-minute team presentation during the last week of class on yur findings
 
 
 ## Grace Days
@@ -183,236 +163,213 @@ most sessions, which may be of interest to students who wish to delve
 deeper into a given area, as well as provide additional context for your
 related project work.  
   
-### MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS**  
+## MODULE 1: APPLYING ML TO PRACTICAL PROBLEMS**  
 
-- **Tuesday, August 26: Introduction**  
-    We’ll provide an introduction to the
-    class, its goals, and an overview of the applied project we will be
-    using as a motivating example throughout the semester.
+**Tuesday, August 26: Introduction**  
+  We’ll provide an introduction to the class, its goals, and an overview of the applied project we will be using as a motivating example throughout the semester.
 
-- **Thursday, August 28: Why ML Systems Can Fail in Practice**  
-    We'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
+**Thursday, August 28: Why ML Systems Can Fail in Practice**  
+  We'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
   
-- **Tuesday, September 2:**
-  #### ML Project Definition and Scoping
-   In this session, we’ll talk about scoping, problem definition, and
-   understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether
-   a given problem can and should be addressed with machine learning:
-   is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they
-   will devote resources to implementing the solution? How will success
-   be measured? How will (often competing) goals of efficiency,
-   effectiveness, and equity be balanced?
+**Tuesday, September 2:**
+### ML Project Definition and Scoping
+  In this session, we’ll talk about scoping, problem definition, and understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether a given problem can and should be addressed with machine learning: is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they will devote resources to implementing the solution? How will success be measured? How will (often competing) goals of efficiency, effectiveness, and equity be balanced?
   
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)**
   
   **Due Today:**
-     - Individual Assignment: Getting to know the class project data
-     - Project team selections
+    - Individual Assignment: Getting to know the class project data
+    - Project team selections
        
   **Required Reading:**
-     - *Data Science Project Scoping Guide* [Available
-       Online](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
+    - *[Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide)*
    
-   Optional Readings:
+  **Optional Readings:**
    
-     - *Fine-grained dengue forecasting using telephone triage
-       services* by Rehman, NA, et al. Sci. Adv. 2016. [Available
-       Online](https://nyunetworks.github.io/Pubs/rehman-science16.pdf)
+     - [Fine-grained dengue forecasting using telephone triage
+       services]((https://nyunetworks.github.io/Pubs/rehman-science16.pdf)) by Rehman, NA, et al. Sci. Adv. 2016.
    
-     - *Deconstructing Statistical Questions* by Hand, D.J. J. Royal
-       Stat Soc. A 157(3) 1994. [Available
-       Online](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
-   
+     - [Deconstructing Statistical Questions]((http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
+     ) by Hand, D.J. J. Royal Stat Soc. A 157(3) 1994. 
+
      - *Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning* by Potash, E, et al. KDD 2015.
 
-- **Thursday, September 4**
-    #### Obtaining, Storing, and Linking Data
-    In this class, we will look at some of the nuances of obtaining and
-    using data in real-world projects, including a discussion of the
-    strengths and weaknesses of different options for data storage as
-    well as the practical aspects of dealing with the linkage of records
-    from many different sources.
+**Thursday, September 4**
+### Obtaining, Storing, and Linking Data
+  In this class, we will look at some of the nuances of obtaining and using data in real-world projects, including a discussion of the strengths and weaknesses of different options for data storage as well as the practical aspects of dealing with the linkage of records from many different sources.
   
-    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
    
-    Optional Readings:
+  Optional Readings:
     - [Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+
     - [Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087)
     
-    - *Data Matching* by Christen, P. Springer (2012). Chapter 2: The
-      Data Matching Process [Available
-      Online](https://link.springer.com/book/10.1007%2F978-3-642-31164-2)
+    - [Data Matching](https://link.springer.com/book/10.1007%2F978-3-642-31164-2) by Christen, P. Springer (2012). Chapter 2: The Data Matching Process
   
-    - *Big Data and Social Science* edited by Foster, Ghani, et al.
-      Chapter 4: Databases.[Available online](https://textbook.coleridgeinitiative.org/chap-db.html)
+    - Big Data and Social Science* edited by Foster, Ghani, et al.
+      [Chapter 4: Databases](https://textbook.coleridgeinitiative.org/chap-db.html)
   
-    - *Broken Promises of Privacy* by Ohm, P. UCLA Law Review. 2009.
-      Introduction and Section 1. [Available
-      Online](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals)
+    - [Broken Promises of Privacy](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals) by Ohm, P. UCLA Law Review. 2009.
+      Introduction and Section 1.
 
 
-- **Tuesday, September 9**
-  #### Data Exploration
-   You're all familiar with the concept and practice of data exploration. In this session,
-   we'll learn about the use of data exploration in ML projects and apply those ideas to the class project.
-  Most of this session will be focused on team presentations on the data exploration assignment (see canvas).
-
+**Tuesday, September 9**
+### Data Exploration
+  You're all familiar with the general concept and practice of data exploration. In this session, we'll learn about the use of data exploration, specifically in ML projects, and apply those ideas to our class project. Most of this session will be focused on team presentations on the data exploration assignment (see canvas).
+  
   Optional Readings:
     - [Can Foundation Models Wrangle your Data](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf)
 
-
-- **Thursday, September 11**
-  #### Analytical Formulation and Baselines
-   In this session, we’ll discuss the analytical formulation of applied
-   projects. Distinct from the initial scoping, a true analytical
-   formulation of your problem can only come after you have developed
-   an understanding of the data at hand, which in turn will often
-   result in a greater understanding of the problem itself. Here,
-   you’ll ask how specifically your label (if relevant) is defined in
-   the data, what types of information are available as features, and
-   what baseline you’ll be measuring performance against. Very rarely
-   is the appropriate baseline as simple as “random” or the
-   population prevalence. Rather, it should reflect what would be
-   expected to happen otherwise: perhaps a simple decision rule that an
-   expert would come up with or even a pre-existing statistical model
-   that the current effort is seeking to replace.  
+**Thursday, September 11**
+### Analytical Formulation and Baselines
+  In this session, we’ll discuss the analytical formulation of applied
+  projects. Distinct from the initial scoping, a true analytical
+  formulation of your problem can only come after you have developed
+  an understanding of the data at hand, which in turn will often
+  result in a greater understanding of the problem itself. Here,
+  you’ll ask how specifically your label (if relevant) is defined in
+  the data, what types of information are available as features, and
+  what baseline you’ll be measuring performance against. Very rarely
+  is the appropriate baseline as simple as “random” or the
+  population prevalence. Rather, it should reflect what would be
+  expected to happen otherwise: perhaps a simple decision rule that an
+  expert would come up with or even a pre-existing statistical model
+  that the current effort is seeking to replace.  
 
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)**
 
-   Required Readings:
+  **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and Baselines)
+
+  **Required Readings**:
    
-     - *Dissecting Racial Bias in an Algorithm Used to Manage the
+    - *Dissecting Racial Bias in an Algorithm Used to Manage the
        Health of Populations* by Obermeyer, Z., Powers, B., et al.
        Science. 2019. [Available
        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf)
    
-     - *Problem Formulation and Fairness* by Passi and Barocas. FAT\*
+    - *Problem Formulation and Fairness* by Passi and Barocas. FAT\*
        2019. [Available
        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf)
    
-   Optional Readings:
+  Optional Readings:
    
-     - *Always Start with a Stupid Model, No Exceptions* by Ameisen, E.
+    - *Always Start with a Stupid Model, No Exceptions* by Ameisen, E.
        Medium. [Available
        Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
    
-     - *Create a Common-Sense Baseline First* by Ramakrishnan. Medium.
+    - *Create a Common-Sense Baseline First* by Ramakrishnan. Medium.
        [Available
        Online](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47)
    
-     - *Data Science for Business* by Provost and Fawcett. O’Reilly.
+    - *Data Science for Business* by Provost and Fawcett. O’Reilly.
        2013. Chapter 2: Business Problems and Data Science [Available
        Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
-
-- **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and
-   Baselines)
    
-- **Tuesday, September 16
-  #### Model Selection Methodology**  
-   During this session, we’ll begin a discussion of model evaluation
-   with a focus on validation strategies. Introductory machine learning
-   classes tend to focus on techniques such as k-fold cross-validation
-   to guard against over-fitting, but is this always the best approach
-   in practice? How does your choice of validation strategy relate to
-   the manner in which you are hoping your model will generalize?
+**Tuesday, September 16**
+### Model Selection Methodology 
+  During this session, we’ll begin a discussion of model evaluation
+  with a focus on validation strategies. Introductory machine learning
+  classes tend to focus on techniques such as k-fold cross-validation
+  to guard against over-fitting, but is this always the best approach
+  in practice? How does your choice of validation strategy relate to
+  the manner in which you are hoping your model will generalize?
 
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)**
      
-   Required Reading:
+  Required Reading:
    
-     - *Cross-validation strategies for data with temporal, spatial,
+    - *Cross-validation strategies for data with temporal, spatial,
        hierarchical, or phylogenetic structure* by Roberts, DR, Bahn,
        V, et al. Ecography 40:2017. [Available
        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf)
    
-   Optional Readings:
+  Optional Readings:
    
-     - *[Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
+    - *[Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
        
-     - *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
+    - *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
        [Available
        Online](https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9)
    
-     - *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
+    - *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
        arXiv preprint: 1906.01998. 2019. [Available
        Online](https://arxiv.org/abs/1906.01998)
    
-     - *Big Data and Social Science (2nd edition)* edited by Foster,
+    - *Big Data and Social Science (2nd edition)* edited by Foster,
        Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
        Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
-- **Thursday, September 18
-  #### Model (Selection) Performance Metrics**  
-   In this class, we’ll introduce topics around choosing performance
-   metrics and evaluating classifiers. In most cases, a vast array of
-   methods — each with several tunable hyperparameters — can be
-   used for your modeling question. How do you decide which
-   models are better than others and how can you be confident this
-   decision will generalize into the future when the model is deployed?
-   How should you balance performance,
-   explainability, and fairness when making these decisions? Are models
-   that are performing equally well all learning the same patterns and
-   generating the same predictions? How should you select one to deploy
-   if they are not? In this class, we’ll begin to answer these
-   questions, focusing on the choice of performance metrics and how they
-   relate to your project’s goals, scope, and formulation.
+**Thursday, September 18**
+### Model (Selection) Performance Metrics  
+  In this class, we’ll introduce topics around choosing performance
+  metrics and evaluating classifiers. In most cases, a vast array of
+  methods — each with several tunable hyperparameters — can be
+  used for your modeling question. How do you decide which
+  models are better than others and how can you be confident this
+  decision will generalize into the future when the model is deployed?
+  How should you balance performance,
+  explainability, and fairness when making these decisions? Are models
+  that are performing equally well all learning the same patterns and
+  generating the same predictions? How should you select one to deploy
+  if they are not? In this class, we’ll begin to answer these
+  questions, focusing on the choice of performance metrics and how they
+  relate to your project’s goals, scope, and formulation.
 
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)**
 
-   Required Reading:
-     - [The Misuse of AUC, What High Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159)
+  Required Reading:
+    - [The Misuse of AUC, What High Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159)
   
-   Optional Reading:
+  Optional Reading:
    
-     - *Transductive Optimization of Top k Precision* by Liu, LP,
+    - *Transductive Optimization of Top k Precision* by Liu, LP,
        Dietterich, TG, et al. IJCAI 2016. [Available
        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf)
 
-- **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up;
+  **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up;
    initial pipeline with train and validation sets and baseline
    implemented)
 
-- **Tuesday, September 23:**
-  #### Feature Engineering and Imputation**  
-   In many real-world contexts (especially involving tabular data), expressing domain expertise through
-   thoughtful feature engineering can dramatically improve model
-   performance by understanding what underlying factors are likely to
-   be predictive and helping the model find these relationships.
-   Likewise, most data sets you’ll encounter in practice are littered
-   with outliers, inconsistencies, and missingness. Handling these data
-   issues in a smart way can be critical to a project’s success. This
-   session will focus on these aspects of dealing with often messy and
-   inconsistent data encountered in applied projects.
+**Tuesday, September 23:**
+### Feature Engineering and Imputation 
+  In many real-world contexts (especially involving tabular data), expressing domain expertise through
+  thoughtful feature engineering can dramatically improve model
+  performance by understanding what underlying factors are likely to
+  be predictive and helping the model find these relationships.
+  Likewise, most data sets you’ll encounter in practice are littered
+  with outliers, inconsistencies, and missingness. Handling these data
+  issues in a smart way can be critical to a project’s success. This
+  session will focus on these aspects of dealing with often messy and
+  inconsistent data encountered in applied projects.
 
-    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture7-Features.pptx)**
-
-     
-   Optional Readings:
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture7-Features.pptx)**
+  
+  Optional Readings:
    
-     - *Missing Data Conundrum* by Akinfaderin, W. Medium. [Available
+    - *Missing Data Conundrum* by Akinfaderin, W. Medium. [Available
        Online](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
    
-     - *Feature Engineering for Machine Learning* by Zhang, A. and
+    - *Feature Engineering for Machine Learning* by Zhang, A. and
        Casari, A. O’Reilly. 2018. Chapter 2: Fancy Tricks with Simple
        Numbers [Available
        Online](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
    
-     - *Missing-data imputation* by Gelman, A. [Available
+    - *Missing-data imputation* by Gelman, A. [Available
        Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
-- **Thursday, September 25:**
-  #### ML Pipelines  
+**Thursday, September 25:**
+### ML Pipelines  
   During this session, we’ll take some time to review the machine
   learning pipelines your teams have been building, providing feedback
   on structure, design decisions, and best practices.
 
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture8-Machine-Learning-Pipelines.pptx)**
 
-- **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented
-  and planned features)
+  **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented and planned features)
 
-- **Tuesday, September 30:**
-  #### ML Modeling in Practice 
+**Tuesday, September 30:**
+### ML Modeling in Practice 
   This class will focus on some of the practical aspects of applying
   machine learning to real-world problems. In other classes, you have
   implemented and worked with a wide variety of machine learning
@@ -421,14 +378,13 @@ related project work.
   What pitfalls might you encounter in these situations and how can
   you avoid them?
 
-   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture9-PracticalModeling-Hyperparameters.pptx)** 
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture9-PracticalModeling-Hyperparameters.pptx)** 
+  
+**Thursday, Oct 2: Team Presentations and Feedback on Modeling Results**
+  **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
 
-- **Thursday, Oct 2: Team Presentations and Feedback on Modeling Results
-
-- **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
-
-- **Tuesday, October 7:**
-  #### Module 1 Review: Applied ML End-to-End Pipelines  
+**Tuesday, October 7:**
+### Module 1 Review: Applied ML End-to-End Pipelines  
   In this session, we’ll take some time to step back and review the
   concepts we have covered so far, with the goals of helping ensure
   all the projects are on track for the second and third modules,
@@ -436,10 +392,9 @@ related project work.
   highlighting what we see as the most important takeaways from this
   section of the course.
 
-     **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)** 
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)** 
     
   Required Readings:
-  
     - *Three Pitfalls to Avoid in Machine Learning* by Riley, P.
       Nature. 527. 2019 (Comment) [Available
       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
@@ -448,19 +403,18 @@ related project work.
       Ghani, R. et al. DSSG Blog. [Available
       Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
 
-
-- **Thursday, October 9: No Class, Midterm Distributed**  
+**Thursday, October 9: No Class, Midterm Distributed**  
   We'll cancel class on this day to provide some extra time for working
   on the midterm and updating model results.
 
-- **Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall Break**  
+**Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall Break**  
     
-- **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
-- **DUE TUESDAY, OCTOBER 21:** Project Update 5 (Updated Modeling Results and Model Selection)  
+  **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
+  **DUE TUESDAY, OCTOBER 21:** Project Update 5 (Updated Modeling Results and Model Selection)  
 
 
-- **Tuesday, October 21:
-#### Team Presentations and Temporal Model Selection**  
+**Tuesday, October 21**
+### Team Presentations and Temporal Model Selection**  
   During this class, we’ll continue our discussion from the previous
   week, delving into the details of winnowing down a large number of
   model specifications to one or a handful that perform “best” for
@@ -473,42 +427,41 @@ related project work.
   
   Optional Reading:
 
-     - *Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017.
+    - *Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017.
        [Available
        Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
 
-### MODULE 2: Key Considerations Beyond Model Accuracy**
- This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
+## MODULE 2: Key Considerations Beyond Model Accuracy**
+This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
 
- - **Thursday, October 23:**
-  #### ML Ethics Overview  
-    In this session, we’ll discuss ethical issues in
-    machine learning, focusing on the broader landscape of topics in
-    this area, including questions around privacy, transparency, and
-    accountability. Note that we’ll spend some time in class discussing
-    the case study linked below, so please be sure to have read and
-    thought about it before class. We will have a surprise (hopefully, fun) activity in class instead of a lecture session.
+**Thursday, October 23:**
+### ML Ethics Overview  
+  In this session, we’ll discuss ethical issues in
+  machine learning, focusing on the broader landscape of topics in
+  this area, including questions around privacy, transparency, and
+  accountability. Note that we’ll spend some time in class discussing
+  the case study linked below, so please be sure to have read and
+  thought about it before class. We will have a surprise (hopefully, fun) activity in class instead of a lecture session.
+  
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)**  
 
-   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)**  
-
-    Required Readings:
+  Required Readings:
     
-      - Princeton Ethics Case Study 6: Public Sector Data Analysis
+    - Princeton Ethics Case Study 6: Public Sector Data Analysis
         [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf)
 
-    Optional Readings:
+  Optional Readings:
     
-      - *Ethics and Data Science* by Loukides, M., Mason, H., and Patil,
+    - *Ethics and Data Science* by Loukides, M., Mason, H., and Patil,
         D.J. O’Reilly (2018). Entire Book (don’t worry – it’s short\!)
         [Available
         Online](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar)
         (When prompted to select institution, select ’Not listed? Click
         here’ and enter your CMU email address to access content)
 
-
- - **Tuesday, October 28:**
-   #### Practical Understanding of ML Models   
+**Tuesday, October 28:**
+### Practical Understanding of ML Models: What did my model learn? 
     During this session, we'll be introducing some simple and practical analyses to
     perform after the modeling process, and what it means to compare
     performance across model specifications. These methods can help
@@ -516,33 +469,33 @@ related project work.
     between predicted classes and play an important role in detecting
     bugs such as leakage.
 
-    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
 
- - **Thursday, October 30:**
-   #### Intro to Fairness
-    In this class, we’ll introduce topics in ML fairness, where we will
-    focus our methods deep dives for the remainder of the semester: Just
-    as important as assessing whether your model is making accurate
-    predictions is determining whether it is doing so in a fair manner.
-    But what do we mean by fairness? How can you measure it, and what
-    can you do to mitigate any disparities you might find? Where in your
-    pipeline can bias be introduced? (spoiler: everywhere). This class
-    will provide a very brief introduction to the expansive field of
-    algorithmic fairness.
+**Thursday, October 30:**
+### Introduction to ML and Fairness
+  In this class, we’ll introduce topics in ML fairness, where we will
+  focus our methods deep dives for the remainder of the semester: Just
+  as important as assessing whether your model is making accurate
+  predictions is determining whether it is doing so in a fair manner.
+  But what do we mean by fairness? How can you measure it, and what
+  can you do to mitigate any disparities you might find? Where in your
+  pipeline can bias be introduced? (spoiler: everywhere). This class
+  will provide a very brief introduction to the expansive field of
+  FairML.
 
-   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx)** 
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx)** 
       
-    Required Readings:
+  Required Readings:
     
-      - *Fairness Definitions Explained* by Verma, S and Rubin, J.
+    - *Fairness Definitions Explained* by Verma, S and Rubin, J.
         [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf)
     
-      - *A Theory of Justice* by Rawls, J. 1971. Chapter 1: Justice as
+    - *A Theory of Justice* by Rawls, J. 1971. Chapter 1: Justice as
         Fairness, pp. 1-19. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf)
         
-    Optional Readings:
+  Optional Readings:
       - *Racial Equity in Algorithmic Criminal Justice* by Huq, A. Duke
         Law Journal. 2018. [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf)
@@ -563,52 +516,52 @@ related project work.
         [Available
         Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
- - **Thursday and Tuesday November 6, 11:**
-   #### Field Trials and Causality  
-    In this session, we’ll briefly discuss field trials and issues of
-    causality, critical for understanding how your model actually
-    generalizes to real-world applications. Even with careful planning
-    and handling of the data, the only way to truly understand how well
-    your model works is by testing it in the field. Generally, you’re
-    concerned not only with its predictiveness but the actual ability
-    of the model to help the program achieve its goals, such as
-    improving outcomes among the population it serves. Typically, this
-    involves working closely with business owners to develop a field trial
-    using either randomization or non-experimental methods depending on
-    the constraints of the setting.
+**Thursday and Tuesday November 6, 11:**
+### Field Trials and Causality  
+  In this session, we’ll briefly discuss field trials and issues of
+  causality, critical for understanding how your model actually
+  generalizes to real-world applications. Even with careful planning
+  and handling of the data, the only way to truly understand how well
+  your model works is by testing it in the field. Generally, you’re
+  concerned not only with its predictiveness but the actual ability
+  of the model to help the program achieve its goals, such as
+  improving outcomes among the population it serves. Typically, this
+  involves working closely with business owners to develop a field trial
+  using either randomization or non-experimental methods depending on
+  the constraints of the setting.
 
-    **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx)** 
+  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx)** 
     
-    Required Readings:
+  Required Readings:
     
-      - *The seven tools of causal inference, with reflections on
+    - *The seven tools of causal inference, with reflections on
         machine learning* by Pearl, J. Comm ACM. 2019 [Available
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf)
 
-      - *[Running Randomized Controlled Trials](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf)
+    - *[Running Randomized Controlled Trials](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf)
             
-    Optional Readings:
+  Optional Readings:
   
-      - *Elements of Causal Inference* by Peters et al. MIT Press.
+    - *Elements of Causal Inference* by Peters et al. MIT Press.
         Chapters 1 and 2. [Available Online (Open Access
         Link)](https://mitpress.mit.edu/books/elements-causal-inference)
 
-      - *[The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174). Susan Athey and Guido Imbens
+    - *[The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174). Susan Athey and Guido Imbens
    
-      - *[Breaking the Cycle of Incarceration With Targeted Mental Health Outreach: A Case Study in Machine Learning for Public Policy](https://arxiv.org/abs/2509.14129). Kit T Rodolfa, Erika Salomon, Jin Yao, Steve Yoder, Robert Sullivan, Kevin McGuire, Allie Dickinson, Rob MacDougall, Brian Seidler, Christina Sung, Claire Herdeman, Rayid Ghani
+    - *[Breaking the Cycle of Incarceration With Targeted Mental Health Outreach: A Case Study in Machine Learning for Public Policy](https://arxiv.org/abs/2509.14129). Kit T Rodolfa, Erika Salomon, Jin Yao, Steve Yoder, Robert Sullivan, Kevin McGuire, Allie Dickinson, Rob MacDougall, Brian Seidler, Christina Sung, Claire Herdeman, Rayid Ghani
         
- - **Thursday November 13**
- #### Model Interpretability  
-    Model interpretability can be thought of at two levels: global (how
-    the model works in aggregate) and local (why an individual
-    prediction came out as it did). In this class, we’ll focus on the
-    bigger picture: discussing the landscape of model interpretability
-    as well as different use cases and users.  
+**Thursday November 13**
+### Model Interpretability  
+  Model interpretability can be thought of at two levels: global (how
+  the model works in aggregate) and local (why an individual
+  prediction came out as it did). In this class, we’ll focus on the
+  bigger picture: discussing the landscape of model interpretability
+  as well as different use cases and users.  
   
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)** 
 
       
-    Required Readings:
+  Required Readings:
     
       - *Explainable Machine Learning for Public Policy: Use Cases,
         Gaps, and Research Directions* by Amarasinghe, K., et al. arXiv
@@ -621,37 +574,38 @@ related project work.
         Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
  
- - **Thursday November 18:**
-   #### Uncertainty Quantification
-       We will focus on understanding what kinds of uncertainty matter, how to estimate them, and how to act on them when deploying or governing ML systems. This will involve:
-  1. Distinguishing between different types of uncertainty (aleatoric, epistemic, systemic, social).
-  2. Implementing and interpreting basic techniques for quantifying model uncertainty.
-  3. Communicating uncertainty effectively to decision-makers.
-  4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
+**Thursday November 18:**
+### Uncertainty Quantification
+    We will focus on understanding what kinds of uncertainty matter, how to estimate them, and how to act on them when deploying or governing ML systems. This will involve:
+      1. Distinguishing between different types of uncertainty (aleatoric, epistemic, systemic, social).
+      2. Implementing and interpreting basic techniques for quantifying model uncertainty.
+      3. Communicating uncertainty effectively to decision-makers.
+      4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
 
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)** 
 
-    Required Reading:
+  Required Reading:
     - *Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
     
- - **Tuesday November 23:**
-   #### Domain Shift and Temporal Drift
+**Tuesday November 23:**
+### Domain Shift and Temporal Drift
  
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/temporal%20drift%20and%20domain%20shift.pptx)** 
 
-    Readings:
+  Readings:
     - Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
     - Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
-    - 	In Search of Lost Domain Generalization[Available Online](https://openreview.net/pdf?id=lQdXeXDoWtI)
+    - In Search of Lost Domain Generalization[Available Online](https://openreview.net/pdf?id=lQdXeXDoWtI)
       
- - **Thursday November 25:**
- #### ML Ops and Deploying ML Systems
+**Thursday November 25:**
+### ML Ops and Deploying ML Systems
 
   **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/mlops.pptx)** 
 
+  Readings (in slides)
     
- - **Tuesday December 2 and Thursday December 4:**
-#### Wrap-up and Team Presentations
+**Tuesday December 2 and Thursday December 4:**
+### Wrap-up and Team Presentations
  
 
 ## More Resources
