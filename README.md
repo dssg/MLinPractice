@@ -531,7 +531,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   3. Communicating uncertainty effectively to decision-makers.
   4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)
 
 ####  Required Reading:
 
