@@ -102,10 +102,8 @@ See the **[detailed syllabus](README.md#structure)** below for more details, inc
 
 
 
-
-
-
 ## Projects and Deliverables
+
 Broadly, the course will be divided into two modules: 1) applied
 end-to-end machine learning pipelines, 2) Key considerations when building ML systems in practice, such as interpretability, fairness, uncertainty quantification, privacy, MLOps. Throughout the course, students will work
 in groups of 4 on an applied project based on a real-world problem to explore the ideas and methods covered in each module in detail. During the project, students will be responsible for several key deliverables:
@@ -123,6 +121,7 @@ Public schools in the United States face large disparities in funding, often res
 Projects on DonorsChoose expire after 4 months, and if the target funding level isn't reached, the project receives no funding. Since its launch in 2000, the platform has helped fund over 2 million projects at schools across the US, but about 1/3 of the projects that are posted nevertheless fail to meet their goal and go unfunded.
 
 #### The Modeling Problem
+
 For the purposes of the class project, \\DonorsChoose has hired a digital content expert who will review projects and help teachers improve their postings and increase their chances of reaching their funding threshold. Because this individualized review is a labor-intensive process, the digital content expert has ** time to review and support only 10% of the projects posted to the platform on a given day**.
 
 You are working with DonorsChoose, and your task is to help this content expert focus their limited resources on projects that most need the help. As such, you want to build a model to identify projects that are least likely to be fully funded before they expire and pass them off to the digital content expert for review.
@@ -131,6 +130,7 @@ You are working with DonorsChoose, and your task is to help this content expert 
 [Download links and data set description](datadescription.md)
 
 ### More details about Module 2 
+
 Module 2 will involve selecting one (or more) topic that you want to go deeper into once you've built an initial ML pipeline and a set of reasonable (correct and well-performing) models. This will involve exploring key considerations that are critical in real-world ML problems, including interpretablity, fairness, uncertainty quantification, robustness, causality, and drift. The assignment in Module 2 will start from the models you've already built and will involve two deliverables:
 
 1. short write-up (under 4 pages) based on applying your selected topic to your class project.
@@ -145,9 +145,11 @@ Module 2 will involve selecting one (or more) topic that you want to go deeper i
 
 
 ## Grace Days
+
 Project teams receive 3 total grace days for use on their project deliverables. You may not use more than 1 grace day on any single assignment. We will automatically keep a tally of these grace days for you; they will be applied greedily. 
 
 ## Participation and Missing Days
+
 Attendance in class and participation in class discussions is a large part of 10-718. Throughout the semester, your participation will be measured by your responses in class and via Slido. You are permitted to miss a maximum of 4 lectures in order to still be considered for full participation credit; more than this will begin to reduce your participation grade.
 
 ## Structure
@@ -167,14 +169,17 @@ related project work.
 
 :calendar:	**Tuesday, August 26:**
 ### Introduction
+
   We’ll provide an introduction to the class, its goals, and an overview of the applied project we will be using as a motivating example throughout the semester.
 
 :calendar:	**Thursday, August 28:**
-### Why ML Systems Can Fail in Practice**  
+### Why ML Systems Can Fail in Practice  
+
   We'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
   
 :calendar:	**Tuesday, September 2:**
 ### ML Project Definition and Scoping
+
   In this session, we’ll talk about scoping, problem definition, and understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether a given problem can and should be addressed with machine learning: is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they will devote resources to implementing the solution? How will success be measured? How will (often competing) goals of efficiency, effectiveness, and equity be balanced?
   
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)
@@ -197,6 +202,7 @@ related project work.
 
 :calendar:	**Thursday, September 4**
 ### Obtaining, Storing, and Linking Data
+
   In this class, we will look at some of the nuances of obtaining and using data in real-world projects, including a discussion of the strengths and weaknesses of different options for data storage as well as the practical aspects of dealing with the linkage of records from many different sources.
   
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)**
@@ -215,6 +221,7 @@ related project work.
 
 :calendar:	**Tuesday, September 9**
 ### Data Exploration
+
   You're all familiar with the general concept and practice of data exploration. In this session, we'll learn about the use of data exploration, specifically in ML projects, and apply those ideas to our class project. Most of this session will be focused on team presentations on the data exploration assignment (see canvas).
   
 #### Optional Readings:
@@ -222,6 +229,7 @@ related project work.
 
 :calendar:	**Thursday, September 11**
 ### Analytical Formulation and Baselines
+
   In this session, we’ll discuss the analytical formulation of applied
   projects. Distinct from the initial scoping, a true analytical
   formulation of your problem can only come after you have developed
@@ -256,6 +264,7 @@ related project work.
    
 :calendar:	**Tuesday, September 16**
 ### Model Selection Methodology 
+
   During this session, we’ll begin a discussion of model evaluation
   with a focus on validation strategies. Introductory machine learning
   classes tend to focus on techniques such as k-fold cross-validation
@@ -280,6 +289,7 @@ related project work.
 
 :calendar:	**Thursday, September 18**
 ### Model (Selection) Performance Metrics  
+
   In this class, we’ll introduce topics around choosing performance
   metrics and evaluating classifiers. In most cases, a vast array of
   methods — each with several tunable hyperparameters — can be
@@ -307,6 +317,7 @@ related project work.
 
 :calendar:	**Tuesday, September 23:**
 ### Feature Engineering and Imputation 
+
   In many real-world contexts (especially involving tabular data), expressing domain expertise through
   thoughtful feature engineering can dramatically improve model
   performance by understanding what underlying factors are likely to
@@ -329,6 +340,7 @@ related project work.
 
 :calendar:	**Thursday, September 25:**
 ### ML Pipelines  
+
   During this session, we’ll take some time to review the machine
   learning pipelines your teams have been building, providing feedback
   on structure, design decisions, and best practices.
@@ -339,6 +351,7 @@ related project work.
 
 :calendar:	**Tuesday, September 30:**
 ### ML Modeling in Practice 
+
   This class will focus on some of the practical aspects of applying
   machine learning to real-world problems. In other classes, you have
   implemented and worked with a wide variety of machine learning
@@ -353,7 +366,8 @@ related project work.
 **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results) :warning:
 
 :calendar:	**Tuesday, October 7:**
-### Module 1 Review: Applied ML End-to-End Pipelines  
+### Module 1 Review: Applied ML End-to-End Pipelines 
+
   In this session, we’ll take some time to step back and review the
   concepts we have covered so far, with the goals of helping ensure
   all the projects are on track for the second and third modules,
@@ -393,11 +407,13 @@ related project work.
 
   Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017. [Available Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
 
-## MODULE 2: Key Considerations Beyond Model Accuracy**
+## MODULE 2: Key Considerations Beyond Model Accuracy
+
 This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
 
 :calendar:	**Thursday, October 23:**
 ### ML Ethics Overview  
+
   In this session, we’ll discuss ethical issues in
   machine learning, focusing on the broader landscape of topics in
   this area, including questions around privacy, transparency, and
@@ -419,17 +435,19 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
 
 :calendar:	**Tuesday, October 28:**
 ### Practical Understanding of ML Models: What did my model learn? 
-    During this session, we'll be introducing some simple and practical analyses to
-    perform after the modeling process, and what it means to compare
-    performance across model specifications. These methods can help
-    provide a basic understanding of how your model is distinguishing
-    between predicted classes and play an important role in detecting
-    bugs such as leakage.
+
+  During this session, we'll be introducing some simple and practical analyses to
+  perform after the modeling process, and what it means to compare
+  performance across model specifications. These methods can help
+  provide a basic understanding of how your model is distinguishing
+  between predicted classes and play an important role in detecting
+  bugs such as leakage.
 
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)  
 
 :calendar:	**Thursday, October 30:**
 ### Introduction to ML and Fairness
+
   In this class, we’ll introduce topics in ML fairness, where we will
   focus our methods deep dives for the remainder of the semester: Just
   as important as assessing whether your model is making accurate
