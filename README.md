@@ -177,17 +177,17 @@ related project work.
 ### ML Project Definition and Scoping
   In this session, we’ll talk about scoping, problem definition, and understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether a given problem can and should be addressed with machine learning: is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they will devote resources to implementing the solution? How will success be measured? How will (often competing) goals of efficiency, effectiveness, and equity be balanced?
   
-  **[Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)**
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)**
   
-  **Due Today:**
+#### Due Today:**
     - Individual Assignment: Getting to know the class project data
     - Project team selections
        
-  **Required Reading:**
+#### Required Reading:
 
-    -[Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide)
+    - [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide)
    
-  **Optional Readings:**
+#### Optional Readings:**
 
     -[Fine-grained dengue forecasting using telephone triage
        services](https://nyunetworks.github.io/Pubs/rehman-science16.pdf) by Rehman, NA, et al. Sci. Adv. 2016.
