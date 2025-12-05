@@ -203,17 +203,15 @@ related project work.
    
 ####   Optional Readings:
 
-[Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+  [Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
 
-[Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087)
+  [Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087)
     
-[Data Matching](https://link.springer.com/book/10.1007%2F978-3-642-31164-2) by Christen, P. Springer (2012). Chapter 2: The Data Matching Process
+  [Data Matching](https://link.springer.com/book/10.1007%2F978-3-642-31164-2) by Christen, P. Springer (2012). Chapter 2: The Data Matching Process
   
-Big Data and Social Science* edited by Foster, Ghani, et al.
-      [Chapter 4: Databases](https://textbook.coleridgeinitiative.org/chap-db.html)
+  Big Data and Social Science* edited by Foster, Ghani, et al. [Chapter 4: Databases](https://textbook.coleridgeinitiative.org/chap-db.html)
   
-[Broken Promises of Privacy](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals) by Ohm, P. UCLA Law Review. 2009.
-      Introduction and Section 1.
+  [Broken Promises of Privacy](https://heinonline.org/HOL/Page?handle=hein.journals/uclalr57&div=48&g_sent=1&casa_token=&collection=journals) by Ohm, P. UCLA Law Review. 2009. Introduction and Section 1.
 
 :calendar:	**Tuesday, September 9**
 ### Data Exploration
@@ -221,7 +219,6 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
   
 #### Optional Readings:
   [Can Foundation Models Wrangle your Data](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf)
-
 
 :calendar:	**Thursday, September 11**
 ### Analytical Formulation and Baselines
@@ -239,9 +236,9 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
   expert would come up with or even a pre-existing statistical model
   that the current effort is seeking to replace.  
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)**
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)
 
-  **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and Baselines)
+**DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and Baselines) :warning:
 
 #### Required Readings:
    
@@ -251,16 +248,11 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
    
 #### Optional Readings:
   
-  Always Start with a Stupid Model, No Exceptions* by Ameisen, E. Medium. [Available
-       Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
+  Always Start with a Stupid Model, No Exceptions* by Ameisen, E. Medium. [Available Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
    
-  Create a Common-Sense Baseline First* by Ramakrishnan. Medium.
-       [Available
-       Online](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47)
+  Create a Common-Sense Baseline First* by Ramakrishnan. Medium. [Available Online](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47)
    
-  Data Science for Business* by Provost and Fawcett. O’Reilly.
-       2013. Chapter 2: Business Problems and Data Science [Available
-       Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
+  Data Science for Business* by Provost and Fawcett. O’Reilly. 2013. Chapter 2: Business Problems and Data Science [Available Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
    
 :calendar:	**Tuesday, September 16**
 ### Model Selection Methodology 
@@ -274,27 +266,17 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)**
      
 #### Required Reading:
-   
-  Cross-validation strategies for data with temporal, spatial,
-       hierarchical, or phylogenetic structure* by Roberts, DR, Bahn,
-       V, et al. Ecography 40:2017. [Available
-       Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf)
+  Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure* by Roberts, DR, Bahn,V, et al. Ecography 40:2017. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf)
    
 #### Optional Readings:
    
-  *[Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
+  [Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
        
-  *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
-       [Available
-       Online](https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9)
+  Time Series Nested Cross-Validation* by Cochrane, C. Medium.[Available Online] (https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9)
    
-  *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
-       arXiv preprint: 1906.01998. 2019. [Available
-       Online](https://arxiv.org/abs/1906.01998)
+  The Secrets of Machine Learning* by Rudin, C. and Carlson, D. arXiv preprint: 1906.01998. 2019. [Available Online](https://arxiv.org/abs/1906.01998)
    
-  *Big Data and Social Science (2nd edition)* edited by Foster,
-       Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
-       Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
+  Big Data and Social Science (2nd edition)* edited by Foster, Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
 :calendar:	**Thursday, September 18**
 ### Model (Selection) Performance Metrics  
@@ -321,9 +303,7 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
    
   Transductive Optimization of Top k Precision* by Liu, LP, Dietterich, TG, et al. IJCAI 2016. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf)
 
-  **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up;
-   initial pipeline with train and validation sets and baseline
-   implemented)
+  **DUE MONDAY, SEPTEMBER 22:** Project Update 2 (Validation set-up; initial pipeline with train and validation sets and baseline implemented) :warning:
 
 :calendar:	**Tuesday, September 23:**
 ### Feature Engineering and Imputation 
@@ -339,18 +319,13 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
 
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture7-Features.pptx)**
   
-####   Optional Readings:
+####  Optional Readings:
    
-    - *Missing Data Conundrum* by Akinfaderin, W. Medium. [Available
-       Online](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
+  Missing Data Conundrum* by Akinfaderin, W. Medium. [Available Online](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
    
-    - *Feature Engineering for Machine Learning* by Zhang, A. and
-       Casari, A. O’Reilly. 2018. Chapter 2: Fancy Tricks with Simple
-       Numbers [Available
-       Online](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
+  Feature Engineering for Machine Learning* by Zhang, A. and Casari, A. O’Reilly. 2018. Chapter 2: Fancy Tricks with Simple Numbers [Available Online](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
    
-    - *Missing-data imputation* by Gelman, A. [Available
-       Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
+  Missing-data imputation* by Gelman, A. [Available Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
 :calendar:	**Thursday, September 25:**
 ### ML Pipelines  
@@ -360,7 +335,7 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
 
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture8-Machine-Learning-Pipelines.pptx)**
 
-  **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented and planned features)
+**DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented and planned features) :warning:
 
 :calendar:	**Tuesday, September 30:**
 ### ML Modeling in Practice 
@@ -375,7 +350,7 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture9-PracticalModeling-Hyperparameters.pptx)** 
   
 :calendar:	**Thursday, Oct 2: Team Presentations and Feedback on Modeling Results**
-  **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results)
+**DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results) :warning:
 
 :calendar:	**Tuesday, October 7:**
 ### Module 1 Review: Applied ML End-to-End Pipelines  
@@ -389,13 +364,9 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)** 
     
 ####   Required Readings:
-    - *Three Pitfalls to Avoid in Machine Learning* by Riley, P.
-      Nature. 527. 2019 (Comment) [Available
-      Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
+  Three Pitfalls to Avoid in Machine Learning* by Riley, P.  Nature. 527. 2019 (Comment) [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
   
-    - *Top 10 ways your Machine Learning models may have leakage* by
-      Ghani, R. et al. DSSG Blog. [Available
-      Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
+  Top 10 ways your Machine Learning models may have leakage* by Ghani, R. et al. DSSG Blog. [Available Online](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/)
 
 :calendar:	**Thursday, October 9: No Class, Midterm Distributed**  
   We'll cancel class on this day to provide some extra time for working
@@ -403,9 +374,8 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
 
 :calendar:	**Tuesday, October 14 and Thursday, October 16: NO CLASSES – Fall Break**  
     
-  **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  
-  **DUE TUESDAY, OCTOBER 21:** Project Update 5 (Updated Modeling Results and Model Selection)  
-
+  **DUE TUESDAY, OCTOBER 21:** Take-home midterm exam  :warning:
+  **DUE TUESDAY, OCTOBER 21:** Project Update 5 (Updated Modeling Results and Model Selection)  :warning:
 
 :calendar:	**Tuesday, October 21**
 ### Team Presentations and Temporal Model Selection**  
@@ -419,11 +389,9 @@ Big Data and Social Science* edited by Foster, Ghani, et al.
 
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture10-ModelSelection2.pptx)**  
   
-  Optional Reading:
+### Optional Reading:
 
-    - *Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017.
-       [Available
-       Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
+  Evaluating and Comparing Classifiers* by Stapor, K. CORES 2017. [Available Online](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2)
 
 ## MODULE 2: Key Considerations Beyond Model Accuracy**
 This module will focus on topics such as ethics, interpretability, fairness, robustness, privacy, causality, field trials, uncertainty quantification, and supporting decision-makers. The topics to be covered will be selected collaboratively as we progress through the semester.
@@ -439,18 +407,13 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)**  
 
-####   Required Readings:
+####  Required Readings:
     
-    - Princeton Ethics Case Study 6: Public Sector Data Analysis
-        [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf)
+  [Princeton Ethics Case Study 6: Public Sector Data Analysis](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf)
 
 ####   Optional Readings:
     
-    - *Ethics and Data Science* by Loukides, M., Mason, H., and Patil,
-        D.J. O’Reilly (2018). Entire Book (don’t worry – it’s short\!)
-        [Available
-        Online](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar)
+  Ethics and Data Science* by Loukides, M., Mason, H., and Patil,  D.J. O’Reilly (2018). Entire Book (don’t worry, it’s short\!) [Available Online](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar)
         (When prompted to select institution, select ’Not listed? Click
         here’ and enter your CMU email address to access content)
 
@@ -463,7 +426,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
     between predicted classes and play an important role in detecting
     bugs such as leakage.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)**   
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)  
 
 :calendar:	**Thursday, October 30:**
 ### Introduction to ML and Fairness
@@ -479,36 +442,21 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
 
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx)** 
       
-####   Required Readings:
+####  Required Readings:
     
-    - *Fairness Definitions Explained* by Verma, S and Rubin, J.
-        [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf)
+  Fairness Definitions Explained* by Verma, S and Rubin, J. [Available  Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf)
     
-    - *A Theory of Justice* by Rawls, J. 1971. Chapter 1: Justice as
-        Fairness, pp. 1-19. [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf)
+  A Theory of Justice* by Rawls, J. 1971. Chapter 1: Justice as Fairness, pp. 1-19. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf)
         
-####   Optional Readings:
-      - *Racial Equity in Algorithmic Criminal Justice* by Huq, A. Duke
-        Law Journal. 2018. [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf)
-        \[Focus on sections: I.B.2, all of section II, III introduction,
-        III.B, and III.D.3\]
+####  Optional Readings:
 
+  Racial Equity in Algorithmic Criminal Justice* by Huq, A. Duke Law Journal. 2018. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf). Focus on sections: I.B.2, all of section II, III introduction, III.B, and III.D.3
+
+  Is Algorithmic Affirmative Action Legal?* by Bent, JR. Georgetown Law Journal. 2019. [Available Online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690)
     
-      - *Is Algorithmic Affirmative Action Legal?* by Bent, JR.
-        Georgetown Law Journal. 2019. [Available
-        Online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690)
+  Does Mitigating ML’s Impact Disparity Require Treatment Disparity?* by Lipton, Z, McAuley, J, and Chouldechova, A. NeuRIPS 2018. [Available Online](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity)
     
-      - *Does Mitigating ML’s Impact Disparity Require Treatment
-        Disparity?* by Lipton, Z, McAuley, J, and Chouldechova, A. NeuRIPS
-        2018. [Available
-        Online](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity)
-    
-      - *Equality of Opportunity* by Roemer, JE and Trannoy, A. 2013.
-        [Available
-        Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
+  Equality of Opportunity* by Roemer, JE and Trannoy, A. 2013. [Available Online](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf)
 
 :calendar:	**Thursday and Tuesday November 6, 11:**
 ### Field Trials and Causality  
@@ -526,23 +474,19 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
 
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx)** 
     
-####   Required Readings:
+####  Required Readings:
     
-    - *The seven tools of causal inference, with reflections on
-        machine learning* by Pearl, J. Comm ACM. 2019 [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf)
+  The seven tools of causal inference, with reflections on machine learning* by Pearl, J. Comm ACM. 2019 [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf)
 
-    - *[Running Randomized Controlled Trials](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf)
+  [Running Randomized Controlled Trials](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf)
             
-####   Optional Readings:
+####  Optional Readings:
   
-    - *Elements of Causal Inference* by Peters et al. MIT Press.
-        Chapters 1 and 2. [Available Online (Open Access
-        Link)](https://mitpress.mit.edu/books/elements-causal-inference)
+  Elements of Causal Inference* by Peters et al. MIT Press. Chapters 1 and 2. [Available Online (Open Access Link)](https://mitpress.mit.edu/books/elements-causal-inference)
 
-    - *[The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174). Susan Athey and Guido Imbens
+  [The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174). Susan Athey and Guido Imbens
    
-    - *[Breaking the Cycle of Incarceration With Targeted Mental Health Outreach: A Case Study in Machine Learning for Public Policy](https://arxiv.org/abs/2509.14129). Kit T Rodolfa, Erika Salomon, Jin Yao, Steve Yoder, Robert Sullivan, Kevin McGuire, Allie Dickinson, Rob MacDougall, Brian Seidler, Christina Sung, Claire Herdeman, Rayid Ghani
+  [Breaking the Cycle of Incarceration With Targeted Mental Health Outreach: A Case Study in Machine Learning for Public Policy](https://arxiv.org/abs/2509.14129). Kit T Rodolfa, Erika Salomon, Jin Yao, Steve Yoder, Robert Sullivan, Kevin McGuire, Allie Dickinson, Rob MacDougall, Brian Seidler, Christina Sung, Claire Herdeman, Rayid Ghani
         
 :calendar:	**Thursday November 13**
 ### Model Interpretability  
@@ -552,20 +496,13 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   bigger picture: discussing the landscape of model interpretability
   as well as different use cases and users.  
   
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)** 
-
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)
       
 ####  Required Readings:
     
-      - *Explainable Machine Learning for Public Policy: Use Cases,
-        Gaps, and Research Directions* by Amarasinghe, K., et al. arXiv
-        preprint: arxiv/2010.14374 [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/AmarasingheExplainable.pdf)
+  Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions* by Amarasinghe, K., et al. arXiv preprint: arxiv/2010.14374 [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/AmarasingheExplainable.pdf)
     
-      - *Benchmarking and Survey of Explanation Methods for Black Box
-        Models* by Bodria, F., et al. arXiv preprint: arxiv/2102.13076
-        [Available
-        Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
+  Benchmarking and Survey of Explanation Methods for Black Box Models* by Bodria, F., et al. arXiv preprint: arxiv/2102.13076 [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf)
 
  
 :calendar:	**Thursday November 18:**
@@ -578,23 +515,27 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
 
 #### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)** 
 
-####   Required Reading:
-    - *Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
+####  Required Reading:
+
+  Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
     
 :calendar:	**Tuesday November 23:**
 ### Domain Shift and Temporal Drift
  
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/temporal%20drift%20and%20domain%20shift.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/temporal%20drift%20and%20domain%20shift.pptx)
 
-  Readings:
-    - Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
-    - Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
-    - In Search of Lost Domain Generalization[Available Online](https://openreview.net/pdf?id=lQdXeXDoWtI)
+#### Readings:
+
+  Temporal quality degradation in AI models[Available Online](https://www.nature.com/articles/s41598-022-15245-z)
+  
+  Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection [Available Online](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
+  
+  In Search of Lost Domain Generalization[Available Online](https://openreview.net/pdf?id=lQdXeXDoWtI)
       
 :calendar:	**Thursday November 25:**
 ### ML Ops and Deploying ML Systems
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/mlops.pptx)** 
+#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/mlops.pptx)
 
   Readings (in slides)
     
