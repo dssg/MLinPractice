@@ -5,3 +5,5 @@ tags:
   - ML
   - Explainability
   - Bias
+plugins:
+  - jemoji
