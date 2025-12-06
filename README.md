@@ -182,7 +182,7 @@ related project work.
 
   In this session, we’ll talk about scoping, problem definition, and understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether a given problem can and should be addressed with machine learning: is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they will devote resources to implementing the solution? How will success be measured? How will (often competing) goals of efficiency, effectiveness, and equity be balanced?
   
-#### :scroll: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)
   
 #### Due Today: :warning:
 1. Individual Assignment: Getting to know the class project data
@@ -205,7 +205,7 @@ related project work.
 
   In this class, we will look at some of the nuances of obtaining and using data in real-world projects, including a discussion of the strengths and weaknesses of different options for data storage as well as the practical aspects of dealing with the linkage of records from many different sources.
   
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture3-Data.pptx)
    
 ####   Optional Readings:
 
@@ -244,7 +244,7 @@ related project work.
   expert would come up with or even a pre-existing statistical model
   that the current effort is seeking to replace.  
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture4-Formulation.pptx)
 
 **DUE MONDAY, SEPTEMBER 15:** Project Update 1 (Formulation and Baselines) :warning:
 
@@ -272,7 +272,7 @@ related project work.
   in practice? How does your choice of validation strategy relate to
   the manner in which you are hoping your model will generalize?
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture5-ModelSelection.pptx)
      
 #### Required Reading:
   Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure* by Roberts, DR, Bahn,V, et al. Ecography 40:2017. [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf)
@@ -304,7 +304,7 @@ related project work.
   questions, focusing on the choice of performance metrics and how they
   relate to your project’s goals, scope, and formulation.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture6-EvaluationMetrics.pptx)
 
 ####   Required Reading:
   [The Misuse of AUC, What High Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159)
@@ -328,7 +328,7 @@ related project work.
   session will focus on these aspects of dealing with often messy and
   inconsistent data encountered in applied projects.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture7-Features.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture7-Features.pptx)
   
 ####  Optional Readings:
    
@@ -345,7 +345,7 @@ related project work.
   learning pipelines your teams have been building, providing feedback
   on structure, design decisions, and best practices.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture8-Machine-Learning-Pipelines.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture8-Machine-Learning-Pipelines.pptx)
 
 **DUE MONDAY, SEPTEMBER 29:** Project Update 3 (List of implemented and planned features) :warning:
 
@@ -360,7 +360,7 @@ related project work.
   What pitfalls might you encounter in these situations and how can
   you avoid them?
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture9-PracticalModeling-Hyperparameters.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture9-PracticalModeling-Hyperparameters.pptx)
   
 :calendar:	**Thursday, Oct 2: Team Presentations and Feedback on Modeling Results**
 **DUE MONDAY, OCTOBER 6:** Project Update 4 (Modeling Results) :warning:
@@ -375,7 +375,7 @@ related project work.
   highlighting what we see as the most important takeaways from this
   section of the course.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture11-Module1Review.pptx)
     
 ####   Required Readings:
   Three Pitfalls to Avoid in Machine Learning* by Riley, P.  Nature. 527. 2019 (Comment) [Available Online](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf)
@@ -401,7 +401,7 @@ related project work.
   and the desire to balance performance and stability in model
   selection.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture10-ModelSelection2.pptx)  
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture10-ModelSelection2.pptx)  
   
 ### Optional Reading:
 
@@ -421,7 +421,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   the case study linked below, so please be sure to have read and
   thought about it before class. We will have a surprise (hopefully, fun) activity in class instead of a lecture session.
   
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)  
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture12-EthicsOverview.pptx)  
 
 ####  Required Readings:
     
@@ -443,7 +443,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   between predicted classes and play an important role in detecting
   bugs such as leakage.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)  
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture14-UnderstandingModels.pptx)  
 
 :calendar:	**Thursday, October 30:**
 ### Introduction to ML and Fairness
@@ -458,7 +458,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   will provide a very brief introduction to the expansive field of
   FairML.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx) 
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture19-FairnessOverview.pptx) 
       
 ####  Required Readings:
     
@@ -490,7 +490,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   using either randomization or non-experimental methods depending on
   the constraints of the setting.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx) 
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture20-FieldValidation.pptx) 
     
 ####  Required Readings:
     
@@ -514,7 +514,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   bigger picture: discussing the landscape of model interpretability
   as well as different use cases and users.  
   
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture13-InterpretabilityOverview.pptx)
       
 ####  Required Readings:
     
@@ -531,7 +531,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
   3. Communicating uncertainty effectively to decision-makers.
   4. Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/UncertaintyQuantification.pptx)
 
 ####  Required Reading:
 
@@ -540,7 +540,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
 :calendar:	**Tuesday November 23:**
 ### Domain Shift and Temporal Drift
  
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/temporal%20drift%20and%20domain%20shift.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/temporal%20drift%20and%20domain%20shift.pptx)
 
 #### Readings:
 
@@ -553,7 +553,7 @@ This module will focus on topics such as ethics, interpretability, fairness, rob
 :calendar:	**Thursday November 25:**
 ### ML Ops and Deploying ML Systems
 
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/mlops.pptx)
+#### :clipboard: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/mlops.pptx)
 
   Readings (in slides)
     
