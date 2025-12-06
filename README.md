@@ -182,7 +182,7 @@ related project work.
 
   In this session, we’ll talk about scoping, problem definition, and understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether a given problem can and should be addressed with machine learning: is the problem significant, feasible to solve with ML, and of sufficient importance to the organization that they will devote resources to implementing the solution? How will success be measured? How will (often competing) goals of efficiency, effectiveness, and equity be balanced?
   
-#### [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)
+#### :scroll: [Lecture Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture2-Scoping.pptx)
   
 #### Due Today: :warning:
 1. Individual Assignment: Getting to know the class project data
