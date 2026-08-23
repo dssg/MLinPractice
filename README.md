@@ -1,20 +1,20 @@
 # 10718: Machine Learning in Practice
 
-**Previous Versions:** [Fall 2023](https://github.com/dssg/MLinPractice/releases/tag/fall2023) | [Fall 2022](https://github.com/dssg/MLinPractice/releases/tag/fall2022) |  [Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021) | [Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020) | [Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)
+**Previous Versions:**  [Fall 2025](https://github.com/dssg/MLinPractice/releases/tag/fall2025) |  [Fall 2023](https://github.com/dssg/MLinPractice/releases/tag/fall2023) | [Fall 2022](https://github.com/dssg/MLinPractice/releases/tag/fall2022) |  [Fall 2021](https://github.com/dssg/MLinPractice/releases/tag/fall2021) | [Fall 2020](https://github.com/dssg/MLinPractice/releases/tag/fall2020) | [Spring 2020](https://github.com/dssg/mlforpublicpolicylab/tree/Spring2020)
 
-## Fall 2025: Tues & Thurs, 2:00-3:20 ([POS 153](https://maps.app.goo.gl/FSHeY1jTBVzpsztA8))
+## Fall 2026: Tues & Thurs, 2:00-3:20 ([POS 153](https://maps.app.goo.gl/FSHeY1jTBVzpsztA8))
 
 ## Important 
  - **All content will be on github in this repo including [schedule](README.md#schedule) and [detailed syllabus](README.md#structure)**
  - **All assignments will be on, and submitted through [canvas](https://canvas.cmu.edu/courses/49132)**
- - **Class communication and announcements will be primarily through email and [piazza](https://piazza.com/cmu/fall2025/10718/home)**
+ - **Class communication and announcements will be primarily through email and [piazza](https://piazza.com/cmu/fall2026/10718/home)**
 
 ## Class Description
 
 This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, while exploring the interface, translation, and gaps between research and practice.
 
 The goal of this course is to give students exposure to the nuance of using machine learning in the real-world, where common assumptions (like iid and stationarity) break down, and the growing needs for (and
-limitations of) approaches that go beyond optimizing for simple model accuracy measures such as fairness, explainability, robustness, uncetainty quantification, etc. Through project assignments, lectures, discussions,
+limitations of) approaches that go beyond optimizing for simple model accuracy measures such as fairness, explainability, robustness, uncertainty quantification, etc. Through project assignments, lectures, discussions,
 and readings, students will learn about and experience building machine learning systems for real-world problems (suing real-world data_, as well as applying and evaluating the utility of proposed methods for enhancing the
 interpretability, uncertainty quantification, causal inference capabilities, robustness, and fairness of machine learning models. Students will develop skills in problem formulation, working with messy (aka real) data, making ML design choices appropriate for the problem at hand, model selection, model interpretability, understanding and
 mitigating bias & disparities, and evaluating the impact of deployed models in the real-world. 
@@ -31,19 +31,13 @@ mitigating bias & disparities, and evaluating the impact of deployed models in t
 
 | Rayid Ghani | 
 | --- | 
-| <img src="img/rayidphoto.png" width="200" /><br /> GHC 8023 <br /> **Office Hours:** <br />   Tuesday 12:30-1:30pm  <br /> Wednesday 4-5pm  <br /> Email me if you want to meet outside these hours | 
-
-### Education Associate
-
-|Daniel Bird | 
-| --- | 
-| <img src='img/Daniel Bird.jpeg' width="200" /> <br /> Office: GHC 8120   | 
+| <img src="img/rayidphoto.png" width="200" /><br /> GHC 8023 <br /> **Office Hours:** <br />   Tuesday 4:00p-5:00pm  <br /> Wednesday 4-5pm  <br /> Email me if you want to meet outside these hours | 
 
 ### Teaching Assistants
 
-|Chancharik Mitra | Namrata	Deka | Rohan Venkatesh Kashyap
+|Olivia Cheng | Namrata	Deka | Rachel Kim
 | --- | --- | --- |
-| <img src='img/Chancharik_Mitra.jpg' width="200" /> <br /> Office Hours: Tues 5pm and Thurs 11am GHC 8228   | <img src='img/Namrata Deka.jpg' width="200" /> <br /> Office Hours: Mon 4pm and Fri 10am GHC 8228   | <img src='img/Rohan.jpg' width="200" /> <br /> Office Hours: Tues 12:30pm and Wed 11am GHC 8228   | 
+| <img src='img/olivia.jpg' width="200" /> <br /> Office Hours: TBD 8228   | <img src='img/Namrata Deka.jpg' width="200" /> <br /> Office Hours: TBD   | <img src='img/rachel.jpg' width="200" /> <br /> Office Hours: TBD   | 
 
 ## Grading 
 Project-related assignments
