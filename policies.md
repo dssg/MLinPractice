@@ -27,7 +27,7 @@ are trained on plenty of bad ML code and practices.)
 We also want you to understand what the AI tools are good for, where they fall
 short, and how to best use them to solve real problems. So use them — but be
 skeptical, review and test the output, and be ready to share what you find with
-the class.
+the class. We may end up doing a team Q&A to understand what you used and how.
 
 **tl;dr**
 - Use anything you want, but you're accountable for what you submit.
