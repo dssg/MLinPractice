@@ -31,6 +31,20 @@ real-world problems.
 > - **Course content** (schedule, readings, syllabus) lives here on this site.
 > - **Assignments** are posted and submitted on [Canvas](https://canvas.cmu.edu/courses/56403).
 > - **Announcements & discussion** happen over email and [Piazza](https://piazza.com/cmu/fall2026/10718/home).
+>
+
+## People
+
+### Instructor
+
+**Rayid Ghani** (Office: GHC 8023)
+Office hours: Tuesday 4:00–5:00 pm, Wednesday 4:00–5:00 pm (or email to meet outside these times)
+
+### Teaching Assistants
+
+| Olivia Cheng | Namrata Deka | Rachel Kim |
+| --- | --- | --- |
+| Office hours: TBD | Office hours: TBD | Office hours: TBD |
 
 ## What this course is
 
@@ -59,18 +73,6 @@ agents, and generative-system evaluation, and required in the project.
 - [Assignments & grading]({{ '/grading/' | relative_url }})
 - [Policies & resources]({{ '/policies/' | relative_url }})
 
-## People
-
-### Instructor
-
-**Rayid Ghani** (Office: GHC 8023)
-Office hours: Tuesday 4:00–5:00 pm, Wednesday 4:00–5:00 pm (or email to meet outside these times)
-
-### Teaching Assistants
-
-| Olivia Cheng | Namrata Deka | Rachel Kim |
-| --- | --- | --- |
-| Office hours: TBD | Office hours: TBD | Office hours: TBD |
 
 ## Previous versions
 [Fall 2025](https://github.com/dssg/MLinPractice/releases/tag/fall2025) ·
