@@ -15,6 +15,9 @@ real-world problems.
 
 [Schedule]({{ '/schedule/' | relative_url }}){: .btn .btn-primary .mr-2 }
 [Syllabus]({{ '/syllabus/' | relative_url }}){: .btn .mr-2 }
+[Project]({{ '/project/' | relative_url }}){: .btn .mr-2 }
+[Grading]({{ '/grading/' | relative_url }}){: .btn .mr-2 }
+[Policies]({{ '/policies/' | relative_url }}){: .btn .mr-2 }
 [View on GitHub](https://github.com/dssg/MLinPractice){: .btn }
 
 ---
