@@ -17,7 +17,7 @@ permalink: /project/
 </details>
 
 Teams build a machine learning application/system thatsolves a real problem of their
-choosing, running the full arc over the semester. Module 1 and Module 2 sessions feed into the project as it progresses through phases..
+choosing, running the full arc over the semester. Module 1 and Module 2 sessions feed into the project as it progresses through phases.
 
 ## What each team does
 
@@ -26,6 +26,11 @@ choosing, running the full arc over the semester. Module 1 and Module 2 sessions
 3. **Formulate** the ML problem and its baselines.
 4. **Build** baselines and ML models
 5. **Evaluate** and **make recommendations** for decision-makers and users.
+
+## Examples of Projects
+1. ...
+2. ...
+3. ...
 
 ## GenAI in the project
 
