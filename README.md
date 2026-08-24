@@ -37,12 +37,3 @@ bundle exec jekyll serve
 # open http://localhost:4000/MLinPractice/
 ```
 
-## Notes
-
-- Lecture slides (`/Lectures`), reading PDFs (`/Readings/PDF`), and images
-  (`/img`) from the existing repo are referenced by absolute GitHub URLs, so
-  they keep working as-is.
-- Session dates on the Schedule page are aligned to the Fall 2026 calendar and
-  should be verified each offering.
-- Placeholders to fill: the `data.md` data dictionary, and any TBD slide links
-  for the new Module 2 (GenAI) sessions.
