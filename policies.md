@@ -1,6 +1,7 @@
 ---
 title: Policies & Resources
 nav_order: 6
+nav_exclude: false
 permalink: /policies/
 ---
 
