@@ -9,9 +9,7 @@ permalink: /syllabus/module-1/
 {: .no_toc }
 
 Building end-to-end ML systems for real problems — scoping, formulation,
-validation, metrics, features, and pipelines. A **GenAI in practice** note marks
-where generative models change how a step is done. (Weeks 1–6; the project runs
-alongside — see the [schedule]({{ '/schedule/' | relative_url }}).)
+validation, metrics, features, and pipelines.
 
 <details open markdown="block">
   <summary>Sessions</summary>
@@ -23,21 +21,17 @@ alongside — see the [schedule]({{ '/schedule/' | relative_url }}).)
 ---
 
 ## Class overview
-The class, its goals, and the applied project we use as a motivating example.
-[Slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture1-ClassOverview.pptx)
+[Slides]()
 
 ## Why ML systems can fail in practice
 Failure modes beyond model accuracy: data, deployment, incentives, governance.
 {: .note }
-> **GenAI in practice:** LLM-specific failure modes — hallucination, silent
-> drift, eval gaming, prompt brittleness.
+> **GenAI in practice:** Are there LLM-specific failure modes?
 
 ## Scoping ML systems
-Can and should this be solved with ML? How is success measured, and how are
-efficiency, effectiveness, and equity balanced?
+Can and should this be solved with ML? What goals is the system supposed to achieve? How is success measured? What actions and decisions does the system enable? What ethical discussions need to happen? 
 {: .note }
-> **GenAI in practice:** build vs. buy vs. fine-tune vs. prompt is now a scoping
-> decision — and when *not* to use an LLM.
+> **GenAI in practice:** Does scoping change for GenAI systems?
 
 **Required:** [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
 
@@ -46,23 +40,22 @@ Students present and critique real deployed ML/AI systems across domains and
 problem types.
 
 ## Analytical formulation and baselines
-Defining the label, the available features, and the baseline you must beat —
-which should reflect the status quo, rarely "random."
+Turning the scope into an ML problem. What design decisions needs to be made? Defining the label, the available features, and the baseline we need to compare against —
+which should reflect the status quo or easy-to-implement approaches, rarely "random."
 {: .note }
-> **GenAI in practice:** an LLM zero/few-shot prompt is often the baseline you
-> now have to beat (or beat *with*). Every team implements one.
+> **GenAI in practice:** an LLM zero/few-shot prompt is an example of a easy-to-implement baseline.
 
 **Required:** Obermeyer et al., *Dissecting Racial Bias…* (Science, 2019); Passi & Barocas, *Problem Formulation and Fairness* (FAT\*, 2019).
 
 ## Data exploration
-Exploration in service of modeling decisions — much of the session is team work.
+Data exploration in the context of ML systems. How does data exploration support making modeling decisions? What phases of an ML project require doing data exploration?
 {: .note }
 > **GenAI in practice:** LLMs for wrangling, parsing, and extracting structure
 > from messy/unstructured data.
 
 ## Model selection (evaluation)
-Validation strategy: how it relates to how you hope the model will generalize,
-and why k-fold often lies in practice.
+Validation strategy: how it relates to how you want the model to generalize during deployment/test time,
+and why k-fold often fails in practice.
 {: .note }
 > **GenAI in practice:** first look at evaluation *without ground truth* — the
 > problem that dominates generative systems.
