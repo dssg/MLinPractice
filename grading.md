@@ -1,6 +1,7 @@
 ---
 title: Assignments & Grading
 nav_order: 5
+nav_exclude: false
 permalink: /grading/
 ---
 
