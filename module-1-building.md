@@ -56,30 +56,25 @@ Data exploration in the context of ML systems. How does data exploration support
 ## Model selection (evaluation)
 Validation strategy: how it relates to how you want the model to generalize during deployment/test time,
 and why k-fold often fails in practice.
-{: .note }
-> **GenAI in practice:** first look at evaluation *without ground truth* — the
-> problem that dominates generative systems.
 
 **Required:** Roberts et al., *Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure* (Ecography, 2017).
 
 ## Model performance metrics
-Metrics that match the decision: precision@k / top-k under capacity constraints,
-calibration, and why one headline number misleads.
+How do we back into the metric we care about? Metrics that match the decision and thew deployment setting: precision@k / top-k under capacity constraints, calibration, and why we may need multiple metrics.
 {: .note }
-> **GenAI in practice:** faithfulness and groundedness for generative outputs.
+> **GenAI in practice:** What metrics do we need for GenAI systems?
 
 **Required:** *The Misuse of AUC: What High-Impact Risk Assessment Gets Wrong* (2023).
 
 ## Feature engineering
-Expressing domain knowledge through features; handling outliers and missingness
-without leaking.
+Tabular data still requires srious feature engineering to expressing domain knowledge through features. How do we create such features? what are common templates? How do we handle outliers and missingness
+without leaking?
 {: .note }
 > **GenAI in practice:** LLMs for feature extraction, labeling / weak
-> supervision, embeddings, and synthetic data — validated against human labels.
+> supervision, and embeddings
 
 ## ML modeling in practice & hyperparameter tuning
-Where to start on a real problem: a sensible hyperparameter grid, common
-pitfalls, and how to avoid them.
+Where to start on a real problem: what models to explore, what is a reasonable hyperparameter grid, why optuna is not always the right answer, common pitfalls, and how to avoid them.
 
 **Required:** Riley, *Three Pitfalls to Avoid in Machine Learning* (Nature, 2019); Ghani et al., *Top 10 ways your ML models may have leakage* (DSSG blog).
 
@@ -87,7 +82,6 @@ pitfalls, and how to avoid them.
 Modular, config-driven pipelines vs. monolithic notebooks.
 {: .note }
 > **GenAI in practice:** RAG and agent systems *are* pipelines — prompts,
-> retrieval, and tools are components you can test and swap. (Built out in
-> [Module 2]({{ '/syllabus/module-2/' | relative_url }}).)
+> retrieval, and tools are components you can test and swap.
 
-**Required:** [ML pipelines slides](https://github.com/dssg/MLinPractice/raw/main/Lectures/Lecture8-Machine-Learning-Pipelines.pptx)
+**Required:** [ML pipelines slides]()
