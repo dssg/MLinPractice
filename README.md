@@ -10,11 +10,11 @@ the theme is not vendored into this repo).
 | File | Page |
 | --- | --- |
 | `index.md` | Home (logistics, quick links, people) |
-| `syllabus.md` | Syllabus overview (parent of the module pages) |
+| `syllabus.md` | Syllabus overview |
 | `module-1-building.md` | Module 1 · Building ML Systems |
 | `module-2-beyond-accuracy.md` | Module 2 · Beyond Accuracy |
 | `schedule.md` | Schedule |
-| `project.md` / `data.md` | Project + data description |
+| `project.md` | Project description |
 | `grading.md` | Assignments & grading |
 | `policies.md` | Policies & resources |
 
