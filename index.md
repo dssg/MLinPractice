@@ -47,15 +47,15 @@ agents, and generative-system evaluation, and required in the project.
 
 ## How it's organized
 
-- **[Module 1 · Building ML Systems]({{ '/syllabus/module-1/' | relative_url }})** (Weeks 1–6) — the end-to-end build spine.
-- **[Module 2 · Beyond the Basic Model]({{ '/syllabus/module-2/' | relative_url }})** (Weeks 9–14) — foundation models & agents, and the accountability lenses.
-- **[The project]({{ '/project/' | relative_url }})** — a team-built ML application that runs all semester.
+- **[Module 1 · Building ML Systems]({{ '/syllabus/module-1/' | relative_url }})** (Weeks 1–6) — the end-to-end ML design and development.
+- **[Module 2 · Beyond the Basic Model]({{ '/syllabus/module-2/' | relative_url }})** (Weeks 9–14) — foundation models & agents, and exploring issues of fairness, robustness, interpretability, uncertainty, and causality.
+- **[Applied ML project]({{ '/project/' | relative_url }})** — a team-built ML application/system that goes throughout the semester.
 
 ## Quick links
 
 - [Schedule & readings]({{ '/schedule/' | relative_url }})
 - [Syllabus & learning objectives]({{ '/syllabus/' | relative_url }})
-- [The project]({{ '/project/' | relative_url }})
+- [Applied ML project]({{ '/project/' | relative_url }})
 - [Assignments & grading]({{ '/grading/' | relative_url }})
 - [Policies & resources]({{ '/policies/' | relative_url }})
 
@@ -63,7 +63,7 @@ agents, and generative-system evaluation, and required in the project.
 
 ### Instructor
 
-**Rayid Ghani** — GHC 8023
+**Rayid Ghani** (Office: GHC 8023)
 Office hours: Tuesday 4:00–5:00 pm, Wednesday 4:00–5:00 pm (or email to meet outside these times)
 
 ### Teaching Assistants
@@ -73,7 +73,6 @@ Office hours: Tuesday 4:00–5:00 pm, Wednesday 4:00–5:00 pm (or email to meet
 | Office hours: TBD | Office hours: TBD | Office hours: TBD |
 
 ## Previous versions
-
 [Fall 2025](https://github.com/dssg/MLinPractice/releases/tag/fall2025) ·
 [Fall 2023](https://github.com/dssg/MLinPractice/releases/tag/fall2023) ·
 [Fall 2022](https://github.com/dssg/MLinPractice/releases/tag/fall2022) ·
