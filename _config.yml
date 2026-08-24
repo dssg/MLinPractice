@@ -1,9 +1,59 @@
-theme: jekyll-theme-cayman
 title: "10-718: Machine Learning in Practice"
-markdown: GFM
-tags:
-  - ML
-  - Explainability
-  - Bias
+description: "A project-based graduate course on building, evaluating, and responsibly deploying ML systems — CMU 10-718."
+
+# --- Theme (remote theme, so nothing is vendored into this repo) ---
+remote_theme: just-the-docs/just-the-docs
+
+# --- Site URL (project page at dssg.github.io/MLinPractice) ---
+url: "https://dssg.github.io"
+baseurl: "/MLinPractice"
+
+# --- just-the-docs options ---
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+
+# Link shown at the top-right of every page
+aux_links:
+  "View on GitHub":
+    - "https://github.com/dssg/MLinPractice"
+aux_links_new_tab: true
+
+# "Edit this page on GitHub" + last-edited timestamp in the footer
+last_edit_timestamp: true
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/dssg/MLinPractice"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+# Callout boxes. Use in any page like:
+#   {: .due }
+#   > Project Update 1 due Monday.
+callouts:
+  due:
+    title: Due
+    color: red
+  note:
+    title: Note
+    color: blue
+
+# Collapsible section headings in the sidebar for pages with children
+nav_enabled: true
+
 plugins:
-  - jemoji
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Don't build these into the site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
