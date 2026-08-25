@@ -2,6 +2,7 @@
 title: "Module 2 · Beyond the Basic Model and Accuracy"
 parent: Syllabus
 nav_order: 2
+nav_exclude: false
 permalink: /syllabus/module-2/
 ---
 
