@@ -8,80 +8,30 @@ permalink: /syllabus/module-1/
 # Module 1 · Building ML Systems
 {: .no_toc }
 
-Building end-to-end ML systems for real problems — scoping, formulation,
-validation, metrics, features, and pipelines.
+**Weeks 1–6.** Building end-to-end ML systems for real problems — scoping,
+formulation, validation, metrics, features, and pipelines.
 
-<details open markdown="block">
-  <summary>Sessions</summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+Session descriptions, readings, and slides live on the
+[schedule]({{ '/schedule/' | relative_url }}) so there's a single place to keep
+them up to date. Links below go straight to each session.
 
----
+## Sessions
+{: .no_toc }
 
-## Class overview
-[Slides]()
+| Session | Date |
+| --- | --- |
+| [Class overview]({{ '/schedule/#class-overview' | relative_url }}) | Tue Aug 25 |
+| [Why ML systems can fail in practice]({{ '/schedule/#why-ml-systems-can-fail' | relative_url }}) | Thu Aug 27 |
+| [Scoping ML systems]({{ '/schedule/#scoping' | relative_url }}) | Tue Sep 1 |
+| [ML systems in practice — student presentations]({{ '/schedule/#systems-in-practice' | relative_url }}) | Thu Sep 3 |
+| [Analytical formulation and baselines]({{ '/schedule/#formulation' | relative_url }}) | Tue Sep 8 |
+| [Data exploration]({{ '/schedule/#data-exploration' | relative_url }}) | Thu Sep 10 |
+| [Model selection (evaluation)]({{ '/schedule/#model-selection' | relative_url }}) | Thu Sep 17 |
+| [Model performance metrics]({{ '/schedule/#metrics' | relative_url }}) | Tue Sep 22 |
+| [Feature engineering]({{ '/schedule/#feature-engineering' | relative_url }}) | Thu Sep 24 |
+| [ML modeling in practice & hyperparameter tuning]({{ '/schedule/#modeling' | relative_url }}) | Tue Sep 29 |
+| [ML pipelines]({{ '/schedule/#pipelines' | relative_url }}) | Thu Oct 1 |
 
-## Why ML systems can fail in practice
-Failure modes beyond model accuracy: data, deployment, incentives, governance.
-{: .note }
-> **GenAI in practice:** Are there LLM-specific failure modes?
-
-## Scoping ML systems
-Can and should this be solved with ML? What goals is the system supposed to achieve? How is success measured? What actions and decisions does the system enable? What ethical discussions need to happen? 
-{: .note }
-> **GenAI in practice:** Does scoping change for GenAI systems?
-
-**Required:** [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
-
-## ML systems in practice — student presentations
-Students present and critique real deployed ML/AI systems across domains and
-problem types.
-
-## Analytical formulation and baselines
-Turning the scope into an ML problem. What design decisions needs to be made? Defining the label, the available features, and the baseline we need to compare against —
-which should reflect the status quo or easy-to-implement approaches, rarely "random."
-{: .note }
-> **GenAI in practice:** an LLM zero/few-shot prompt is an example of a easy-to-implement baseline.
-
-**Required:** Obermeyer et al., *Dissecting Racial Bias…* (Science, 2019); Passi & Barocas, *Problem Formulation and Fairness* (FAT\*, 2019).
-
-## Data exploration
-Data exploration in the context of ML systems. How does data exploration support making modeling decisions? What phases of an ML project require doing data exploration?
-{: .note }
-> **GenAI in practice:** LLMs for wrangling, parsing, and extracting structure
-> from messy/unstructured data.
-
-## Model selection (evaluation)
-Validation strategy: how it relates to how you want the model to generalize during deployment/test time,
-and why k-fold often fails in practice.
-
-**Required:** Roberts et al., *Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure* (Ecography, 2017).
-
-## Model performance metrics
-How do we back into the metric we care about? Metrics that match the decision and thew deployment setting: precision@k / top-k under capacity constraints, calibration, and why we may need multiple metrics.
-{: .note }
-> **GenAI in practice:** What metrics do we need for GenAI systems?
-
-**Required:** *The Misuse of AUC: What High-Impact Risk Assessment Gets Wrong* (2023).
-
-## Feature engineering
-Tabular data still requires srious feature engineering to expressing domain knowledge through features. How do we create such features? what are common templates? How do we handle outliers and missingness
-without leaking?
-{: .note }
-> **GenAI in practice:** LLMs for feature extraction, labeling / weak
-> supervision, and embeddings
-
-## ML modeling in practice & hyperparameter tuning
-Where to start on a real problem: what models to explore, what is a reasonable hyperparameter grid, why optuna is not always the right answer, common pitfalls, and how to avoid them.
-
-**Required:** Riley, *Three Pitfalls to Avoid in Machine Learning* (Nature, 2019); Ghani et al., *Top 10 ways your ML models may have leakage* (DSSG blog).
-
-## ML pipelines
-Modular, config-driven pipelines vs. monolithic notebooks.
-{: .note }
-> **GenAI in practice:** RAG and agent systems *are* pipelines — prompts,
-> retrieval, and tools are components you can test and swap.
-
-**Required:** [ML pipelines slides]()
+Project sessions in this stretch: [project pitches]({{ '/schedule/#project-pitches' | relative_url }})
+(Sep 15) and [update presentations]({{ '/schedule/#update-presentations' | relative_url }})
+(Oct 6 & 8).
