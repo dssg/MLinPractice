@@ -68,8 +68,7 @@ validation, metrics, features, and pipelines.
 ## Why ML systems can fail in practice
 {: #why-ml-systems-can-fail }
 
-**Thu Aug 27.** Failure modes beyond model accuracy: data, deployment,
-incentives, governance.
+**Thu Aug 27.** We'll discuss real-world failure modes of ML systems, moving beyond model accuracy to system-level issues including data, deployment, governance, incentives, etc. The goal here is to encourage critical thinking about preventing failures and to motivate the topics to be covered during the rest of the semester.
 
 > **GenAI in practice:** Are there LLM-specific failure modes?
 
@@ -79,15 +78,13 @@ incentives, governance.
 ## Scoping ML systems
 {: #scoping }
 
-**Tue Sep 1.** Can and should this be solved with ML? What goals is the system
-supposed to achieve? How is success measured? What actions and decisions does the
-system enable? What ethical discussions need to happen?
+**Tue Sep 1.** We’ll discuss scoping, problem definition, and understanding and balancing organizational goals. Before we start doing technical ML work, a decision needs to be made about whether a given problem can and should be addressed with machine learning. What outcomes is the system supposed to achieve? How is success measured? What actions and decisions does the system enable? What ethical discussions need to happen?
 
 > **GenAI in practice:** Does scoping change for GenAI systems?
 
 *Required:* [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
 *Slides:* TBD
-*Project:* submit project idea due Aug 31.
+*Project:* submit project ideas (to get feedback) due Aug 31.
 
 ## ML systems in practice — student presentations
 {: #systems-in-practice }
