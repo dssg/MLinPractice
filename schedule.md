@@ -82,8 +82,10 @@ validation, metrics, features, and pipelines.
 
 > **GenAI in practice:** Does scoping change for GenAI systems?
 
-*Required:* [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
 *Slides:* TBD
+*Required:* [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
+*Optional:* [Fine-grained dengue forecasting using telephone triage services](https://nyunetworks.github.io/Pubs/rehman-science16.pdf) (Rehman et al., Sci. Adv. 2016); [Deconstructing Statistical Questions](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf) (Hand, J. Royal Stat. Soc. A, 1994); 
+
 *Project:* submit project ideas (to get feedback) due Aug 31.
 
 ## ML systems in practice — student presentations
@@ -103,8 +105,9 @@ approaches, rarely "random."
 > **GenAI in practice:** an LLM zero/few-shot prompt is an example of an
 > easy-to-implement baseline.
 
-*Required:* Obermeyer et al., *Dissecting Racial Bias…* (Science, 2019); Passi & Barocas, *Problem Formulation and Fairness* (FAT\*, 2019).
 *Slides:* TBD
+*Required:* [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf) (Obermeyer et al., Science 2019); [Problem Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf) (Passi & Barocas, FAT\* 2019).
+*Optional:* [Always Start with a Stupid Model, No Exceptions](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa) (Ameisen); [Create a Common-Sense Baseline First](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47) (Ramakrishnan); [Data Science for Business](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html) (Provost & Fawcett, ch. 2).
 
 ## Data exploration
 {: #data-exploration }
@@ -117,6 +120,7 @@ require doing data exploration?
 > from messy/unstructured data.
 
 *Slides:* TBD
+*Optional:* [Can Foundation Models Wrangle Your Data?](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf) (Narayan et al., VLDB 2023).
 *Project:* project proposal and scope due Mon Sep 14.
 
 ## Project pitches
@@ -133,8 +137,9 @@ decision-maker is, and what data exists.
 **Thu Sep 17.** Validation strategy: how it relates to how you want the model to
 generalize during deployment/test time, and why k-fold often fails in practice.
 
-*Required:* Roberts et al., *Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure* (Ecography, 2017).
 *Slides:* TBD
+*Required:* [Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf) (Roberts et al., Ecography 2017).
+*Optional:* [Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846); [Time Series Nested Cross-Validation](https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9) (Cochrane); [The Secrets of Machine Learning](https://arxiv.org/abs/1906.01998) (Rudin & Carlson, 2019); [Big Data and Social Science](https://textbook.coleridgeinitiative.org/chap-ml.html) (Foster, Ghani et al., §7.7); [Evaluating and Comparing Classifiers](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2) (Stapor, CORES 2017).
 
 ## Model performance metrics
 {: #metrics }
@@ -145,8 +150,9 @@ constraints, calibration, and why we may need multiple metrics.
 
 > **GenAI in practice:** What metrics do we need for GenAI systems?
 
-*Required:* *The Misuse of AUC: What High-Impact Risk Assessment Gets Wrong* (2023).
 *Slides:* TBD
+*Required:* [The Misuse of AUC: What High-Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159) (2023).
+*Optional:* [Transductive Optimization of Top-k Precision](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf) (Liu et al., IJCAI 2016).
 
 ## Feature engineering
 {: #feature-engineering }
@@ -159,6 +165,8 @@ are common templates? How do we handle outliers and missingness without leaking?
 > supervision, and embeddings.
 
 *Slides:* TBD
+*Optional:* [Missing Data Conundrum](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87) (Akinfaderin); [Feature Engineering for Machine Learning](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/) (Zhang & Casari, ch. 2); [Missing-data imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) (Gelman).
+*Optional (data infrastructure):* [Netflix's Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01); [Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087).
 
 ## ML modeling in practice & hyperparameter tuning
 {: #modeling }
@@ -167,8 +175,8 @@ are common templates? How do we handle outliers and missingness without leaking?
 a reasonable hyperparameter grid, why optuna is not always the right answer,
 common pitfalls, and how to avoid them.
 
-*Required:* Riley, *Three Pitfalls to Avoid in Machine Learning* (Nature, 2019); Ghani et al., *Top 10 ways your ML models may have leakage* (DSSG blog).
 *Slides:* TBD
+*Required:* [Three Pitfalls to Avoid in Machine Learning](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf) (Riley, Nature 2019); [Top 10 ways your Machine Learning models may have leakage](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/) (Ghani et al., DSSG blog).
 
 ## ML pipelines
 {: #pipelines }
@@ -212,8 +220,9 @@ the entire lifecycle? How do we embed these discussions throughout the lifecycle
 and what can we do at each stage that allows us to manage and reduce the
 downstream risks?
 
-*Required:* Loukides, Mason & Patil, *Ethics and Data Science*; Bender et al., *On the Dangers of Stochastic Parrots* (2021, excerpt).
 *Slides:* TBD
+*Required:* [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (Loukides, Mason & Patil, O'Reilly 2018 — short)
+*Optional:* [Princeton AI Ethics Case Study 6: Public Sector Data Analysis](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf).
 *Project:* Initial ML Solution due tonight (11:59pm).
 
 ## Building systems with foundation models
@@ -222,8 +231,6 @@ downstream risks?
 **Thu Oct 22.** The foundation-model paradigm: build from scratch vs. use
 off-the-shelf vs. fine-tune vs. prompt; retrieval and grounding (RAG).
 
-*Required:* Lewis et al., *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks* (2020); Yan et al., *What We Learned from a Year of Building with LLMs*, Part III (O'Reilly, 2024).
-*Optional:* Huyen, *AI Engineering* (2025).
 *Slides:* TBD
 
 ## Building systems with AI agents
@@ -232,9 +239,8 @@ off-the-shelf vs. fine-tune vs. prompt; retrieval and grounding (RAG).
 **Tue Oct 27.** When multi-step / agentic designs (tool use, planning) help, best
 practices, tools, and the reliability of agentic systems.
 
-*Required:* Schluntz & Zhang, [*Building Effective Agents*](https://www.anthropic.com/research/building-effective-agents) (Anthropic, 2024).
-*Optional:* Yao et al., *ReAct: Synergizing Reasoning and Acting in Language Models* (2023).
 *Slides:* TBD
+
 
 ## Evaluation in the field
 {: #field-evaluation }
@@ -245,9 +251,10 @@ quasi-experimental designs.
 > **GenAI in practice:** the offline→online gap — a system that looks good on an
 > eval set can still fail on the real decision it supports.
 
-*Required:* [*A Guide to Running Randomized Controlled Trials*](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf) (IGL).
-*Recommended case:* Rodolfa, Salomon, … Ghani, *Breaking the Cycle of Incarceration with Targeted Mental Health Outreach* (2025).
 *Slides:* TBD
+*Required:* [*A Guide to Running Randomized Controlled Trials*](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf) (IGL).
+*Recommended case:* [Breaking the Cycle of Incarceration With Targeted Mental Health Outreach](https://arxiv.org/abs/2509.14129) (Rodolfa, Salomon, … Ghani, 2025).
+*Optional:* [The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174) (Athey & Imbens).
 
 ## Evaluating GenAI systems
 {: #evaluating-genai }
@@ -255,10 +262,8 @@ quasi-experimental designs.
 **Thu Nov 5.** Evaluating generative systems where there may be no ground truth
 to compare against: task-specific eval sets, human evaluation, LLM-as-judge, etc.
 
-*Required:* Zheng et al., *Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena* (2023); Husain, [*Your AI Product Needs Evals*](https://hamel.dev/blog/posts/evals/) (2024).
-*Optional:* Shankar et al., *Who Validates the Validators?* (2024).
 *Slides:* TBD
-*Project:* Evaluation due tonight (11:59pm).
+
 
 ## Causality
 {: #causality }
@@ -266,8 +271,9 @@ to compare against: task-specific eval sets, human evaluation, LLM-as-judge, etc
 **Tue Nov 10.** The intersection between ML and causal inference. The tools of
 causal inference and how to use them.
 
-*Required:* Pearl, *The Seven Tools of Causal Inference* (CACM, 2019).
 *Slides:* TBD
+*Required:* [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf) (Pearl, CACM 2019).
+*Optional:* [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference) (Peters et al., MIT Press — ch. 1–2).
 
 ## Distribution shift and robustness
 {: #distribution-shift }
@@ -278,8 +284,8 @@ handling shift.
 > **GenAI in practice:** prompt injection (incl. indirect), jailbreaks, and quiet
 > drift as underlying models change.
 
-*Required:* Greshake et al., *Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection* (2023).
 *Slides:* TBD
+
 
 ## Uncertainty quantification
 {: #uncertainty }
@@ -289,8 +295,8 @@ and communicating them to decision-makers.
 
 > **GenAI in practice:** calibration and abstention.
 
-*Required:* Hüllermeier & Waegeman, [*Aleatoric and Epistemic Uncertainty in Machine Learning*](https://arxiv.org/pdf/1910.09457.pdf) (2019), §1–3.
 *Slides:* TBD
+
 
 ## Interpretability
 {: #interpretability }
@@ -301,8 +307,8 @@ user and use case.
 > **GenAI in practice:** tracing and grounding an answer to its sources, rather
 > than feature-importance-style explanation.
 
-*Required:* Amarasinghe et al., *Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions* (2020).
 *Slides:* TBD
+*Required:* [Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/AmarasingheExplainable.pdf) (Amarasinghe et al., 2020); [Benchmarking and Survey of Explanation Methods for Black Box Models](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf) (Bodria et al., 2021).
 *Project:* Iteration 2 due Thu Nov 19 — add one component from Module 2.
 
 ## Fairness
@@ -314,8 +320,9 @@ enters the pipeline; equity auditing.
 > **GenAI in practice:** bias evaluations for LLMs and how the generative case
 > differs from the predictive one.
 
-*Required:* Verma & Rubin, *Fairness Definitions Explained*; revisit Obermeyer et al. (2019).
 *Slides:* TBD
+*Required:* [Fairness Definitions Explained](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf) (Verma & Rubin); revisit Obermeyer et al. (2019).
+*Optional:* [A Theory of Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf) (Rawls, 1971 — ch. 1, pp. 1–19); [Racial Equity in Algorithmic Criminal Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf) (Huq, Duke Law Journal 2018); [Is Algorithmic Affirmative Action Legal?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690) (Bent, Georgetown Law Journal 2019); [Does Mitigating ML's Impact Disparity Require Treatment Disparity?](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity) (Lipton et al., NeurIPS 2018); [Equality of Opportunity](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf) (Roemer & Trannoy, 2013).
 
 ## Project presentations
 {: #final-presentations }
