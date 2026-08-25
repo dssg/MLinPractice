@@ -2,6 +2,7 @@
 title: "Module 1 · Building ML Systems"
 parent: Syllabus
 nav_order: 1
+nav_exclude: false
 permalink: /syllabus/module-1/
 ---
 
