@@ -24,8 +24,8 @@ Assignments are submitted on [Canvas](https://canvas.cmu.edu/courses/49132).
 | :--: | --- | --- | --- |
 | 1 | Tue Aug 25 | Class overview | |
 | 1 | Thu Aug 27 | Why ML systems can fail in practice | Team creation (Aug 28) |
-| 2 | Tue Sep 1 | Scoping ML systems | Project idea (Aug 31) |
-| 2 | Thu Sep 3 | ML systems in practice — student presentations | |
+| 2 | Tue Sep 1 | Scoping ML systems | Project ideas (Aug 31) |
+| 2 | Thu Sep 3 | ML systems in practice (sign up for roles) | |
 | 3 | Tue Sep 8 | Analytical formulation and baselines | |
 | 3 | Thu Sep 10 | Data exploration | Proposal & scope (Sep 14) |
 | 4 | Tue Sep 15 | **Project pitches** | 3-min pitch due (2pm) |
