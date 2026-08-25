@@ -11,7 +11,7 @@ permalink: /schedule/
 Fall 2026 · Tuesday & Thursday, 2:00–3:20 pm · [POS 153](https://maps.app.goo.gl/FSHeY1jTBVzpsztA8).
 Assignments are submitted on [Canvas](https://canvas.cmu.edu/courses/56403).
 
-This page is the single source for session descriptions, readings, and slides.
+This page is the source for session descriptions, readings, and slides.
 Click any topic in the table to jump to its details.
 
 ## At a glance
@@ -61,10 +61,9 @@ validation, metrics, features, and pipelines.
 ## Class overview
 {: #class-overview }
 
-**Tue Aug 25.** The class, its goals, and the applied project we use as a
-motivating example all semester.
+**Tue Aug 25.** Overview of the course
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1I-B7Eq08vEy4HnokjMTz9fzSl2C1Ndeo/edit?slide=id.p1#slide=id.p1):* 
 
 ## Why ML systems can fail in practice
 {: #why-ml-systems-can-fail }
