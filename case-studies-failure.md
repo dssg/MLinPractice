@@ -10,8 +10,7 @@ permalink: /cases/failure/
 Breakout material for [Why ML systems can fail in practice]({{ '/schedule/#why-ml-systems-can-fail' | relative_url }})
 (Thu Aug 27).
 
-Your group has one case. You have **15 minutes**, then **2 minutes** to report
-back.
+Each group picks one case. 
 
 {: .note }
 > For each case: the system worked in some meaningful sense. Your job is to
@@ -29,7 +28,7 @@ back.
 with very high healthcare use.
 
 **The system.** Identify the highest-risk, highest-cost patients from hospital
-data. For each one, a team of nurses, social workers and community health
+data. For each one, a team of nurses, social workers, and community health
 workers visits after discharge to coordinate outpatient care and connect them
 to social services.
 
@@ -80,11 +79,11 @@ broadly.
 
 ---
 
-## Case 3 · Predicting sepsis in hospitalized patients
+## Case 3 · Predicting sepsis in hospitalized patients (EPIC)
 {: #case-3 }
 
 **The goal.** Alert clinicians early when a hospitalized patient may be
-developing sepsis.
+developing sepsis to prevent sepsis.
 
 **The system.** A proprietary model built into a widely used electronic health
 record and deployed at **hundreds of US hospitals**. It rescored patients every
@@ -99,11 +98,10 @@ center; 7% developed sepsis.
 | Metric | Result |
 | --- | --- |
 | AUC | 0.63 |
-| Sensitivity | 33% |
-| PPV | 12% |
+| Recall | 33% |
+| Precision | 12% |
 
 - Generated alerts on **18% of all hospitalized patients**
-- **Missed 67%** of patients who developed sepsis
 - Of 2,552 septic patients, identified **183 (7%)** whose sepsis was not already
   being treated in time
 
@@ -122,15 +120,13 @@ center; 7% developed sepsis.
 {: #case-4 }
 
 **The goal.** Buy homes directly from sellers, make light repairs, resell at a
-margin.
+margin (to make money)
 
 **The system.** An established home-valuation model — mature, widely used, and
 reasonably accurate as an *estimate* — was used to decide which homes to buy and
 at what price. Purchases were made at scale.
 
-**What happened.** In Q3 2021 the company bought **9,680 homes and sold 3,032**.
-In November 2021 it shut the unit down, took a write-down of **more than
-$500M**, and cut about **25% of its workforce** (~2,000 people).
+**What happened.** Between April 2018 and November 2021, Zillow's iBuying program purchased approximately 27,000 homes across 25 US cities. In Q3 2021 the company bought 9,680 homes and sold 3,032 Total program losses in 2021 reached $881 million. In November 2021 it shut the unit down, took a write-down of more than $500M, and cut about 25% of its workforce (~2,000 people).
 
 ### Your task
 {: .no_toc }
@@ -147,8 +143,7 @@ $500M**, and cut about **25% of its workforce** (~2,000 people).
 ## Sources
 {: #sources }
 
-*Read these after the session — they name the systems and give away the
-diagnosis.*
+*Read these after the session*
 
 **Case 1 —** Finkelstein et al., *Health Care Hotspotting — A Randomized,
 Controlled Trial*, [NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMsa1906848)
@@ -166,5 +161,4 @@ Proprietary Sepsis Prediction Model*,
 [2024 replication, JAMIA Open](https://academic.oup.com/jamiaopen/article/7/4/ooae133/7900014) ·
 [UT Austin case study](https://ethicsunwrapped.utexas.edu/case-study/a-i-transparency-an-epic-deception)
 
-**Case 4 —** Zillow Q3 2021 results and November 2021 shutdown announcement;
-contemporaneous financial press coverage.
+
