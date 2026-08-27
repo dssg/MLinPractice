@@ -73,7 +73,9 @@ validation, metrics, features, and pipelines.
 > **GenAI in practice:** Are there LLM-specific failure modes?
 
 *Slides:* posted after class discussion
+
 *Case Studies for Breakout Groups:* [Case Studies](case-studies-failure.md)
+
 *Project:* team creation due Aug 28.
 
 ## Scoping ML systems
