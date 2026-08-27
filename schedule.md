@@ -73,7 +73,7 @@ validation, metrics, features, and pipelines.
 > **GenAI in practice:** Are there LLM-specific failure modes?
 
 *Slides:* posted after class discussion
-Case Studies for Breakout Groups:* 1:[Zillow](casestudy_zillow.md), 2:[Epic Sepsis](casestudy_epic.md), 3:[Camden Readmission Prevention](casestudy_camden.md), 4:[Amazon Hiring Tool](casestudy_hiring.md)
+*Case Studies for Breakout Groups:* [Case Studies](case-studies-failure.md)
 *Project:* team creation due Aug 28.
 
 ## Scoping ML systems
