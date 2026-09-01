@@ -91,7 +91,7 @@ validation, metrics, features, and pipelines.
 
 *Project:* submit project ideas (to get feedback) due Aug 31.
 
-## ML systems in practice — student presentations
+## ML systems in practice 
 {: #systems-in-practice }
 
 **Thu Sep 3.** Students present and critique real deployed ML/AI systems across
