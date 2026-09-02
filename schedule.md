@@ -22,7 +22,7 @@ Click any topic in the table to jump to its details.
 | 1 | Tue Aug 25 | [Class overview](#class-overview) | |
 | 1 | Thu Aug 27 | [Why ML systems can fail in practice](#why-ml-systems-can-fail) | Team creation (Aug 28) |
 | 2 | Tue Sep 1 | [Scoping ML systems](#scoping) | Project idea (Aug 31) |
-| 2 | Thu Sep 3 | [ML systems in practice](#systems-in-practice) | |
+| 2 | Thu Sep 3 | [Scoping - Applied to Class Projects](#scoping) | |
 | 3 | Tue Sep 8 | [Analytical formulation and baselines](#formulation) | |
 | 3 | Thu Sep 10 | [Data exploration](#data-exploration) | Proposal & scope (Sep 14) |
 | 4 | Tue Sep 15 | [**Project pitches**](#project-pitches) | 3-min pitch due (2pm) |
@@ -91,11 +91,10 @@ validation, metrics, features, and pipelines.
 
 *Project:* submit project ideas (to get feedback) due Aug 31.
 
-## ML systems in practice 
+## Scoping ML systems (applied to class projects)
 {: #systems-in-practice }
 
-**Thu Sep 3.** Students present and critique real deployed ML/AI systems across
-domains and problem types.
+**Thu Sep 3.** Students will apply scoping methodology presented in the previous session to their class project ideas, critique, and iterate.
 
 ## Analytical formulation and baselines
 {: #formulation }
