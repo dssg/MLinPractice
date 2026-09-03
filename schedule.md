@@ -72,7 +72,7 @@ validation, metrics, features, and pipelines.
 
 > **GenAI in practice:** Are there LLM-specific failure modes?
 
-*Slides:* posted after class discussion
+*[Slides](https://docs.google.com/presentation/d/1c7kHpr79zAUB2A2RIbR1cHtXlJHbamOx5u-Y3dwfScA)*
 
 *Case Studies for Breakout Groups:* [Case Studies](case-studies-failure.md)
 
@@ -85,11 +85,13 @@ validation, metrics, features, and pipelines.
 
 > **GenAI in practice:** Does scoping change for GenAI systems?
 
-*Slides:* TBD
-*Required:* [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
-*Optional:* [Fine-grained dengue forecasting using telephone triage services](https://nyunetworks.github.io/Pubs/rehman-science16.pdf) (Rehman et al., Sci. Adv. 2016); [Deconstructing Statistical Questions](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf) (Hand, J. Royal Stat. Soc. A, 1994); 
+*[Slides](https://docs.google.com/presentation/d/1w2F9hA85ElMRdxYYg7kADcFZwhs_h0NY8S4IKAd8N7c)* 
 
-*Project:* submit project ideas (to get feedback) due Aug 31.
+*Required Readings:* [Data Science Project Scoping Guide](https://datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
+
+*Optional Readings:* [Fine-grained dengue forecasting using telephone triage services](https://nyunetworks.github.io/Pubs/rehman-science16.pdf) (Rehman et al., Sci. Adv. 2016); [Deconstructing Statistical Questions](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf) (Hand, J. Royal Stat. Soc. A, 1994); 
+
+*Project:* submit project ideas (to get feedback) due Aug 31 on canvas.
 
 ## Scoping ML systems (applied to class projects)
 {: #systems-in-practice }
@@ -108,7 +110,9 @@ approaches, rarely "random."
 > easy-to-implement baseline.
 
 *Slides:* TBD
+
 *Required:* [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf) (Obermeyer et al., Science 2019); [Problem Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf) (Passi & Barocas, FAT\* 2019).
+
 *Optional:* [Always Start with a Stupid Model, No Exceptions](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa) (Ameisen); [Create a Common-Sense Baseline First](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47) (Ramakrishnan); [Data Science for Business](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html) (Provost & Fawcett, ch. 2).
 
 ## Data exploration
