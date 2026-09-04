@@ -72,6 +72,7 @@ agents, and generative-system evaluation, and required in the project.
 - [Applied ML project]({{ '/project/' | relative_url }})
 - [Assignments & grading]({{ '/grading/' | relative_url }})
 - [Policies & resources]({{ '/policies/' | relative_url }})
+- [Role-Playing Seminar Presentations]({{ '/seminar/' | relative_url }})
 
 
 ## Previous versions
