@@ -19,10 +19,14 @@ permalink: /seminar/
 ## Presenter assignment
 You will periodically present a paper/blog post/writeup in class, taking on one of the following presenter roles.
 
-Educator: Explain the key ideas in the paper/blog post to the class. Keep your presentation to 5-10 minutes maximum.
-Evaluator: Discuss both one strength and one weakness of the work. What did you like? Critically evaluate the claims - Do you agree with the paper's stance/findings? Did the paper overlook anything? Is there something that could have strengthened the work?
-Discussion Leader: Prepare three discussion questions to ask the class, and lead the discussion amongst the students when answering these questions.
+**Educator**: Explain the key ideas in the paper/blog post to the class. Keep your presentation to 5-10 minutes maximum.
+
+**Evaluator**: Discuss both one strength and one weakness of the work. What did you like? Critically evaluate the claims - Do you agree with the paper's stance/findings? Did the paper overlook anything? Is there something that could have strengthened the work?
+
+**Deployer**:Would you use/deploy this system in your organization for your problem? Why or why not? What would need to be different for you to be more confident?
+
+**Discussion Leader**: Prepare three discussion questions to ask the class, and lead the discussion amongst the students when answering these questions.
 
 ## Non-presenter assignment
-If you are not presenting the paper, you must still read the paper and provide at least one discussion question about the paper (e.g., something you're uncertain about or would like to hear discussed). This will be submitted via gradescope.
+If you are not presenting the paper, you must still read the paper and provide at least one discussion question about the paper (e.g., something you're uncertain about or would like to hear discussed). This will be submitted via canvas.
 
