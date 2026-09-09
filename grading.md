@@ -20,9 +20,9 @@ Project-related assignments
 - Project Assignments (50%)
 - Project Presentations (initial pitch, update, final) (15%)
 
-Class attendance and participation in discussions (30%)
+Participation: Class attendance, role-paying seminar presentations, submitting non-presenter comments, and participation in class discussions (30%)
 
-Weekly check-in and feedback forms (5%)
+Weekly reflection and feedback forms (5%)
 
 ## Project-related Assignments
 
