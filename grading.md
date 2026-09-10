@@ -50,13 +50,37 @@ than 1 per assignment, applied greedily.
 
 ## Participation & missing days
 
-Attendance and participation matter in this class. You may miss up to **3
-sessions** and still be considered for full participation credit; beyond that,
-participation credit is reduced.
+You may miss up to **3 sessions** and still be considered for full participation
+credit; beyond that, participation credit is reduced.
 
-Participation in discussions during class is a critical component of this class because it is an important path towards learning and how projects in the real-world take place. We want to encourage (and train) you to be proficient and comfortable being active in every class session. The participation grade serves as a way to credit you with the effort and work you are putting into the class in and out of the classroom. 
+Discussion is a critical part of this class. It is how a lot of the learning
+happens, and it is how real projects actually work. We want to
+encourage you, and give you practice, in being comfortable and effective in every
+session. The participation grade credits the effort and work you put into this
+class, in and out of the classroom.
 
-However, I understand that we all have different levels of comfort regarding speaking in class. Participation will thus be counted as 0) attending class, 1) speaking and discussing content in class, 2) responding to (Slido) polls in class and participating in additional interactive in-class activities, 3) signing up for and being thoughtful in the paper presentations, and submitting thoughtful discussion questions for the non-presenter assignments. Beyond attendance, if you are fully engaged in at least 2 of those 3 activities (from 1-3), you will earn full points. Attending class but only participating in one or two of those activities will earn you 1/2 of the participation points for that day. If you are not participating at any of those, you will not earn points. I encourage you to contact me so we can find ways to make participation work for you in this class. Any class missed will not impact your participation grade as long as you are within your allotted absences. If you have to miss beyond the 3 classes, please email me as soon as possible to discuss ways to help you participate in classroom activities asynchronously as appropriate.
+That said, people differ in how comfortable they are speaking in front of a
+group, and speaking is not the only way to participate. **Beyond attending,
+participation is counted across three modes:**
 
-If you find it uncomfortable to speak up in class, we encourage you to visit the professor in office hours and work on this skill.
+1. Speaking and discussing content in class
+2. Responding to Slido polls and taking part in in-class activities
+3. Signing up for and being thoughtful in a paper presentation role, and
+   submitting thoughtful discussion questions for the non-presenter assignments
 
+Attendance is the baseline. The three modes above are assessed **across the semester** rather than session by session — not every path is available every day.
+
+| Paths you engage in | Credit |
+| --- | :--: |
+| 2 or more | Full |
+| 1 | Half |
+| None | None |
+
+**If speaking up in class is difficult for you, come talk to me.** I would much
+rather find a version of participation that works for how you work than have you
+sit through the semester uncomfortable — and office hours are a good place to
+practise the skill in a lower-stakes setting.
+
+Missed classes within your 3 allotted absences do not affect your participation
+grade. If you need to miss more than 3, email me as soon as possible and we will
+find ways for you to participate asynchronously.
