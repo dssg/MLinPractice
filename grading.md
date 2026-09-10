@@ -22,7 +22,7 @@ Project-related assignments
 
 Participation: 1) Class attendance, 2) role-paying seminar presentations + submitting non-presenter comments, and 3) participation in class discussions (30%)
 
-Weekly reflection and feedback forms (5%)
+Weekly reflection and feedback forms  - due before class every week (5%)
 
 ## Project-related Assignments
 
