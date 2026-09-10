@@ -22,7 +22,7 @@ Click any topic in the table to jump to its details.
 | 1 | Tue Aug 25 | [Class overview](#class-overview) | |
 | 1 | Thu Aug 27 | [Why ML systems can fail in practice](#why-ml-systems-can-fail) | Team creation (Aug 28) |
 | 2 | Tue Sep 1 | [Scoping ML systems](#scoping) | Project idea (Aug 31) |
-| 2 | Thu Sep 3 | [Scoping - Applied to Class Projects](#scoping-in-practice) | |
+| 2 | Thu Sep 3 | [Scoping - Applied to Class Projects](#scoping-ml-systems-applied-to-class-projects) | |
 | 3 | Tue Sep 8 | [Analytical formulation and baselines](#analytical-formulation-and-baselines) | |
 | 3 | Thu Sep 10 | [Data exploration](#data-exploration) | Proposal & scope (Sep 14) |
 | 4 | Tue Sep 15 | [**Project pitches**](#project-pitches) | 3-min pitch due (2pm) |
@@ -94,14 +94,14 @@ validation, metrics, features, and pipelines.
 *Project:* submit project ideas (to get feedback) due Aug 31 on canvas.
 
 ## Scoping ML systems (applied to class projects)
-{: #scoping-in-practice }
+{: #scoping-ml-systems-applied-to-class-projects }
 
 **Thu Sep 3.** Students will apply scoping methodology presented in the previous session to their class project ideas, critique, and iterate.
 
 *[Slides]https://docs.google.com/presentation/d/1nhrvkptOIaiNPCiGaF0bstGIVwqyRpYHtHpdUj_foIY/)*
 
 ## Analytical formulation and baselines
-{: #formulation }
+{: #analytical-formulation-and-baselines }
 
 **Tue Sep 8.** Turning the scope into an ML problem. What design decisions need
 to be made? Defining the label, the available features, and the baseline we need
