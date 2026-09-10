@@ -45,8 +45,7 @@ The project runs the whole semester as a sequence of milestones:
 
 ## Grace days
 
-Project teams receive **4 total grace days** for project deliverables, no more
-than 1 per assignment, applied greedily.
+Project teams receive **4 grace days** across the semester for project deliverables, with no more than 1 per assignment. They are applied automatically to your earliest late submissions — you do not need to request them. Work submitted late once your grace days are used will lose significant credit.
 
 ## Participation & missing days
 
