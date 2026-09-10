@@ -98,6 +98,8 @@ validation, metrics, features, and pipelines.
 
 **Thu Sep 3.** Students will apply scoping methodology presented in the previous session to their class project ideas, critique, and iterate.
 
+*[Slides]https://docs.google.com/presentation/d/1nhrvkptOIaiNPCiGaF0bstGIVwqyRpYHtHpdUj_foIY/)*
+
 ## Analytical formulation and baselines
 {: #formulation }
 
@@ -109,11 +111,23 @@ approaches, rarely "random."
 > **GenAI in practice:** an LLM zero/few-shot prompt is an example of an
 > easy-to-implement baseline.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1yqvo1qSCgZnZX5koEVldA4HTm562_Kfm3-0gGlNI6b8/)* 
 
-*Required:* [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf) (Obermeyer et al., Science 2019); [Problem Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf) (Passi & Barocas, FAT\* 2019).
+*Required:* 
 
-*Optional:* [Always Start with a Stupid Model, No Exceptions](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa) (Ameisen); [Create a Common-Sense Baseline First](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47) (Ramakrishnan); [Data Science for Business](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html) (Provost & Fawcett, ch. 2).
+[Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf) (Obermeyer et al., Science 2019); 
+
+[Measuring the predictability of life outcomes with a scientific mass collaboration](https://www.pnas.org/doi/10.1073/pnas.1915006117) (Salganik et al PNAS 2022)
+
+*Optional:*
+
+[Problem Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf) (Passi & Barocas, FAT\* 2019).
+
+[Always Start with a Stupid Model, No Exceptions](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa) (Ameisen);
+
+[Create a Common-Sense Baseline First](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47) (Ramakrishnan); 
+
+[Data Science for Business](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html) (Provost & Fawcett, ch. 2).
 
 ## Data exploration
 {: #data-exploration }
