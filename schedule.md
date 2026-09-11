@@ -129,7 +129,7 @@ approaches, rarely "random."
 
 [Data Science for Business](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html) (Provost & Fawcett, ch. 2).
 
-## Data exploration
+## Data (Acquisition, Stoerage, Linkage, and exploration) For ML
 {: #data-exploration }
 
 **Thu Sep 10.** Data exploration in the context of ML systems. How does data
@@ -139,7 +139,7 @@ require doing data exploration?
 > **GenAI in practice:** LLMs for wrangling, parsing, and extracting structure
 > from messy/unstructured data.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1nFbgKKlEoPhZn58GnFpAi7X3N5mUwQYsfFkH5QCnGEA/)*
 *Optional:* [Can Foundation Models Wrangle Your Data?](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf) (Narayan et al., VLDB 2023).
 *Project:* project proposal and scope due Mon Sep 14.
 
