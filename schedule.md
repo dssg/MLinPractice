@@ -158,7 +158,14 @@ decision-maker is, and what data exists.
 generalize during deployment/test time, and why k-fold often fails in practice.
 
 *Slides:* TBD
-*Required:* [Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf) (Roberts et al., Ecography 2017).
+*Required:* 
+
+[Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf) (Roberts et al., Ecography 2017).
+
+[Recht et al., Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/abs/1902.10811). PMLR 2019
+
+[Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://jmlr.org/papers/v23/20-1335.html). JMLR 2022. 
+
 *Optional:* [Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846); [Time Series Nested Cross-Validation](https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9) (Cochrane); [The Secrets of Machine Learning](https://arxiv.org/abs/1906.01998) (Rudin & Carlson, 2019); [Big Data and Social Science](https://textbook.coleridgeinitiative.org/chap-ml.html) (Foster, Ghani et al., §7.7); [Evaluating and Comparing Classifiers](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2) (Stapor, CORES 2017).
 
 ## Model performance metrics
