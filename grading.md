@@ -35,7 +35,7 @@ The project runs the whole semester as a sequence of milestones:
 | [Submit Project Ideas](https://canvas.cmu.edu/courses/56403/assignments/1021600) | Mon Aug 31 | 2 |
 | [Project Proposal and Scope](https://canvas.cmu.edu/courses/56403/assignments/1021612) | Mon Sep 14 | 5 |
 | [3-minute Project Pitch](https://canvas.cmu.edu/courses/56403/assignments/1023717) | Tue Sep 15 | 3 |
-| [Implement Baseline(s)](https://canvas.cmu.edu/courses/56403/assignments/1023747) | Thu Oct 1 | 5 |
+| [Implement Baseline(s)](https://canvas.cmu.edu/courses/56403/assignments/1023747) | Tue Oct 6 | 5 |
 | [Project Update Presentation](https://canvas.cmu.edu/courses/56403/assignments/1023760) | Tue Oct 6 | 3 |
 | [Initial ML Solution](https://canvas.cmu.edu/courses/56403/assignments/1023752) | Tue Oct 20 | 5 |
 | [Evaluation](https://canvas.cmu.edu/courses/56403/assignments/1023754) | Thu Nov 5 | 5 |
