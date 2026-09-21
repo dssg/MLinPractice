@@ -43,6 +43,40 @@ The project runs the whole semester as a sequence of milestones:
 | [Project Presentation](https://canvas.cmu.edu/courses/56403/assignments/1023759) | Tue Dec 1 | 5 |
 | [Project Writeup and Demo](https://canvas.cmu.edu/courses/56403/assignments/1023757) | Tue Dec 8 | 10 |
 
+### How project assignments are scored
+
+Written project assignments are scored part by part, on a 0–3 scale:
+
+| Score | Meaning |
+| :--: | --- |
+| **3** | **Excellent.** Specific, well-reasoned, and something we'd show other teams as an example. |
+| **2** | **Good.** Meets the bar for this stage of the project. **This should be your target.** |
+| **1** | **Needs work.** There's a critical gap here that you need to fix and will matter for your project. |
+| **0** | Not submitted. |
+
+**A 2 is a good grade.** It means that part of your work does what it needs to
+do. Most work, including good work, will earn 2s.
+
+**Scores are not final until your last submission.** Each assignment builds on
+the one before it, so you revise as you go: fix a part we flagged and include the
+revision in **your next project submission**, and we'll re-score it. A 1 you fix
+becomes at least a 2, and a revision that goes meaningfully further can earn a 3.
+
+For example, revisions to the Project Proposal and Scope are submitted with
+[Implement Baseline(s)](https://canvas.cmu.edu/courses/56403/assignments/1023747),
+and revisions to Implement Baseline(s) with Initial ML Solution.
+
+**Every point can be recovered** if you make those improvements in a later
+submission. The one exception is the final
+[Project Writeup and Demo](https://canvas.cmu.edu/courses/56403/assignments/1023757):
+there's nothing after it, so its scores are final — which is one more reason to
+act on feedback from earlier assignments rather than saving it for the end.
+
+**Reasoning behind the grading scheme** Project assignments aren't tests of how well you can
+write up a milestone. They're the stages of the system you're building, and the
+gaps we flag are the ones most likely to cause problems later. We would much
+rather you fix them early than find out later on. When you read your feedback, think about *"what do we need to change?"*
+
 ## Grace days
 
 Project teams receive **4 grace days** across the semester for project deliverables, with no more than 1 per assignment. They are applied automatically to your earliest late submissions — you do not need to request them. Work submitted late once your grace days are used will lose significant credit.
