@@ -115,19 +115,15 @@ approaches, rarely "random."
 
 *Required:* 
 
-[Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf) (Obermeyer et al., Science 2019); 
-
-[Measuring the predictability of life outcomes with a scientific mass collaboration](https://www.pnas.org/doi/10.1073/pnas.1915006117) (Salganik et al PNAS 2022)
+- [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/ObermeyerBias.pdf) (Obermeyer et al., Science 2019); 
+- [Measuring the predictability of life outcomes with a scientific mass collaboration](https://www.pnas.org/doi/10.1073/pnas.1915006117) (Salganik et al PNAS 2022)
 
 *Optional:*
 
-[Problem Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf) (Passi & Barocas, FAT\* 2019).
-
-[Always Start with a Stupid Model, No Exceptions](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa) (Ameisen);
-
-[Create a Common-Sense Baseline First](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47) (Ramakrishnan); 
-
-[Data Science for Business](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html) (Provost & Fawcett, ch. 2).
+- [Problem Formulation and Fairness](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PassiFormulation.pdf) (Passi & Barocas, FAT\* 2019).
+- [Always Start with a Stupid Model, No Exceptions](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa) (Ameisen);
+- [Create a Common-Sense Baseline First](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47) (Ramakrishnan); 
+- [Data Science for Business](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html) (Provost & Fawcett, ch. 2).
 
 ## Data (Acquisition, Stoerage, Linkage, and exploration) For ML
 {: #data-exploration }
@@ -140,9 +136,9 @@ require doing data exploration?
 > from messy/unstructured data.
 
 *[Slides](https://docs.google.com/presentation/d/1nFbgKKlEoPhZn58GnFpAi7X3N5mUwQYsfFkH5QCnGEA/)*
-*Optional:* 
 
-[Can Foundation Models Wrangle Your Data?](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf) (Narayan et al., VLDB 2023).
+*Optional:* 
+- [Can Foundation Models Wrangle Your Data?](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf) (Narayan et al., VLDB 2023).
 
 *Project:* project proposal and scope due Mon Sep 14.
 
@@ -164,13 +160,17 @@ generalize during deployment/test time, and why k-fold often fails in practice.
 
 *Required:* 
 
-[Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf) (Roberts et al., Ecography 2017).
+- [Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf) (Roberts et al., Ecography 2017).
+- [Recht et al., Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/abs/1902.10811). PMLR 2019
+- [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://jmlr.org/papers/v23/20-1335.html). JMLR 2022. 
 
-[Recht et al., Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/abs/1902.10811). PMLR 2019
+*Optional:* 
 
-[Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://jmlr.org/papers/v23/20-1335.html). JMLR 2022. 
-
-*Optional:* [Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846); [Time Series Nested Cross-Validation](https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9) (Cochrane); [The Secrets of Machine Learning](https://arxiv.org/abs/1906.01998) (Rudin & Carlson, 2019); [Big Data and Social Science](https://textbook.coleridgeinitiative.org/chap-ml.html) (Foster, Ghani et al., §7.7); [Evaluating and Comparing Classifiers](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2) (Stapor, CORES 2017).
+- [Amazing Things Come From Having Many Good Models](https://arxiv.org/pdf/2407.04846)
+- [Time Series Nested Cross-Validation](https://medium.com/data-science/time-series-nested-cross-validation-76adba623eb9) (Cochrane)
+-  [The Secrets of Machine Learning](https://arxiv.org/abs/1906.01998) (Rudin & Carlson, 2019)
+-  [Big Data and Social Science](https://textbook.coleridgeinitiative.org/chap-ml.html) (Foster, Ghani et al., §7.7)
+-  [Evaluating and Comparing Classifiers](https://link.springer.com/chapter/10.1007/978-3-319-59162-9_2) (Stapor, CORES 2017).
 
 ## Model performance metrics
 {: #metrics }
@@ -184,10 +184,10 @@ constraints, calibration, and why we may need multiple metrics.
 *[Slides](https://docs.google.com/presentation/d/1yiJZwupwZtL65WIDiFT9nT1FQFvIqh0CBHTWsmjrTIY/edit?slide=id.g3fb8194da97_3_31#slide=id.g3fb8194da97_3_31)*
 
 *Required:* 
+- [The Misuse of AUC: What High-Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159) (2023).
 
-[The Misuse of AUC: What High-Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159) (2023).
-
-*Optional:* [Transductive Optimization of Top-k Precision](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf) (Liu et al., IJCAI 2016).
+*Optional:*
+- [Transductive Optimization of Top-k Precision](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf) (Liu et al., IJCAI 2016).
 
 ## Feature engineering
 {: #feature-engineering }
@@ -202,15 +202,12 @@ are common templates? How do we handle outliers and missingness without leaking?
 *Slides:* TBD
 
 *Required:* 
-
 - [Can Foundation Models Wrangle Your Data?](https://arxiv.org/abs/2205.09911)
-
 - [Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering](https://arxiv.org/abs/2305.03403)
 
 *Optional:* 
 
 - [Missing Data Conundrum](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87) (Akinfaderin)
-
 - [Feature Engineering for Machine Learning](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/) (Zhang & Casari, ch. 2)
 - [Missing-data imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) (Gelman)
 
@@ -227,7 +224,10 @@ a reasonable hyperparameter grid, why optuna is not always the right answer,
 common pitfalls, and how to avoid them.
 
 *Slides:* TBD
-*Required:* [Three Pitfalls to Avoid in Machine Learning](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf) (Riley, Nature 2019); [Top 10 ways your Machine Learning models may have leakage](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/) (Ghani et al., DSSG blog).
+
+*Required:* 
+- [Three Pitfalls to Avoid in Machine Learning](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf) (Riley, Nature 2019)
+- [Top 10 ways your Machine Learning models may have leakage](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/) (Ghani et al., DSSG blog).
 
 ## ML pipelines
 {: #pipelines }
