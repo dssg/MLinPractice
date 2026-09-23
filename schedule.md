@@ -140,7 +140,10 @@ require doing data exploration?
 > from messy/unstructured data.
 
 *[Slides](https://docs.google.com/presentation/d/1nFbgKKlEoPhZn58GnFpAi7X3N5mUwQYsfFkH5QCnGEA/)*
-*Optional:* [Can Foundation Models Wrangle Your Data?](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf) (Narayan et al., VLDB 2023).
+*Optional:* 
+
+[Can Foundation Models Wrangle Your Data?](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf) (Narayan et al., VLDB 2023).
+
 *Project:* project proposal and scope due Mon Sep 14.
 
 ## Project pitches
@@ -151,13 +154,14 @@ decision-maker is, and what data exists.
 
 *Project:* 3-minute pitch due in class (2:00pm).
 
-## Model selection (evaluation)
+## Model selection (and evaluation)
 {: #model-selection }
 
 **Thu Sep 17.** Validation strategy: how it relates to how you want the model to
 generalize during deployment/test time, and why k-fold often fails in practice.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1Fw4pOBGGffLLXgcGaKHgZXZqSifl1v3seYh784qaXpA/edit?slide=id.g3fb8194da97_3_31#slide=id.g3fb8194da97_3_31)* 
+
 *Required:* 
 
 [Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RobertsCV.pdf) (Roberts et al., Ecography 2017).
@@ -177,14 +181,18 @@ constraints, calibration, and why we may need multiple metrics.
 
 > **GenAI in practice:** What metrics do we need for GenAI systems?
 
-*Slides:* TBD
-*Required:* [The Misuse of AUC: What High-Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159) (2023).
+*[Slides](https://docs.google.com/presentation/d/1yiJZwupwZtL65WIDiFT9nT1FQFvIqh0CBHTWsmjrTIY/edit?slide=id.g3fb8194da97_3_31#slide=id.g3fb8194da97_3_31)*
+
+*Required:* 
+
+[The Misuse of AUC: What High-Impact Risk Assessment Gets Wrong](https://arxiv.org/abs/2305.18159) (2023).
+
 *Optional:* [Transductive Optimization of Top-k Precision](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/LiuTransductiveTopK.pdf) (Liu et al., IJCAI 2016).
 
 ## Feature engineering
 {: #feature-engineering }
 
-**Thu Sep 24.** Tabular data still requires serious feature engineering to
+**Thu Sep 24.** Tabular data still requires feature engineering to
 express domain knowledge through features. How do we create such features? What
 are common templates? How do we handle outliers and missingness without leaking?
 
@@ -192,8 +200,24 @@ are common templates? How do we handle outliers and missingness without leaking?
 > supervision, and embeddings.
 
 *Slides:* TBD
-*Optional:* [Missing Data Conundrum](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87) (Akinfaderin); [Feature Engineering for Machine Learning](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/) (Zhang & Casari, ch. 2); [Missing-data imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) (Gelman).
-*Optional (data infrastructure):* [Netflix's Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01); [Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087).
+
+*Required:* 
+
+- [Can Foundation Models Wrangle Your Data?](https://arxiv.org/abs/2205.09911)
+
+- [Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering](https://arxiv.org/abs/2305.03403)
+
+*Optional:* 
+
+- [Missing Data Conundrum](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87) (Akinfaderin)
+
+- [Feature Engineering for Machine Learning](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/) (Zhang & Casari, ch. 2)
+- [Missing-data imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) (Gelman)
+
+*Optional (data infrastructure)*:
+
+- [Netflix's Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+- [Real-time Data Infrastructure at Uber](https://arxiv.org/abs/2104.00087)
 
 ## ML modeling in practice & hyperparameter tuning
 {: #modeling }
