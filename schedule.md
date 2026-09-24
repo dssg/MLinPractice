@@ -238,7 +238,6 @@ common pitfalls, and how to avoid them.
 > retrieval, and tools are components you can test and swap.
 
 *Slides:* TBD
-*Project:* Implement Baseline(s) due tonight (11:59pm).
 
 ## Project update presentations
 {: #update-presentations }
@@ -246,7 +245,9 @@ common pitfalls, and how to avoid them.
 **Tue Oct 6 & Thu Oct 8.** Progress, formulation, baselines, and early results;
 structured peer feedback.
 
-*Project:* update presentation due in class (2:00pm).
+*Project:* 
+- Implement Baseline(s) due monday night
+- Update presentation due before class (2:00pm).
 
 ## Fall Break
 {: #fall-break .no_toc }
