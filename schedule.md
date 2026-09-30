@@ -30,8 +30,8 @@ Click any topic in the table to jump to its details.
 | 5 | Tue Sep 22 | [Model performance metrics](#metrics) | |
 | 5 | Thu Sep 24 | [Feature engineering](#feature-engineering) | |
 | 6 | Tue Sep 29 | [ML modeling & hyperparameter tuning](#modeling) | |
-| 6 | Thu Oct 1 | [ML pipelines](#pipelines) | Baseline(s) due |
-| 7 | Tue Oct 6 | [**Project update presentations**](#update-presentations) | Update presentation due (2pm) |
+| 6 | Thu Oct 1 | [ML pipelines](#pipelines) | |
+| 7 | Tue Oct 6 | [**Project update presentations**](#update-presentations) | Baseline(s) Assignment due (Oct 5) Update presentation due (2pm) |
 | 7 | Thu Oct 8 | [**Project update presentations**](#update-presentations) | |
 | 8 | Oct 13 / 15 | *No class — Fall Break* | |
 | 9 | Tue Oct 20 | [ML ethics](#ethics) | Initial ML solution due |
