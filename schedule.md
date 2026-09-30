@@ -34,17 +34,17 @@ Click any topic in the table to jump to its details.
 | 7 | Tue Oct 6 | [**Project update presentations**](#update-presentations) | Baseline(s) Assignment due (Oct 5) Update presentation due (2pm) |
 | 7 | Thu Oct 8 | [**Project update presentations**](#update-presentations) | |
 | 8 | Oct 13 / 15 | *No class — Fall Break* | |
-| 9 | Tue Oct 20 | [ML ethics](#ethics) | Initial ML solution due |
+| 9 | Tue Oct 20 | [ML ethics](#ethics) | |
 | 9 | Thu Oct 22 | [Building systems with foundation models](#foundation-models) | |
-| 10 | Tue Oct 27 | [Building systems with AI agents](#agents) | |
+| 10 | Tue Oct 27 | [Building systems with AI agents](#agents) | Initial ML solution due |
 | 10 | Thu Oct 29 | [Evaluation in the field](#field-evaluation) | |
 | 11 | Tue Nov 3 | *No class — Democracy Day* | |
-| 11 | Thu Nov 5 | [Evaluating GenAI systems](#evaluating-genai) | Evaluation due |
+| 11 | Thu Nov 5 | [Evaluating GenAI systems](#evaluating-genai) | |
 | 12 | Tue Nov 10 | [Causality](#causality) | |
-| 12 | Thu Nov 12 | [Distribution shift and robustness](#distribution-shift) | |
+| 12 | Thu Nov 12 | [Distribution shift and robustness](#distribution-shift) | Evaluation Assignment due|
 | 13 | Tue Nov 17 | [Uncertainty quantification](#uncertainty) | |
-| 13 | Thu Nov 19 | [Interpretability](#interpretability) | Iteration 2 due |
-| 14 | Tue Nov 24 | [Fairness](#fairness) | |
+| 13 | Thu Nov 19 | [Interpretability](#interpretability) | |
+| 14 | Tue Nov 24 | [Fairness](#fairness) | Iteration 2 due|
 | 14 | Thu Nov 26 | *No class — Thanksgiving Break* | |
 | 15 | Tue Dec 1 | [**Project presentations**](#final-presentations) | Project presentation due |
 | 15 | Thu Dec 3 | [**Project presentations**](#final-presentations) | |
@@ -275,7 +275,6 @@ downstream risks?
 *Slides:* TBD
 *Required:* [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (Loukides, Mason & Patil, O'Reilly 2018 — short)
 *Optional:* [Princeton AI Ethics Case Study 6: Public Sector Data Analysis](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf).
-*Project:* Initial ML Solution due tonight (11:59pm).
 
 ## Building systems with foundation models
 {: #foundation-models }
@@ -292,6 +291,8 @@ off-the-shelf vs. fine-tune vs. prompt; retrieval and grounding (RAG).
 practices, tools, and the reliability of agentic systems.
 
 *Slides:* TBD
+*Project:* Initial ML Solution due
+
 
 
 ## Evaluation in the field
@@ -337,6 +338,7 @@ handling shift.
 > drift as underlying models change.
 
 *Slides:* TBD
+*Assignment*: Evaluation Assignment Due
 
 
 ## Uncertainty quantification
@@ -373,6 +375,9 @@ enters the pipeline; equity auditing.
 > differs from the predictive one.
 
 *Slides:* TBD
+
+*Assignment:* Iteration 2 Due
+
 *Required:* [Fairness Definitions Explained](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf) (Verma & Rubin); revisit Obermeyer et al. (2019).
 *Optional:* [A Theory of Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf) (Rawls, 1971 — ch. 1, pp. 1–19); [Racial Equity in Algorithmic Criminal Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf) (Huq, Duke Law Journal 2018); [Is Algorithmic Affirmative Action Legal?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690) (Bent, Georgetown Law Journal 2019); [Does Mitigating ML's Impact Disparity Require Treatment Disparity?](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity) (Lipton et al., NeurIPS 2018); [Equality of Opportunity](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf) (Roemer & Trannoy, 2013).
 
