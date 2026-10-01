@@ -226,6 +226,9 @@ common pitfalls, and how to avoid them.
 *Slides:* TBD
 
 *Required:* 
+- [Optuna: A Next-generation Hyperparameter Optimization Framework]()
+- [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines]()
+*Optional:* 
 - [Three Pitfalls to Avoid in Machine Learning](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RileyPitfalls.pdf) (Riley, Nature 2019)
 - [Top 10 ways your Machine Learning models may have leakage](http://www.dssgfellowship.org/2020/01/23/top-10-ways-your-machine-learning-models-may-have-leakage/) (Ghani et al., DSSG blog).
 
@@ -239,6 +242,9 @@ common pitfalls, and how to avoid them.
 
 *Slides:* TBD
 
+- [Operationalizing Machine Learning: An Interview Study](https://arxiv.org/abs/2209.09125)
+
+- [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/)
 ## Project update presentations
 {: #update-presentations }
 
