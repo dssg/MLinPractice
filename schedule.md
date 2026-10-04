@@ -199,7 +199,7 @@ are common templates? How do we handle outliers and missingness without leaking?
 > **GenAI in practice:** LLMs for feature extraction, labeling / weak
 > supervision, and embeddings.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1iLetgr_CnrLAEmfOsIt0LloLQB1o4_i1wJMClnQt9d8/edit?slide=id.g3fb8194da97_3_31#slide=id.g3fb8194da97_3_31)* 
 
 *Required:* 
 - [Can Foundation Models Wrangle Your Data?](https://arxiv.org/abs/2205.09911)
@@ -223,7 +223,7 @@ are common templates? How do we handle outliers and missingness without leaking?
 a reasonable hyperparameter grid, why optuna is not always the right answer,
 common pitfalls, and how to avoid them.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1lk9lSF82hBNKfsRqfsRNpXr0rolRn4OesqCHZzUTRG8/edit?slide=id.g3fb8194da97_3_31#slide=id.g3fb8194da97_3_31)* 
 
 *Required:* 
 - [Optuna: A Next-generation Hyperparameter Optimization Framework]()
@@ -240,16 +240,16 @@ common pitfalls, and how to avoid them.
 > **GenAI in practice:** RAG and agent systems *are* pipelines — prompts,
 > retrieval, and tools are components you can test and swap.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1txSfffpbqC-FOwS4CILUjrUNGLZEPYtl0naVuRBWsYg/edit?slide=id.h31303607b4e9374e_1_0#slide=id.h31303607b4e9374e_1_0)*
 
 - [Operationalizing Machine Learning: An Interview Study](https://arxiv.org/abs/2209.09125)
 
 - [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/)
+- 
 ## Project update presentations
 {: #update-presentations }
 
-**Tue Oct 6 & Thu Oct 8.** Progress, formulation, baselines, and early results;
-structured peer feedback.
+**Tue Oct 6 & Thu Oct 8.** Progress, formulation, baselines, and early results; peer feedback.
 
 *Project:* 
 - Implement Baseline(s) due monday night
