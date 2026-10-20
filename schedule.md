@@ -245,7 +245,7 @@ common pitfalls, and how to avoid them.
 - [Operationalizing Machine Learning: An Interview Study](https://arxiv.org/abs/2209.09125)
 
 - [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/)
-- 
+  
 ## Project update presentations
 {: #update-presentations }
 
@@ -268,7 +268,7 @@ common pitfalls, and how to avoid them.
 Additional topics beyond building an accuracy-focused model: the modern ML
 systems you'll build (foundation models and agents) and how to evaluate them, as
 well as considerations around ethics, causality, field evaluation, robustness,
-uncertainty, interpretability, and fairness — applied to the project.
+uncertainty, interpretability, and fairness.
 
 ## ML ethics
 {: #ethics }
@@ -279,8 +279,8 @@ and what can we do at each stage that allows us to manage and reduce the
 downstream risks?
 
 *Slides:* TBD
-*Required:* [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (Loukides, Mason & Patil, O'Reilly 2018 — short)
-*Optional:* [Princeton AI Ethics Case Study 6: Public Sector Data Analysis](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf).
+- *Required:*  [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (Loukides, Mason & Patil, O'Reilly 2018 — short)
+- *Optional:* [Princeton AI Ethics Case Study 6: Public Sector Data Analysis](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf).
 
 ## Building systems with foundation models
 {: #foundation-models }
@@ -289,6 +289,9 @@ downstream risks?
 off-the-shelf vs. fine-tune vs. prompt; retrieval and grounding (RAG).
 
 *Slides:* TBD
+*Readings:*
+- BloombergGPT: A Large Language Model for Finance (link)[https://arxiv.org/abs/2303.17564]
+- Generalist Foundation Models Are Not Clinical Enough for Hospital Operations (link)[https://arxiv.org/abs/2511.13703]
 
 ## Building systems with AI agents
 {: #agents }
@@ -298,7 +301,9 @@ practices, tools, and the reliability of agentic systems.
 
 *Slides:* TBD
 *Project:* Initial ML Solution due
-
+*Readings:*
+- [Measuring Agents in Production](https://arxiv.org/abs/2512.04123)
+- [Solving the Identity Crisis for AI Agents](https://www.uber.com/us/en/blog/solving-the-agent-identity-crisis/)
 
 
 ## Evaluation in the field
@@ -312,16 +317,19 @@ quasi-experimental designs.
 
 *Slides:* TBD
 *Required:* [*A Guide to Running Randomized Controlled Trials*](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf) (IGL).
-*Recommended case:* [Breaking the Cycle of Incarceration With Targeted Mental Health Outreach](https://arxiv.org/abs/2509.14129) (Rodolfa, Salomon, … Ghani, 2025).
+*Recommended case study:* [Breaking the Cycle of Incarceration With Targeted Mental Health Outreach](https://arxiv.org/abs/2509.14129) (Rodolfa, Salomon, … Ghani, 2025).
 *Optional:* [The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174) (Athey & Imbens).
 
 ## Evaluating GenAI systems
 {: #evaluating-genai }
 
 **Thu Nov 5.** Evaluating generative systems where there may be no ground truth
-to compare against: task-specific eval sets, human evaluation, LLM-as-judge, etc.
+to compare against: task-specific evaluation sets, human evaluation, LLM-as-judge, etc.
 
 *Slides:* TBD
+*Required:*
+- [Measuring what Matters: Construct Validity in Large Language Model Benchmarks](https://arxiv.org/abs/2511.04703)
+- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf)
 
 
 ## Causality
@@ -340,7 +348,7 @@ causal inference and how to use them.
 **Thu Nov 12.** Why models degrade over time and off-distribution; detecting and
 handling shift.
 
-> **GenAI in practice:** prompt injection (incl. indirect), jailbreaks, and quiet
+> **GenAI in practice:** prompt injection, jailbreaks, and quiet
 > drift as underlying models change.
 
 *Slides:* TBD
