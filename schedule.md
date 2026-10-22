@@ -290,8 +290,8 @@ off-the-shelf vs. fine-tune vs. prompt; retrieval and grounding (RAG).
 
 *Slides:* TBD
 *Readings:*
-- BloombergGPT: A Large Language Model for Finance (link)[https://arxiv.org/abs/2303.17564]
-- Generalist Foundation Models Are Not Clinical Enough for Hospital Operations (link)[https://arxiv.org/abs/2511.13703]
+- [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+- [Generalist Foundation Models Are Not Clinical Enough for Hospital Operations](https://arxiv.org/abs/2511.13703)
 
 ## Building systems with AI agents
 {: #agents }
