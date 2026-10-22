@@ -278,7 +278,8 @@ the entire lifecycle? How do we embed these discussions throughout the lifecycle
 and what can we do at each stage that allows us to manage and reduce the
 downstream risks?
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1LRbeYD2mNnemIecijjXnX3XXoIMQA3pdj_dtH2Q5dzg/edit?usp=drive_link)* 
+
 - *Required:*  [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (Loukides, Mason & Patil, O'Reilly 2018 — short)
 - *Optional:* [Princeton AI Ethics Case Study 6: Public Sector Data Analysis](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf).
 
