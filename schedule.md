@@ -36,8 +36,8 @@ Click any topic in the table to jump to its details.
 | 8 | Oct 13 / 15 | *No class — Fall Break* | |
 | 9 | Tue Oct 20 | [ML ethics](#ethics) | |
 | 9 | Thu Oct 22 | [Building systems with foundation models](#foundation-models) | |
-| 10 | Tue Oct 27 | [Building systems with AI agents](#agents) | Initial ML solution due |
-| 10 | Thu Oct 29 | [Evaluation in the field](#field-evaluation) | |
+| 10 | Tue Oct 27 | [Building systems with AI agents](#agents) | |
+| 10 | Thu Oct 29 | [Evaluation in the field](#field-evaluation) | Initial ML solution due |
 | 11 | Tue Nov 3 | *No class — Democracy Day* | |
 | 11 | Thu Nov 5 | [Evaluating GenAI systems](#evaluating-genai) | |
 | 12 | Tue Nov 10 | [Causality](#causality) | |
