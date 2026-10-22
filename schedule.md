@@ -289,7 +289,8 @@ downstream risks?
 **Thu Oct 22.** The foundation-model paradigm: build from scratch vs. use
 off-the-shelf vs. fine-tune vs. prompt; retrieval and grounding (RAG).
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/19n6RUh0ur1hOsWVEALAYPBA5KDjQJEngSX4Q-l2WGaI/edit?usp=sharing)*
+
 *Readings:*
 - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 - [Generalist Foundation Models Are Not Clinical Enough for Hospital Operations](https://arxiv.org/abs/2511.13703)
