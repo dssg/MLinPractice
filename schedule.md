@@ -74,9 +74,9 @@ validation, metrics, features, and pipelines.
 
 *[Slides](https://docs.google.com/presentation/d/1c7kHpr79zAUB2A2RIbR1cHtXlJHbamOx5u-Y3dwfScA)*
 
-:zap: *Activity*: Assign failure modes to stages of the ML lifecycle
+⚡ *Activity*: Assign failure modes to stages of the ML lifecycle
 
-:zap: *Activity*: Case Studies for Breakout Groups:* [Case Studies](case-studies-failure.md)
+⚡ *Activity*: Case Studies for Breakout Groups:* [Case Studies](case-studies-failure.md)
 
 *Project:* team creation due Aug 28.
 
@@ -102,7 +102,7 @@ validation, metrics, features, and pipelines.
 
 *[Slides](https://docs.google.com/presentation/d/1nhrvkptOIaiNPCiGaF0bstGIVwqyRpYHtHpdUj_foIY/)*
 
-:zap: *Activity*: Scope class projects
+⚡ *Activity*: Scope class projects
 
 
 ## Analytical formulation and baselines
@@ -285,7 +285,7 @@ downstream risks?
 
 *[Slides](https://docs.google.com/presentation/d/1LRbeYD2mNnemIecijjXnX3XXoIMQA3pdj_dtH2Q5dzg/edit?usp=drive_link)* 
 
-:zap: *Activity*: Spectrum Game
+⚡ *Activity*: Spectrum Game
 
 - *Required:*  [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (Loukides, Mason & Patil, O'Reilly 2018 — short)
 - *Optional:* [Princeton AI Ethics Case Study 6: Public Sector Data Analysis](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf).
