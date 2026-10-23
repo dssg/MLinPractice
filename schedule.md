@@ -74,7 +74,9 @@ validation, metrics, features, and pipelines.
 
 *[Slides](https://docs.google.com/presentation/d/1c7kHpr79zAUB2A2RIbR1cHtXlJHbamOx5u-Y3dwfScA)*
 
-*Case Studies for Breakout Groups:* [Case Studies](case-studies-failure.md)
+:zap: *Activity*: Assign failure modes to stages of the ML lifecycle
+
+:zap: *Activity*: Case Studies for Breakout Groups:* [Case Studies](case-studies-failure.md)
 
 *Project:* team creation due Aug 28.
 
@@ -98,7 +100,10 @@ validation, metrics, features, and pipelines.
 
 **Thu Sep 3.** Students will apply scoping methodology presented in the previous session to their class project ideas, critique, and iterate.
 
-*[Slides]https://docs.google.com/presentation/d/1nhrvkptOIaiNPCiGaF0bstGIVwqyRpYHtHpdUj_foIY/)*
+*[Slides](https://docs.google.com/presentation/d/1nhrvkptOIaiNPCiGaF0bstGIVwqyRpYHtHpdUj_foIY/)*
+
+:zap: *Activity*: Scope class projects
+
 
 ## Analytical formulation and baselines
 {: #analytical-formulation-and-baselines }
@@ -125,7 +130,7 @@ approaches, rarely "random."
 - [Create a Common-Sense Baseline First](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47) (Ramakrishnan); 
 - [Data Science for Business](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html) (Provost & Fawcett, ch. 2).
 
-## Data (Acquisition, Stoerage, Linkage, and exploration) For ML
+## Data (Acquisition, Storage, Linkage, and exploration) For ML
 {: #data-exploration }
 
 **Thu Sep 10.** Data exploration in the context of ML systems. How does data
@@ -279,6 +284,8 @@ and what can we do at each stage that allows us to manage and reduce the
 downstream risks?
 
 *[Slides](https://docs.google.com/presentation/d/1LRbeYD2mNnemIecijjXnX3XXoIMQA3pdj_dtH2Q5dzg/edit?usp=drive_link)* 
+
+:zap: *Activity*: Spectrum Game
 
 - *Required:*  [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/?ar) (Loukides, Mason & Patil, O'Reilly 2018 — short)
 - *Optional:* [Princeton AI Ethics Case Study 6: Public Sector Data Analysis](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/Princeton-AI-Ethics-Case-Study-6.pdf).
