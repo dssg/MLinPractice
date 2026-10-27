@@ -308,8 +308,10 @@ off-the-shelf vs. fine-tune vs. prompt; retrieval and grounding (RAG).
 **Tue Oct 27.** When multi-step / agentic designs (tool use, planning) help, best
 practices, tools, and the reliability of agentic systems.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1Z2NjWmLfT7C5mo9eaiT4-ZmeQfiOwF0oTy330Ol67fw/edit?slide=id.h39d01db40a89f871_3_30#slide=id.h39d01db40a89f871_3_30)* 
+
 *Project:* Initial ML Solution due
+
 *Readings:*
 - [Measuring Agents in Production](https://arxiv.org/abs/2512.04123)
 - [Solving the Identity Crisis for AI Agents](https://www.uber.com/us/en/blog/solving-the-agent-identity-crisis/)
@@ -326,8 +328,9 @@ quasi-experimental designs.
 
 *Slides:* TBD
 *Required:* [*A Guide to Running Randomized Controlled Trials*](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf) (IGL).
-*Recommended case study:* [Breaking the Cycle of Incarceration With Targeted Mental Health Outreach](https://arxiv.org/abs/2509.14129) (Rodolfa, Salomon, … Ghani, 2025).
-*Optional:* [The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174) (Athey & Imbens).
+
+- *Recommended case study:* [Breaking the Cycle of Incarceration With Targeted Mental Health Outreach](https://arxiv.org/abs/2509.14129) (Rodolfa, Salomon, … Ghani, 2025).
+- *Optional:* [The Econometrics of Randomized Experiments](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S2214658X16300174) (Athey & Imbens).
 
 ## Evaluating GenAI systems
 {: #evaluating-genai }
