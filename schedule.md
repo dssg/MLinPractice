@@ -41,10 +41,10 @@ Click any topic in the table to jump to its details.
 | 11 | Tue Nov 3 | *No class — Democracy Day* | |
 | 11 | Thu Nov 5 | [Evaluating GenAI systems](#evaluating-genai) | |
 | 12 | Tue Nov 10 | [Causality](#causality) | |
-| 12 | Thu Nov 12 | [Distribution shift and robustness](#distribution-shift) | Evaluation Assignment due|
+| 12 | Thu Nov 12 | [Distribution shift and robustness](#distribution-shift) | |
 | 13 | Tue Nov 17 | [Uncertainty quantification](#uncertainty) | |
-| 13 | Thu Nov 19 | [Interpretability](#interpretability) | |
-| 14 | Tue Nov 24 | [Fairness](#fairness) | Iteration 2 due|
+| 13 | Thu Nov 19 | [Interpretability](#interpretability) | Evaluation Assignment due (including any fixes) |
+| 14 | Tue Nov 24 | [Fairness](#fairness) | |
 | 14 | Thu Nov 26 | *No class — Thanksgiving Break* | |
 | 15 | Tue Dec 1 | [**Project presentations**](#final-presentations) | Project presentation due |
 | 15 | Thu Dec 3 | [**Project presentations**](#final-presentations) | |
