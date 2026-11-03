@@ -389,6 +389,10 @@ handling shift.
 
 **Tue Nov 17.** Distinguishing types of uncertainty; estimating, interpreting,
 and communicating them to decision-makers.
+- Distinguishing between different types of uncertainty (aleatoric, epistemic, systemic, social).
+- Implementing and interpreting basic techniques for quantifying model uncertainty.
+- Communicating uncertainty effectively to decision-makers.
+- Evaluating whether an ML system is robust and trustworthy in the face of uncertainty.
 
 > **GenAI in practice:** calibration and abstention.
 
