@@ -363,11 +363,11 @@ causal inference and how to use them.
 ## Distribution shift and robustness
 {: #distribution-shift }
 
-**Thu Nov 12.** Why models degrade over time and off-distribution; detecting and
+**Thu Nov 12.** How and Why models degrade over time; detecting and
 handling shift.
 
 > **GenAI in practice:** prompt injection, jailbreaks, and quiet
-> drift as underlying models change.
+> drift as underlying models change. How different LLM versions change over time?
 
 *Slides:* TBD
 *Assignment*: Evaluation Assignment Due
