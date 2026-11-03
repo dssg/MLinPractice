@@ -351,7 +351,13 @@ to compare against: task-specific evaluation sets, human evaluation, LLM-as-judg
 causal inference and how to use them.
 
 *Slides:* TBD
-*Required:* [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf) (Pearl, CACM 2019).
+
+
+*Required:* 
+- [Retention Futility: Targeting High-Risk Customers Might be Ineffective](https://www.hbs.edu/ris/Publication%20Files/ascarza_jmr_18_783d54d4-e548-41ed-b1d7-8a180f1ae85a.pdf)
+
+- [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/PearlCausality.pdf) (Pearl, CACM 2019).
+  
 *Optional:* [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference) (Peters et al., MIT Press — ch. 1–2).
 
 ## Distribution shift and robustness
