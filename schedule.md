@@ -398,6 +398,13 @@ and communicating them to decision-makers.
 
 *Slides:* TBD
 
+*Required:*
+- [Know Your Limits: A Survey of Abstention in Large Language Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00754/131566/Know-Your-Limits-A-Survey-of-Abstention-in-Large)
+- [Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman](https://arxiv.org/pdf/1910.09457.pdf)
+
+*Optional:*
+- [Reexamining the Aleatoric and Epistemic Uncertainty Dichotomy](https://iclr-blogposts.github.io/2025/blog/reexamining-the-aleatoric-and-epistemic-uncertainty-dichotomy/)
+
 
 ## Interpretability
 {: #interpretability }
@@ -410,7 +417,6 @@ user and use case.
 
 *Slides:* TBD
 *Required:* [Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/AmarasingheExplainable.pdf) (Amarasinghe et al., 2020); [Benchmarking and Survey of Explanation Methods for Black Box Models](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf) (Bodria et al., 2021).
-*Project:* Iteration 2 due Thu Nov 19 — add one component from Module 2.
 
 ## Fairness
 {: #fairness }
@@ -422,8 +428,6 @@ enters the pipeline; equity auditing.
 > differs from the predictive one.
 
 *Slides:* TBD
-
-*Assignment:* Iteration 2 Due
 
 *Required:* [Fairness Definitions Explained](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf) (Verma & Rubin); revisit Obermeyer et al. (2019).
 *Optional:* [A Theory of Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf) (Rawls, 1971 — ch. 1, pp. 1–19); [Racial Equity in Algorithmic Criminal Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf) (Huq, Duke Law Journal 2018); [Is Algorithmic Affirmative Action Legal?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690) (Bent, Georgetown Law Journal 2019); [Does Mitigating ML's Impact Disparity Require Treatment Disparity?](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity) (Lipton et al., NeurIPS 2018); [Equality of Opportunity](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf) (Roemer & Trannoy, 2013).
