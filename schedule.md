@@ -370,6 +370,17 @@ handling shift.
 > drift as underlying models change. How different LLM versions change over time?
 
 *Slides:* TBD
+
+*Required:* 
+
+- [Data Distribution Shifts and Monitoring](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html)
+- [Temporal quality degradation in AI models](https://www.nature.com/articles/s41598-022-15245-z)
+
+
+*Optional:*
+  - [Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection](https://proceedings.neurips.cc/paper_files/paper/2021/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
+  - [In Search of Lost Domain Generalization](https://openreview.net/pdf?id=lQdXeXDoWtI)
+
 *Assignment*: Evaluation Assignment Due
 
 
