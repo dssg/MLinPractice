@@ -326,7 +326,8 @@ quasi-experimental designs.
 > **GenAI in practice:** the offline→online gap — a system that looks good on an
 > eval set can still fail on the real decision it supports.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1lGbGMoWgKsVwLy7EDag0WNlvd5JdBAOskS3LGc0N7zA/edit?slide=id.h29b18fd66f6ac377_3_28#slide=id.h29b18fd66f6ac377_3_28)*
+
 *Required:* [*A Guide to Running Randomized Controlled Trials*](https://media.nesta.org.uk/documents/a_guide_to_rcts_-_igl_09aKzWa.pdf) (IGL).
 
 - *Recommended case study:* [Breaking the Cycle of Incarceration With Targeted Mental Health Outreach](https://arxiv.org/abs/2509.14129) (Rodolfa, Salomon, … Ghani, 2025).
