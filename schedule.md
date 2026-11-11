@@ -339,7 +339,8 @@ quasi-experimental designs.
 **Thu Nov 5.** Evaluating generative systems where there may be no ground truth
 to compare against: task-specific evaluation sets, human evaluation, LLM-as-judge, etc.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1ZhG4I30qR5t1Rffd1h2TwU_OkqInuoVzdk_jJSBFlyQ/edit?slide=id.h29b18fd66f6ac377_3_28#slide=id.h29b18fd66f6ac377_3_28)*
+
 *Required:*
 - [Measuring what Matters: Construct Validity in Large Language Model Benchmarks](https://arxiv.org/abs/2511.04703)
 - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf)
@@ -351,7 +352,7 @@ to compare against: task-specific evaluation sets, human evaluation, LLM-as-judg
 **Tue Nov 10.** The intersection between ML and causal inference. The tools of
 causal inference and how to use them.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1alnojMcuM3TCWftFuArRYMXsc7Z5wN8O5C3WnjiZyoM/edit)*
 
 
 *Required:* 
