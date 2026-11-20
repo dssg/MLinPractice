@@ -421,6 +421,9 @@ user and use case.
 
 *Required:* 
 - [Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/AmarasingheExplainable.pdf) (Amarasinghe et al., 2020)
+- [The Dead Salmons of AI Interpretability](https://arxiv.org/abs/2512.18792)
+
+*Optional:* 
 - [Benchmarking and Survey of Explanation Methods for Black Box Models](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf) (Bodria et al., 2021).
 
 ## Fairness
