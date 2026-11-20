@@ -371,7 +371,7 @@ handling shift.
 > **GenAI in practice:** prompt injection, jailbreaks, and quiet
 > drift as underlying models change. How different LLM versions change over time?
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1oCychzcVu0HXlmj12fy-r3DsP8f21SlN-_hCLAJngx4/edit)*
 
 *Required:* 
 
@@ -398,7 +398,7 @@ and communicating them to decision-makers.
 
 > **GenAI in practice:** calibration and abstention.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/17QfmyPa2RAfpjudc9SDo2cnDQWvBP7e3SlXBIYiT1DI/edit)*
 
 *Required:*
 - [Know Your Limits: A Survey of Abstention in Large Language Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00754/131566/Know-Your-Limits-A-Survey-of-Abstention-in-Large)
@@ -417,8 +417,11 @@ user and use case.
 > **GenAI in practice:** tracing and grounding an answer to its sources, rather
 > than feature-importance-style explanation.
 
-*Slides:* TBD
-*Required:* [Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/AmarasingheExplainable.pdf) (Amarasinghe et al., 2020); [Benchmarking and Survey of Explanation Methods for Black Box Models](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf) (Bodria et al., 2021).
+*[Slides](https://docs.google.com/presentation/d/1RWzYzD-WZKVzvLOauY63Tf7SdvZVonrvCCc-emMavgM/edit)*
+
+*Required:* 
+- [Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/AmarasingheExplainable.pdf) (Amarasinghe et al., 2020)
+- [Benchmarking and Survey of Explanation Methods for Black Box Models](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/BodriaExplainable.pdf) (Bodria et al., 2021).
 
 ## Fairness
 {: #fairness }
