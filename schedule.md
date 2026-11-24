@@ -429,8 +429,7 @@ user and use case.
 ## Fairness
 {: #fairness }
 
-**Tue Nov 24.** Definitions of fairness and their incompatibilities; where bias
-enters the pipeline; equity auditing.
+**Tue Nov 24.** Definitions of fairness and their incompatibilities; Common misconceptions about fairness and ML in the real world; how  bias enters the pipeline; fairness auditing and mitigation.
 
 > **GenAI in practice:** bias evaluations for LLMs and how the generative case
 > differs from the predictive one.
