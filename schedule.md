@@ -435,10 +435,20 @@ enters the pipeline; equity auditing.
 > **GenAI in practice:** bias evaluations for LLMs and how the generative case
 > differs from the predictive one.
 
-*Slides:* TBD
+*[Slides](https://docs.google.com/presentation/d/1DQZOvqtfBIeyU2wC3HipcMGi6cF66iktIpnovyVTl0I/edit?slide=id.h6a873d63c2617e_3_80#slide=id.h6a873d63c2617e_3_80)*
 
-*Required:* [Fairness Definitions Explained](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf) (Verma & Rubin); revisit Obermeyer et al. (2019).
-*Optional:* [A Theory of Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf) (Rawls, 1971 — ch. 1, pp. 1–19); [Racial Equity in Algorithmic Criminal Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf) (Huq, Duke Law Journal 2018); [Is Algorithmic Affirmative Action Legal?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690) (Bent, Georgetown Law Journal 2019); [Does Mitigating ML's Impact Disparity Require Treatment Disparity?](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity) (Lipton et al., NeurIPS 2018); [Equality of Opportunity](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf) (Roemer & Trannoy, 2013).
+*Required:* 
+
+- [Fairness Definitions Explained](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/VermaFairnessDefn.pdf) (Verma & Rubin); revisit Obermeyer et al. (2019).
+- Empirical observation of negligible fairness–accuracy trade-offs in machine learning for public policy,
+- Dialect prejudice predicts AI decisions about people’s character, employability, and criminality,”
+
+*Optional:* 
+- [A Theory of Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/RawlsJustice.pdf) (Rawls, 1971 — ch. 1, pp. 1–19)
+- [Racial Equity in Algorithmic Criminal Justice](https://github.com/dssg/MLinPractice/blob/main/Readings/PDF/HuqRacialEquity.pdf) (Huq, Duke Law Journal 2018)
+- [Is Algorithmic Affirmative Action Legal?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372690) (Bent, Georgetown Law Journal 2019)
+- [Does Mitigating ML's Impact Disparity Require Treatment Disparity?](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity) (Lipton et al., NeurIPS 2018)
+-  [Equality of Opportunity](http://cowles.yale.edu/sites/default/files/files/pub/d19/d1921.pdf) (Roemer & Trannoy, 2013).
 
 ## Project presentations
 {: #final-presentations }
